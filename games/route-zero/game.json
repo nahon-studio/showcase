@@ -1,0 +1,209 @@
+{
+  "id": "route-zero",
+  "title": "LASTLIGHT EXPRESS",
+  "heroTitle": "LASTLIGHT\nEXPRESS",
+  "tagline": "다음 역까지, 함께 살아남아라.",
+  "description": "라스트라이트 익스프레스. 기차를 타고 고립된 역을 탐험하는 협동 생존 모험. 2~6인 팀으로 퍼즐을 풀고 물자를 모아, 출발 전에 열차로 돌아오세요. 현재 공개 베타로 플레이할 수 있습니다.",
+  "genre": "SURVIVAL · CO-OP ADVENTURE",
+  "status": "released",
+  "featured": true,
+  "demo": false,
+  "banner": "games/route-zero/banner.webp",
+  "bannerTextPosition": "bottom-left",
+  "bannerFocus": { "x": 60, "y": 55 },
+  "bannerAlt": "산악 철도의 역에서 보급 상자를 든 블록형 탐험가들이 터널로 향하는 열차에 올라타는 공식 키 아트",
+  "cover": "games/route-zero/cover.webp",
+  "platforms": [
+    {
+      "type": "roblox",
+      "url": "https://www.roblox.com/games/115115985191920/LASTLIGHT-EXPRESS"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "games/route-zero/gallery-20261019-station.webp",
+      "alt": "LASTLIGHT EXPRESS 중앙역의 세 승강장, 출발 전광판, 훈련 상자와 캐릭터",
+      "caption": "중앙역 · 출발 전광판을 살피고 직업과 승강장을 선택해 원정을 준비하세요."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-platforms.webp",
+      "alt": "세 승강장의 팀 인원과 탑승 상태, 팀 정원 선택을 보여 주는 원정 승차권",
+      "caption": "승강장·팀 구성 · 팀별 인원과 탑승 상태를 확인하고 2~6인 정원을 선택합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-roles.webp",
+      "alt": "정비사, 의무병, 정찰자, 운반꾼의 무료 직업 선택 화면",
+      "caption": "무료 직업 · 수리·치료·탐지·운반 중 동료와 나눠 맡을 역할을 고르세요."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-train-ballot.webp",
+      "alt": "증기기관차와 도시철도, 고속열차 후보가 표시된 열차 외형 선택 화면",
+      "caption": "열차 외형 선택 · 보유한 열차를 후보로 올리고 팀이 탈 외형을 투표합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-wardrobe-captain.webp",
+      "alt": "3D 기장 의상 미리보기와 의상 목록을 보여 주는 승무원 옷장",
+      "caption": "승무원 옷장 · 기장 의상을 3D로 둘러보세요. 의상은 능력치를 바꾸지 않습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-wardrobe-engineer.webp",
+      "alt": "정비사 작업복의 3D 미리보기와 역할별 의상 목록",
+      "caption": "정비사 스타일 · 역할별 의상과 색상을 미리 보고 원정대의 분위기를 꾸미세요."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-shop.webp",
+      "alt": "운행증과 EX 잔액, 열차 가격 및 속도 효과를 비교하는 역 구내 상점",
+      "caption": "역 구내 상점 · 상품 가격과 장착 효과를 비교합니다. Studio 테스트 지갑이며 실제 결제 화면이 아닙니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-skyway.webp",
+      "alt": "증기 열차가 공중 철교를 달리며 빛의 터널로 향하는 인게임 이동 컷씬",
+      "caption": "공중 철교 · 다음 역의 임무를 미리 확인하며 구름 위 철길을 건너갑니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-cabin.webp",
+      "alt": "열차 객실 내부에서 캐릭터와 좌석, 창밖을 볼 수 있는 일반 플레이 카메라",
+      "caption": "객실 안에서 · 이동 연출을 건너뛴 뒤에는 객실 안의 캐릭터와 주변을 볼 수 있습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-garden.webp",
+      "alt": "새벽 온실의 관수 밸브 퍼즐, 목표 각도와 날씨 노출 경고를 보여 주는 플레이 화면",
+      "caption": "새벽 온실 · 밸브의 목표 숫자를 맞춰 관수를 복구하세요. 안개가 짙어지면 안전 구역에서 쉬어 갑니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-mission-guide.webp",
+      "alt": "관수 밸브, 작물 수확, 식량 조리의 단계별 목표와 조작법이 적힌 원정 수첩",
+      "caption": "단계별 임무 안내 · 지금 할 일, 남은 작업, 장치 사용법을 원정 수첩에서 확인합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-bridge.webp",
+      "alt": "교량 복구 구역에 도착한 캐릭터와 시설 복구 임무 HUD",
+      "caption": "교량 복구 · 온실과 다른 시설 작업에 도전하고 진행 상황을 팀과 공유합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-flood.webp",
+      "alt": "수문과 배수 시설이 있는 구역에서 펌프 작업을 진행하는 캐릭터",
+      "caption": "수문·배수 시설 · 지역 장치를 순서대로 다루고 침수된 역의 기능을 되살리세요."
+    },
+    {
+      "src": "games/route-zero/screenshot-03.webp",
+      "alt": "구름 도서관에서 기록 타일 퍼즐을 진행하는 캐릭터와 임무 안내 화면",
+      "caption": "구름 도서관 · 기록의 순서를 찾아 타일을 복원하는 퍼즐입니다."
+    },
+    {
+      "src": "games/route-zero/screenshot-04.webp",
+      "alt": "달빛 약초원에서 처방에 맞는 약초를 찾는 캐릭터와 진행 안내 화면",
+      "caption": "달빛 약초원 · 처방을 확인하고 필요한 약초를 골라 조제하세요."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-equipment-vote.webp",
+      "alt": "예비 축전지, 확장 화물함, 방풍 망토 중 다음 역 장비를 고르는 투표 화면",
+      "caption": "원정 장비 투표 · 연료 절약, 운반량, 날씨 대응 중 다음 역에 필요한 장비를 함께 고릅니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-route-map.webp",
+      "alt": "이번 여정의 정거장과 권역, 정차 시간을 보여 주는 원정 수첩 노선 지도",
+      "caption": "노선·권역 지도 · 이번 원정의 정거장과 활동 시간을 미리 살펴보세요. 촬영 장면은 1역 연습 운행입니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-team-pings.webp",
+      "alt": "여기로 와요, 도움이 필요해요, 열차로 복귀의 세 가지 팀 핑 버튼",
+      "caption": "팀 핑 · 긴 채팅 없이 집결·도움 요청·열차 귀환을 동료에게 알릴 수 있습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-return-warning.webp",
+      "alt": "미완료 임무의 귀환 단계에서 붉은 제한시간과 열차 복귀 안내가 표시된 플레이 HUD",
+      "caption": "귀환 시간 · 작업이 남아 있어도 경적이 울리면 열차로 돌아가세요. 남은 시간과 복귀 방향을 HUD로 확인합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-practice-summary.webp",
+      "alt": "완료 5역과 부분 완료 1역, 개인 기여 및 재화 지급 없음이 표시된 연습 운행 결과",
+      "caption": "연습 원정 정산 · 완료·부분 완료한 역과 개인 기여를 돌아봅니다. 이 연습 운행에는 재화·승리 기록이 지급되지 않습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-mission-clear.webp",
+      "alt": "새벽의 등대 임무를 마친 캐릭터 주변에 빛의 원이 펼쳐지는 일반 플레이 화면",
+      "caption": "임무 완료 · 등대 복원을 마치면 캐릭터 주변으로 빛이 퍼집니다. 완료 뒤에도 열차 귀환은 잊지 마세요."
+    },
+    {
+      "src": "games/route-zero/screenshot-05.webp",
+      "alt": "새벽의 등대 위에 여섯 기억의 빛이 연결되는 게임 내 특별 연출",
+      "caption": "새벽의 등대 · 지나온 여정을 빛으로 잇는 피날레. 개발 빌드 연출 화면입니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-field-guide.webp",
+      "alt": "각 역에서 3~5분의 모험과 공동 보급, 마지막 장치 사용법을 설명하는 플레이 안내",
+      "caption": "플레이 안내 · 협동 작업과 임무 완료 방법을 게임 안에서도 다시 읽을 수 있습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-settings-display.webp",
+      "alt": "언어, 로딩 배경, 컷씬, 피날레, 움직임 줄이기와 대비를 조절하는 설정 화면",
+      "caption": "화면·편의 설정 · 언어와 연출을 고르고 움직임 줄이기·HUD 대비·이펙트 품질을 조절하세요."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-settings-keyboard.webp",
+      "alt": "마우스 감도와 상호작용, 점프, 이동, 식량 사용 키를 바꾸는 키보드 설정",
+      "caption": "키보드 설정 · 마우스 감도와 자주 쓰는 행동의 키를 취향에 맞게 바꿀 수 있습니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-settings-gamepad.webp",
+      "alt": "상호작용, 식량, 승차권, 옵션, 역할 행동의 패드 버튼을 보여 주는 컨트롤러 설정",
+      "caption": "컨트롤러 설정 · 패드 버튼을 확인·변경하고 방향키와 확인·뒤로 버튼으로 메뉴를 다룹니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-settings-audio.webp",
+      "alt": "전체 음량, 배경 음악, 열차 효과음, 귀환 경보와 메뉴 조작음의 개별 음량 조절",
+      "caption": "소리 설정 · 음악과 열차·환경음, 귀환 알림, 메뉴 조작음을 각각 조절합니다."
+    },
+    {
+      "src": "games/route-zero/gallery-20261019-phone-guide.webp",
+      "alt": "가로 휴대전화 화면에 맞춰 표시된 임무 수첩과 귀환 안내",
+      "caption": "휴대전화 UI · 작은 화면에서도 수첩으로 목표를 확인합니다. Studio 휴대전화 시뮬레이터 촬영입니다."
+    },
+    {
+      "src": "games/route-zero/screenshot-01-lastlight.webp",
+      "alt": "LASTLIGHT EXPRESS 로고와 낮의 공식 기차 키 아트를 보여 주는 실제 게임 로딩 화면",
+      "caption": "밝은 하늘 로딩 · LASTLIGHT EXPRESS 로고와 공식 키 아트가 여정을 엽니다."
+    },
+    {
+      "src": "games/route-zero/screenshot-02-lastlight.webp",
+      "alt": "LASTLIGHT EXPRESS 로고와 밤의 기차 키 아트를 보여 주는 다음 역 이동 대기 화면",
+      "caption": "밤의 이동 대기 · 다음 역을 준비하는 로딩 UI. 배경은 공식 키 아트입니다."
+    }
+  ],
+  "about": [
+    "폭풍으로 끊긴 철길 너머에는 아직 귀환을 기다리는 사람들이 있습니다. 중앙역에서 직업을 고르고 동료와 열차에 올라, 고립된 역의 시설과 보급로를 복구하세요. 마지막 등대를 밝히는 순간, 지나온 여정이 하나의 노선으로 이어집니다.",
+    "한 번의 원정은 18개 목적지 중 6곳을 잇습니다. 각 역에서 주어지는 시간은 3~5분. 식량을 구하고, 신호와 기록을 해독하고, 교량을 복구하거나 수문을 제어하는 등 지역마다 다른 방법으로 임무를 해결합니다. 작업을 나눠 맡거나 혼자 남아도 수행할 수 있도록 구성했습니다.",
+    "팀마다 자신의 열차로 이동하며 생존과 원정 성과를 겨룹니다. 모든 임무를 끝내지 못해도 확보한 물자와 출발 조건을 확인해 다음 역을 노릴 수 있습니다. 떠나는 열차를 놓치지 않도록 경적과 귀환 안내를 살피세요.",
+    "증기기관차부터 전철과 고속열차까지 다양한 열차와 역할 의상으로 원정대를 꾸밀 수 있습니다. 현재 Roblox 공개 베타이며, 혼자 익히는 연습 운행도 제공합니다. 갤러리에서 중앙역·임무·귀환·꾸미기·조작 설정을 살펴보세요. 배너와 표지는 공식 키 아트이며, 갤러리는 실제 게임 엔진에서 촬영한 개발 빌드 화면입니다. 상점 잔액은 Studio 테스트 지갑이며, 연습 운행은 재화·승리 기록을 지급하지 않습니다. 별도 연출 화면과 휴대전화 시뮬레이터 촬영은 각 설명에 표시했습니다."
+  ],
+  "features": [
+    "팀당 2~6인, 최대 3팀이 함께하는 열차 생존 모험",
+    "18개 목적지와 역당 3~5분의 활동을 조합하는 6역 원정",
+    "식량 확보·기록 해독·교량 복구·수문 제어 등 다양한 협동 미션",
+    "혼자 남아도 풀 수 있는 퍼즐과 부분 완료를 반영하는 귀환·정산",
+    "직업 선택·원정 장비 투표·다양한 열차와 캐릭터 꾸미기",
+    "철교·터널 이동 연출, 노선 공명과 등대 피날레",
+    "키보드·마우스·컨트롤러·터치 조작 및 6개 언어 지원"
+  ],
+  "developer": "NAHON Studio",
+  "releaseDate": "2026년 10월 13일 · 공개 베타",
+  "players": "온라인 협동·경쟁 · 팀당 2~6인 / 혼자 연습 가능",
+  "languages": [
+    "한국어",
+    "English",
+    "日本語",
+    "Español",
+    "简体中文",
+    "Français"
+  ],
+  "tags": [
+    "공개 베타",
+    "Roblox",
+    "생존",
+    "협동",
+    "퍼즐",
+    "열차 모험"
+  ],
+  "videos": []
+}

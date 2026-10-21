@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f5f1">
+  <meta name="description" content="작은 상상에서 시작되는 새로운 즐거움. NAHON Studio의 Steam과 모바일 게임을 만나보세요.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="NAHON Studio — 작은 상상, 새로운 세계">
+  <meta property="og:description" content="NAHON Studio의 Steam·모바일 게임과 새로운 이야기를 만나보세요.">
+  <title>NAHON Studio — 작은 상상, 새로운 세계</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32.png">
+  <link rel="icon" href="./assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="./styles.css?v=fe8b3f80">
+  <script src="./shared.js?v=e2d62107" defer></script>
+  <script src="./app.js?v=505ad322" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#games">게임 목록으로 건너뛰기</a>
+  <header class="site-header wrap">
+    <a class="brand" href="#" aria-label="NAHON Studio 홈">
+      <picture>
+        <source srcset="./assets/nahon-a1-light-still.png" media="(prefers-reduced-motion: reduce)">
+        <img class="brand-logo" src="./assets/nahon-a1-light-loop.gif" alt="NAHON STUDIO" width="800" height="450" fetchpriority="high">
+      </picture>
+    </a>
+    <nav aria-label="메인 메뉴">
+      <a class="nav-link" href="#games">Games</a>
+      <a class="nav-link" href="#studio">Studio</a>
+      <a class="nav-explore" href="#games">새로운 세계 만나기 <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main>
+    <h1 class="sr-only">NAHON Studio 게임</h1>
+
+    <section class="showcase wrap" aria-label="게임 배너" aria-roledescription="캐러셀" tabindex="0">
+      <div id="slides" class="slides"><div class="loading-state">새로운 세계를 불러오는 중입니다.</div></div>
+      <button id="slide-prev-side" class="carousel-arrow carousel-arrow-prev" type="button" data-slide-step="-1" aria-label="이전 게임 배너 (왼쪽)" aria-controls="slides" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 5-7 7 7 7"/></svg></button>
+      <button id="slide-next-side" class="carousel-arrow carousel-arrow-next" type="button" data-slide-step="1" aria-label="다음 게임 배너 (오른쪽)" aria-controls="slides" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9.5 5 7 7-7 7"/></svg></button>
+      <div class="hero-controls" id="hero-controls" hidden>
+        <div class="slide-tabs" id="slide-tabs" role="group" aria-label="배너 선택"></div>
+        <div class="slide-actions">
+          <button id="autoplay" class="round-button pause-button" type="button" aria-label="배너 자동 재생 일시정지"><span aria-hidden="true">Ⅱ</span></button>
+          <span class="slide-count"><span id="slide-current">01</span><span class="count-divider">/</span><span id="slide-total">01</span></span>
+          <button id="slide-prev" class="round-button" type="button" data-slide-step="-1" aria-label="이전 게임 배너">←</button>
+          <button id="slide-next" class="round-button" type="button" data-slide-step="1" aria-label="다음 게임 배너">→</button>
+        </div>
+      </div>
+      <span id="slide-announcement" class="sr-only" role="status" aria-live="polite"></span>
+    </section>
+
+    <div class="platform-strip wrap" aria-label="지원 플랫폼">
+      <span>BIG ADVENTURES. ANY SCREEN.</span>
+      <div><span data-platform-icon="steam"></span><span data-platform-icon="stove"></span><span class="strip-divider"></span><span data-platform-icon="app-store"></span><span data-platform-icon="google-play"></span><span data-platform-icon="roblox"></span></div>
+    </div>
+
+    <section id="games" class="games-section wrap" aria-labelledby="games-title">
+      <div class="section-heading">
+        <div><div class="eyebrow section-label">OUR GAMES <span class="label-line"></span></div><h2 id="games-title">어떤 세계로 떠나볼까요<span class="orange-text">?</span></h2></div>
+        <div class="filters" role="group" aria-label="게임 플랫폼 필터">
+          <button class="filter active" type="button" data-filter="all" aria-pressed="true">전체 <span id="game-count">0</span></button>
+          <button class="filter" type="button" data-filter="pc" aria-pressed="false">PC</button>
+          <button class="filter" type="button" data-filter="stove" aria-pressed="false">STOVE</button>
+          <button class="filter" type="button" data-filter="android" aria-pressed="false">Android</button>
+          <button class="filter" type="button" data-filter="ios" aria-pressed="false">iOS</button>
+          <button class="filter" type="button" data-filter="roblox" aria-pressed="false">Roblox</button>
+        </div>
+      </div>
+      <p id="demo-note" class="demo-note" hidden>‘예시 프로젝트’로 표시된 게임은 페이지 구성을 보여주는 샘플입니다.</p>
+      <div id="game-grid" class="game-grid" aria-live="polite" aria-busy="true"></div>
+      <div id="content-error" class="content-error" role="alert" hidden>게임 정보를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요. <button type="button" id="retry">다시 불러오기 ↻</button></div>
+      <noscript><p class="content-error">게임 소개를 보려면 브라우저의 JavaScript를 활성화해 주세요.</p></noscript>
+    </section>
+
+    <section id="studio" class="studio-section" aria-labelledby="studio-title">
+      <div class="studio-inner wrap">
+        <div class="studio-title-block"><div class="eyebrow section-label">HELLO, WE ARE NAHON <span class="orange-dot"></span></div><h2 id="studio-title">작은 아이디어가,<br>오래 남는 경험이 되도록<span class="orange-text">.</span></h2></div>
+        <div class="studio-copy"><a href="#games" class="text-link">우리의 게임 둘러보기 <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <div class="studio-wordmark wrap" aria-hidden="true">LET’S PLAY<span>↗</span></div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <a class="footer-brand" href="#" aria-label="NAHON Studio 홈">
+      <picture>
+        <source srcset="./assets/nahon-a1-light-still.png" media="(prefers-reduced-motion: reduce)">
+        <img class="brand-logo" src="./assets/nahon-a1-light-loop.gif" alt="NAHON STUDIO" width="800" height="450" loading="lazy" decoding="async">
+      </picture>
+    </a>
+    <p>© <span id="year">2026</span> NAHON Studio. All rights reserved.</p>
+    <a class="back-top" href="#">Back to top <span aria-hidden="true">↑</span></a>
+  </footer>
+
+</body>
+</html>

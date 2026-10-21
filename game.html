@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#12232c">
+  <meta name="description" content="NAHON Studio 게임의 영상, 스크린샷과 자세한 소개를 만나보세요.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="게임 소개 — NAHON Studio">
+  <meta property="og:description" content="새로운 세계를 조금 더 가까이. NAHON Studio의 게임 이야기.">
+  <title>게임 소개 — NAHON Studio</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32.png">
+  <link rel="icon" href="./assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="./styles.css?v=fe8b3f80">
+  <link rel="stylesheet" href="./game.css?v=9fd1439c">
+  <script src="./shared.js?v=e2d62107" defer></script>
+  <script src="./game.js?v=796a59ce" defer></script>
+</head>
+<body class="detail-page">
+  <a class="skip-link" href="#game-content">게임 상세 소개로 건너뛰기</a>
+  <header class="site-header wrap">
+    <a class="brand" href="./index.html" aria-label="NAHON Studio 홈">
+      <picture>
+        <source srcset="./assets/nahon-a1-dark-still.png" media="(prefers-reduced-motion: reduce)">
+        <img class="brand-logo" src="./assets/nahon-a1-dark-loop.gif" alt="NAHON STUDIO" width="800" height="450" fetchpriority="high">
+      </picture>
+    </a>
+    <nav aria-label="메인 메뉴"><a class="nav-link" href="./index.html#games">Games</a><a class="nav-link" href="./index.html#studio">Studio</a><a class="nav-explore" href="./index.html#games"><span aria-hidden="true">←</span> 모든 게임 보기</a></nav>
+  </header>
+  <main id="game-content" class="detail-main" aria-busy="true">
+    <div class="wrap detail-loading" role="status">게임 이야기를 불러오는 중입니다.</div>
+  </main>
+  <noscript><p class="wrap content-error">게임 상세 소개를 보려면 JavaScript를 활성화해 주세요. <a href="./index.html">홈으로 돌아가기</a></p></noscript>
+  <footer class="site-footer wrap">
+    <a class="footer-brand" href="./index.html" aria-label="NAHON Studio 홈">
+      <picture>
+        <source srcset="./assets/nahon-a1-dark-still.png" media="(prefers-reduced-motion: reduce)">
+        <img class="brand-logo" src="./assets/nahon-a1-dark-loop.gif" alt="NAHON STUDIO" width="800" height="450" loading="lazy" decoding="async">
+      </picture>
+    </a>
+    <p>© <span id="year">2026</span> NAHON Studio. All rights reserved.</p>
+    <a class="back-top" href="#">Back to top <span aria-hidden="true">↑</span></a>
+  </footer>
+  <dialog id="lightbox" class="gallery" aria-labelledby="lightbox-title">
+    <div class="gallery-top"><div><span class="eyebrow">SCREENSHOTS</span><h2 id="lightbox-title">게임 스크린샷</h2></div><button id="lightbox-close" class="round-button" type="button" aria-label="스크린샷 확대 닫기">✕</button></div>
+    <div class="gallery-image-wrap"><img id="lightbox-image" alt=""></div>
+    <div class="gallery-bottom"><p id="lightbox-caption"></p><div class="gallery-navigation"><button id="lightbox-prev" class="round-button" type="button" aria-label="이전 확대 이미지">←</button><span id="lightbox-count" aria-live="polite"></span><button id="lightbox-next" class="round-button" type="button" aria-label="다음 확대 이미지">→</button></div></div>
+  </dialog>
+</body>
+</html>

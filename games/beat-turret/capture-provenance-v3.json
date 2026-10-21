@@ -1,0 +1,307 @@
+{
+  "updated_on": "2026-10-19",
+  "game_version": "2.56.0",
+  "new_actual_ui_screenshots": 24,
+  "gallery_total": 29,
+  "retained_promotional_images": 4,
+  "retained_original_menu_screenshot": 1,
+  "method": "Captured from the current Godot game at 1600x900; full-frame WebP exports. No AI-generated replacement interface, compositing, HUD changes or scene retouching.",
+  "capture_scope": "A dedicated isolated capture profile was used. Combat uses the actual chart and touch-input driver with controlled audio time; the first clear, result and next backstage follow the real game handlers. Later research, equipment, city progress and calendar use explicitly injected UI fixtures. These screenshots are not evidence of normal real-time full-game QA or actual player achievements.",
+  "calendar_reference": "2026-10-19, KST, isolated simulated attendance history; no system clock changes",
+  "player_save_modified": false,
+  "capture_checks": {
+    "count": 55,
+    "failures": []
+  },
+  "capture_script": "builds/nahon-studio-screens-2026-10-19/capture_gallery.gd in the development workspace",
+  "images": [
+    {
+      "file": "screenshot-v256-title-opening.webp",
+      "source_capture": "raw/title-opening.png",
+      "bytes": 338328,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "2fe0df2a660633ce3b3410844fd8117058cbaa3b864065224cde91e155e5baac",
+      "capture_state": "current game title, initial isolated profile"
+    },
+    {
+      "file": "screenshot-v256-tutorial-tap.webp",
+      "source_capture": "raw/tutorial-tap.png",
+      "bytes": 96792,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "e46636e4e145dcacb5af932782abfeb9c95ab798b65bc548b0dd40c7b75da6a2",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-tutorial-bass.webp",
+      "source_capture": "raw/tutorial-bass.png",
+      "bytes": 102172,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "fd42a9dd1655f089de21454da7fb798d4121235237bd108bb4dca21f43e58e9c",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-combat-drum.webp",
+      "source_capture": "raw/combat-drum.png",
+      "bytes": 195816,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "9f802d34e8874f3befff93df3b1945640e4ba45254a88cdeb7aa2af8719f0696",
+      "capture_state": "actual chart input, controlled audio clock"
+    },
+    {
+      "file": "screenshot-v256-combat-scratch.webp",
+      "source_capture": "raw/combat-scratch.png",
+      "bytes": 205930,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "5f78c0bc9d6ab606925ae02f193c392b8f7bee8f6f885312a6defb2541f0c3b0",
+      "capture_state": "actual chart input, controlled audio clock"
+    },
+    {
+      "file": "screenshot-v256-combat-boss.webp",
+      "source_capture": "raw/combat-boss.png",
+      "bytes": 230410,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "deb8052e11937ac9bca4bf308cb1909fa118e58937d7eacbe4acde63a95dccb4",
+      "capture_state": "actual chart input, controlled audio clock"
+    },
+    {
+      "file": "screenshot-v256-combat-bass.webp",
+      "source_capture": "raw/combat-bass.png",
+      "bytes": 227448,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "8091b344a37c897fc2dc12151cac864e02d1913590614ff855b241795efa1d77",
+      "capture_state": "actual chart input, controlled audio clock"
+    },
+    {
+      "file": "screenshot-v256-combat-encore.webp",
+      "source_capture": "raw/combat-encore.png",
+      "bytes": 218088,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "5084d13e58b6a114436cca1029f4ae6b244bb12667b4ad9bb7da9f4e81d9a1ef",
+      "capture_state": "actual chart input, controlled audio clock"
+    },
+    {
+      "file": "screenshot-v256-performance-result.webp",
+      "source_capture": "raw/performance-result.png",
+      "bytes": 159254,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "46d402e6ecfdba5e933cdb4ce1b7c6f73bea281e47dca496f444db1907fdbd6c",
+      "capture_state": "settled actual chart-input result; controlled clock, not real-time full play"
+    },
+    {
+      "file": "screenshot-v256-backstage-prepare.webp",
+      "source_capture": "raw/backstage-prepare.png",
+      "bytes": 197954,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "b2b978e4acb67f80c48f1d4c1408c7d099a6da92000bc2e7b8bb37e80fb998ee",
+      "capture_state": "entered through actual settled result"
+    },
+    {
+      "file": "screenshot-v256-backstage-soundcheck.webp",
+      "source_capture": "raw/backstage-soundcheck.png",
+      "bytes": 192524,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "256147c876c2c27cfd9236d3ffced71cc5e67b4be73ed31c94e5919ad2f8acf1",
+      "capture_state": "actual backstage tab after settled result"
+    },
+    {
+      "file": "screenshot-v256-backstage-sequencer.webp",
+      "source_capture": "raw/backstage-sequencer.png",
+      "bytes": 202546,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "9b6982903b2aae043fc8b6dfb43fb5a26e9e69aff6297e34c344451cc299e287",
+      "capture_state": "actual backstage tab after settled result"
+    },
+    {
+      "file": "screenshot-v256-equipment-models.webp",
+      "source_capture": "raw/equipment-models.png",
+      "bytes": 218340,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "fb8c62b152afead0adf5d578f1dca98ab970a1a624fffe8aaac93d1ae11eb691",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-equipment-modules.webp",
+      "source_capture": "raw/equipment-modules.png",
+      "bytes": 207268,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "485218537bcf40e61d01e02eba7ffcb136b496309300ae907108c65d6f860fc2",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-permanent-research.webp",
+      "source_capture": "raw/permanent-research.png",
+      "bytes": 55458,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "1a08b057e8a38b064018c446a79dc1bb88ed1fda2138bdd4e25234f7c3de07a9",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-record-library.webp",
+      "source_capture": "raw/record-library.png",
+      "bytes": 73160,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "0b82ad5f9359354c5c341213e0ec0f0f6db45172e6d61a025dd11b6e2eaaff06",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-city-restoration.webp",
+      "source_capture": "raw/city-restoration.png",
+      "bytes": 160926,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "c98d1b8441081b80740dcb4a0481138ca40e0a10fe7314250c6e637314a89996",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-music-collection.webp",
+      "source_capture": "raw/music-collection.png",
+      "bytes": 116452,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "0a79ee02b0dd90f4d3c36f7192fe498befc07fbb20b1e009a20205433c436e5a",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-stage-theme.webp",
+      "source_capture": "raw/stage-theme.png",
+      "bytes": 105528,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "eae0d17342e8b051adb86dd3def45bc3c90ba966277704e5cd9536efe9ce5658",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-defense-mix.webp",
+      "source_capture": "raw/defense-mix.png",
+      "bytes": 81626,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "533b8fa9723520a87a18ef885237e7aa67e39ff3a3b5539061f7f17df3673cb0",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-attendance-calendar.webp",
+      "source_capture": "raw/attendance-calendar.png",
+      "bytes": 68938,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "279cca486864d1ccd4aa93411a6e0f99086eff3739408305a6a4b81dff858b63",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-daily-missions.webp",
+      "source_capture": "raw/daily-missions.png",
+      "bytes": 74966,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "4f328260b825ded3d94c1355d9f3fd23b4f4ec77f0551f23c48f97b87a2a584e",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-settings-accessibility.webp",
+      "source_capture": "raw/settings-accessibility.png",
+      "bytes": 53374,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "6b989d0907d2fb08a9890c01c06ac93b2bf5ed4558b4c3aaa4f9d6df6659aae6",
+      "capture_state": "isolated UI fixture"
+    },
+    {
+      "file": "screenshot-v256-settings-controls.webp",
+      "source_capture": "raw/settings-controls.png",
+      "bytes": 61206,
+      "size": [
+        1600,
+        900
+      ],
+      "webp_quality": 90,
+      "sha256": "4f899f88b8e0a73b867f0d1096edc5f551ec89f6a1c71c8ddb8a075111d90806",
+      "capture_state": "isolated UI fixture"
+    }
+  ]
+}

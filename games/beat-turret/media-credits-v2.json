@@ -1,0 +1,91 @@
+{
+  "updated_on": "2026-10-18",
+  "method": "Deterministic HTML/CSS artboards rendered in Chrome. Original game UI image regions are preserved; explanatory text and frames surround the screenshots. No generated replacement gameplay or simulated UI.",
+  "layout_source": "builds/nahon-studio-promo-2026-10-18/artboards.html and artboards.css in the Beat Turret development workspace",
+  "logo_source": "game/assets/ui_v3/logo-wide.png, original English title, transparent border trimmed for layout",
+  "font_sources": [
+    "game/assets/fonts/Orbitron-Variable.ttf (SIL OFL)",
+    "game/assets/fonts/PretendardVariable.ttf (SIL OFL)"
+  ],
+  "gameplay_source": "builds/play-release-2.56/ui/ko-combat.png",
+  "selection_source": "builds/play-release-2.56/ui/ko-menu.png",
+  "equipment_source": "game/data/equipment_models.json art_region values and game/assets/equipment_models/*.png; exact grade-1 sprite regions, 9 families and 36 total models",
+  "capture_note": "UI captures were produced with controlled QA states, not evidence of normal full-game completion. Promotional layouts are labeled as composed introductions. Original combat and menu screenshots remain in gallery.",
+  "selected_tracks": [
+    {
+      "id": "amber_signal",
+      "title": "Amber Signal",
+      "bpm": 125.0,
+      "duration_seconds": 106.2187
+    },
+    {
+      "id": "midnight_groove",
+      "title": "Midnight Groove",
+      "bpm": 123.0,
+      "duration_seconds": 117.9307
+    },
+    {
+      "id": "prism_overload",
+      "title": "Prism Overload",
+      "bpm": 146.07,
+      "duration_seconds": 109.0987
+    },
+    {
+      "id": "asphalt_crown",
+      "title": "Asphalt Crown",
+      "bpm": 92.0,
+      "duration_seconds": 171.1147
+    },
+    {
+      "id": "neon_circuit",
+      "title": "Neon Circuit",
+      "bpm": 128.03,
+      "duration_seconds": 176.2987
+    },
+    {
+      "id": "concrete_royalty",
+      "title": "Concrete Royalty",
+      "bpm": 100.0,
+      "duration_seconds": 176.7893
+    },
+    {
+      "id": "sub_zero_pressure",
+      "title": "Sub Zero Pressure",
+      "bpm": 144.03,
+      "duration_seconds": 165.3547
+    },
+    {
+      "id": "laser_syndicate",
+      "title": "Laser Syndicate",
+      "bpm": 128.0,
+      "duration_seconds": 178.8374
+    }
+  ],
+  "authored_track_count": 41,
+  "images": {
+    "promo-overview-v2.webp": {
+      "width": 1920,
+      "height": 1080,
+      "bytes": 249852,
+      "sha256": "f9e25801acf5fa5e1f45230d16870e17ac4c857c7482d6108a2b28c6004d1fd1"
+    },
+    "promo-controls-v2.webp": {
+      "width": 1920,
+      "height": 1080,
+      "bytes": 196508,
+      "sha256": "8b4588e5f4738a160970faac442a94fa3b1a9757c352fbe7eaf924dff1df0bea"
+    },
+    "promo-records-v2.webp": {
+      "width": 1920,
+      "height": 1080,
+      "bytes": 219692,
+      "sha256": "43f590bf633718aa4829958ac4bc25e7ed3efc6155eaa210f1edfe9c039fe313"
+    },
+    "promo-equipment-v2.webp": {
+      "width": 1920,
+      "height": 1080,
+      "bytes": 242940,
+      "sha256": "7a306f90d3b0dc40479416879966487a9e5ce385f89379202d08c0eeee7006a8"
+    }
+  }
+}

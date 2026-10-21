@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-20",
+  "source": "User-supplied NAHON STUDIO logo",
+  "original": "nahon-studio-otter.png",
+  "web": "nahon-studio-otter.webp",
+  "size": [
+    2022,
+    778
+  ],
+  "sha256": "18f72acdcde98b6ac1b9b963dd0e6af598c20c95a5771b3a78a6391c6ff90645",
+  "processing": "Original PNG preserved byte-for-byte. WebP is a lossless format conversion with identical RGBA pixels. No generative edits.",
+  "display": "Contain the complete logo with its original aspect ratio on solid black (#000000), including transparent regions."
+}

@@ -1,0 +1,177 @@
+{
+  "id": "apricot-and-acorn",
+  "title": "Apricot And Acorn (살구와 도토리)",
+  "heroTitle": "APRICOT\nAND ACORN",
+  "tagline": "농장을 가꾸고, 두루와 이웃들의 일상을 바꿔 보세요.",
+  "description": "농장에서 기른 꽃을 정원 동료 두루에게 심고, 이웃과 협력해 마을을 복구하는 생활 RPG. 농사·낚시·제작과 무작위 동굴 탐험을 내 속도로 즐기세요.",
+  "genre": "FARMING · LIFE RPG · ADVENTURE",
+  "status": "coming-soon",
+  "featured": false,
+  "visible": true,
+  "demo": false,
+  "ageRating": {
+    "system": "KR",
+    "rating": "12",
+    "method": "self"
+  },
+  "banner": "games/apricot-and-acorn/banner.webp",
+  "bannerTextPosition": "top-right",
+  "bannerFocus": { "x": 50, "y": 50 },
+  "bannerAlt": "농사와 가축 돌보기, 낚시와 장터 교류, 동굴 탐험을 즐기는 픽셀 캐릭터들이 밝은 농장과 강변 마을에 모인 게임 타이틀 배경 일러스트.",
+  "platforms": [
+    {
+      "type": "stove",
+      "url": "https://store.onstove.com/ko/games/106082"
+    },
+    {
+      "type": "steam",
+      "url": ""
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-01-farm-garden.webp",
+      "alt": "집과 밭, 연못이 있는 농장에서 플레이어와 이웃들 옆에 꽃을 등에 심은 정원 동료 두루가 서 있는 최신 한국어 게임 화면.",
+      "caption": "농장과 이동 정원 두루 · 밭과 꽃을 가꾸며 나만의 하루를 시작하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-02-home-decoration.webp",
+      "alt": "개편된 집 꾸미기 화면. 선택한 상단 탭이 콘텐츠와 연결되고, 왼쪽 가구 목록과 오른쪽 실제 방의 벽·창문·바닥 및 가구 배치 미리보기가 구분되어 있다.",
+      "caption": "집 꾸미기 · 가구를 고르고 실제 방에서 배치 위치를 미리 확인하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-03-inventory.webp",
+      "alt": "최신 인벤토리의 왼쪽 분류 탭, 퀵슬롯과 가방 보관 칸, 오른쪽 선택한 검의 요약 정보 및 장착 버튼이 표시된 화면.",
+      "caption": "모험을 위한 준비 · 분류 탭으로 가방을 정리하고 장비의 능력을 살펴보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-04-duru-garden.webp",
+      "alt": "꽃밭 탭이 선택된 두루의 이동 정원. 심어 둔 식물 네 종류, 모종 목록, 꽃밭 미리보기와 모아 둔 날씨 자원을 확인하는 화면.",
+      "caption": "두루의 이동 정원 · 꽃밭을 돌보고 모은 날씨를 활용하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-05-river.webp",
+      "alt": "강을 가로지르는 나무다리와 석조 건물, 물레방아와 나무가 있는 강변 마을에서 플레이어와 두루가 함께 걷는 화면.",
+      "caption": "강변 마을 · 다리와 물레방아를 따라 마을을 둘러보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-06-cave-combat.webp",
+      "alt": "폐광 지하 2층의 돌벽과 광석 사이에서 플레이어가 검을 휘두르는 궤적, 주변의 적과 탐험 통로가 보이는 실시간 전투 화면.",
+      "caption": "폐광 탐험 · 검을 휘두르며 적과 맞서고 광맥과 전리품을 찾아보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-07-neighbors.webp",
+      "alt": "사람들 탭과 연결된 협업 화면. 주민 목록 옆에 모라와 맺은 현장 동료 관계, 씨앗 부탁과 현장 활동 등 관계에 따른 행동이 표시되어 있다.",
+      "caption": "함께한 일로 쌓는 관계 · 이웃의 부탁과 공동 작업을 이어 가세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-08-watering.webp",
+      "alt": "농장의 작물과 꽃밭 앞에서 물뿌리개를 든 플레이어가 물을 주고, 물 잔량이 39로 표시된 화면.",
+      "caption": "밭 돌보기 · 자라는 작물에 물을 주고 수확을 준비하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-09-animals.webp",
+      "alt": "축사 앞에 소와 양, 닭이 모여 있고 플레이어가 모이를 선택한 농장 화면. 뒤쪽에는 연못과 나무다리가 보인다.",
+      "caption": "축사 앞의 작은 일상 · 소와 양, 닭을 돌보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-10-fishing.webp",
+      "alt": "강변의 나무다리 옆에서 낚싯대를 드리운 플레이어와 낚시 타이밍 바, 초록 구간 안내가 표시된 화면.",
+      "caption": "물가의 낚시 · 타이밍을 맞추며 물고기를 낚아 보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-11-gold-panning.webp",
+      "alt": "강변 사금 채취 중 왼쪽과 오른쪽 체질 타이밍 바 및 성공 횟수가 표시된 한국어 미니게임 화면.",
+      "caption": "사금 채취 · 물가에서 좌우로 체질하며 모래 속 자원을 찾아보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-12-coast.webp",
+      "alt": "배와 부두, 파도가 있는 해안 마을. 해변 길과 목조 건물, 울타리 안의 동물이 보이는 플레이 화면.",
+      "caption": "해안 마을 · 부두와 배, 푸른 바다를 만나는 산책길."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-13-snow.webp",
+      "alt": "눈발이 내리는 북쪽 마을에서 눈 덮인 지붕과 나무, 장터와 울타리, 주민들이 보이는 화면.",
+      "caption": "눈 내리는 북쪽 마을 · 설경 속 주민과 생활 공간을 만나세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-14-forest-rain.webp",
+      "alt": "빗줄기가 내리는 숲 마을의 나무와 집, 돌길과 울타리가 보이는 실제 게임 화면.",
+      "caption": "비 오는 숲 마을 · 날씨가 바꾸는 풍경 속을 걸어보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-15-autumn-windmill.webp",
+      "alt": "황금빛과 주황빛 나무가 울창한 마을의 풍차와 돌길, 플레이어가 보이는 가을 지역 화면.",
+      "caption": "풍차와 가을 숲 · 다른 색으로 물든 지역을 둘러보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-16-crafting.webp",
+      "alt": "선택한 울타리의 재료 보유량과 제작 수량, 제작 버튼을 보여 주는 개편된 제작 화면.",
+      "caption": "생활 도구 제작 · 필요한 재료를 확인하고 농장에 쓸 물건을 만드세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-17-weather-kite.webp",
+      "alt": "푸른 하늘에서 연을 움직여 바람·빗방울·햇살을 모으는 미니게임. 수집한 자원과 남은 시간이 표시되어 있다.",
+      "caption": "연으로 날씨 모으기 · 하늘의 바람과 비, 햇살을 모아보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-18-pollination.webp",
+      "alt": "꽃이 있는 풀밭에서 나비를 다음 꽃으로 이끄는 미니게임. 진행 상황 2/6과 시간 제한 없음이 표시된 화면.",
+      "caption": "꽃길로 이끌기 · 수분 생물을 다른 꽃으로 안내하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-19-skills.webp",
+      "alt": "농사·채집·낚시·채광·전투의 숙련 목록, 농사 레벨과 두 가지 전문 분야를 보여 주는 생활수첩 화면.",
+      "caption": "생활 숙련 · 활동으로 쌓은 경험과 전문 분야를 확인하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-20-season-orders.webp",
+      "alt": "농장 운영의 계절 납품 탭에서 순무, 달걀, 과일잼의 요구 수량과 보상을 확인하는 화면.",
+      "caption": "계절 납품 · 수확물과 가공품을 준비해 농장을 운영하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-v0932-21-forest-camp.webp",
+      "alt": "숲 마을 야영지 화면. 타오르는 불의 상태와 불 준비, 몸 돌보기, 야영 요리의 세 구역이 구분되어 있다.",
+      "caption": "숲속 야영 · 불을 준비하고 쉬거나 야영 요리를 살펴보세요."
+    }
+  ],
+  "about": [
+    "Apricot And Acorn은 밭과 집을 돌보고, 이웃들과 협력하며 여러 지역을 탐험하는 싱글플레이 농장·생활 RPG입니다. 큰 이야기를 따라가거나 오늘 하고 싶은 일을 골라 나만의 농장 생활을 이어 가세요.",
+    "살아 있는 정원 동료 두루에게 농장에서 기른 꽃과 모종을 심을 수 있습니다. 날씨를 모아 꽃을 피우고 벌과 나비를 이끌어 열매를 맺게 하세요. 되살린 서식지와 주민들과 함께 관리하는 꽃길·수로는 주변 풍경과 생산, 찾아오는 생물에 변화를 남깁니다.",
+    "이웃과의 관계는 함께한 일에서 자랍니다. 주민의 사연을 듣고 공동 작업에 참여하거나 짐을 나르는 동행, 원칙을 정하는 약속과 지역 협약을 맺으세요. 두 사람이 함께 찾아오는 사건과 현장의 단서를 관찰하고 추리하는 의뢰도 만날 수 있습니다.",
+    "계절에 맞는 작물을 심고 수확하며 가축을 돌보고, 음식과 가공품을 만들어 주문과 출하로 농장을 운영하세요. 낚시·채집·사금 채취·야영·제작을 즐기고 의복 색과 가구 배치로 나만의 생활 공간을 꾸밀 수 있습니다. 해안과 강변, 숲과 북쪽 마을은 좁은 길과 통로를 따라 이어집니다.",
+    "무작위로 구성되는 15층 동굴에서는 채광과 실시간 전투, 보물과 유물을 만납니다. 음식과 장비를 준비하고 전투 방식과 유물 효과를 조합해 더 깊이 탐험할지 귀환할지 결정하세요. 전투 부담을 줄이는 비전투 탐험을 선택할 수 있으며, 이야기 이후에도 농장 운영·공동 사업·수집과 반복 탐험을 계속할 수 있습니다.",
+    "PC용으로 개발 중이며 키보드·마우스·컨트롤러 조작을 지원합니다. 한국어와 영어, 일본어·중국어 간체·프랑스어·스페인어를 제공하며 추가 언어의 번역 검수를 진행하고 있습니다. 출시일과 판매가는 추후 공개합니다.",
+    "일부 이미지와 음악은 AI 생성 도구를 활용해 제작했으며 기획·문구·프로그래밍에도 AI 보조 도구를 사용했습니다. 생성 자료는 게임에 맞게 선택·검토하고 수정·편집해 통합했습니다. 게임 실행 중 생성형 AI 서비스를 호출하거나 사용자 입력을 AI 서비스에 전송하지 않으며, 게임 내 현금 결제는 없습니다."
+  ],
+  "features": [
+    "꽃을 심고 날씨와 수분 생물을 활용하는 이동 정원 동료 두루",
+    "공동 작업·약속·동행·지역 협약으로 쌓는 주민 관계",
+    "재배·가축·가공·주문·낚시·채집·사금 채취·야영·제작",
+    "숲·해안·강변·눈 덮인 마을과 실내 공간을 잇는 탐험",
+    "실시간 전투와 장비·유물 조합, 비전투 탐험이 있는 무작위 동굴",
+    "내 집 꾸미기와 계절 운영, 이야기 이후에도 이어지는 공동 사업과 수집",
+    "16픽셀 타일과 작은 도트 캐릭터, 날씨와 시간이 바꾸는 풍경"
+  ],
+  "developer": "NAHON Studio",
+  "releaseDate": "추후 공개",
+  "players": "싱글 플레이",
+  "languages": [
+    "한국어",
+    "English (번역 검수 중)",
+    "日本語 (번역 검수 중)",
+    "简体中文 (번역 검수 중)",
+    "Français (번역 검수 중)",
+    "Español (번역 검수 중)"
+  ],
+  "tags": [
+    "농장",
+    "생활 RPG",
+    "픽셀아트",
+    "탐험",
+    "주민 협력",
+    "꾸미기",
+    "싱글 플레이"
+  ],
+  "videos": []
+}

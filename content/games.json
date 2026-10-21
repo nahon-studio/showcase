@@ -1,0 +1,19 @@
+{
+  "games": [
+    "games/yokai-defense/game.json",
+    "games/my-ai-empire/game.json",
+    "games/route-zero/game.json",
+    "games/the-family-beyond-the-wall/game.json",
+    "games/beat-turret/game.json",
+    "games/magical-toy-match/game.json",
+    "games/raccooligans/game.json",
+    "games/unlisted-patient/game.json",
+    "games/yokai-town/game.json",
+    "games/breakout-protocol/game.json",
+    "games/occult-survivor/game.json",
+    "games/shh-one-shot/game.json",
+    "games/outlaw-isles-rogue-tides/game.json",
+    "games/sword-and-backpack/game.json",
+    "games/apricot-and-acorn/game.json"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "your-game",
+  "title": "YOUR GAME",
+  "tagline": "게임의 매력을 한 문장으로 소개해 주세요.",
+  "description": "어떤 세계에서 무엇을 즐기는 게임인지 소개해 주세요.",
+  "genre": "ADVENTURE · PUZZLE",
+  "status": "coming-soon",
+  "featured": true,
+  "visible": true,
+  "demo": false,
+  "banner": "games/your-game/banner.webp",
+  "bannerTextPosition": "bottom-left",
+  "bannerFocus": { "x": 50, "y": 50 },
+  "bannerAlt": "배너 이미지에 보이는 장면을 설명해 주세요.",
+  "platforms": [
+    {
+      "type": "steam",
+      "url": ""
+    },
+    {
+      "type": "app-store",
+      "url": ""
+    },
+    {
+      "type": "google-play",
+      "url": ""
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "games/your-game/screenshot-01.webp",
+      "alt": "첫 번째 스크린샷의 장면을 설명해 주세요.",
+      "caption": "스크린샷에 대한 짧은 설명"
+    }
+  ],
+  "about": [
+    "게임의 세계관과 플레이 방식을 자세히 설명해 주세요.",
+    "두 번째 문단을 추가할 수 있습니다."
+  ],
+  "features": [
+    "게임의 첫 번째 핵심 특징",
+    "게임의 두 번째 핵심 특징"
+  ],
+  "developer": "NAHON Studio",
+  "releaseDate": "추후 공개",
+  "players": "싱글 플레이",
+  "languages": [
+    "한국어"
+  ],
+  "tags": [
+    "어드벤처",
+    "퍼즐"
+  ],
+  "videos": [
+    {
+      "url": "",
+      "title": "공식 트레일러",
+      "poster": ""
+    }
+  ]
+}

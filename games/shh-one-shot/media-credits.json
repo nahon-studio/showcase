@@ -1,0 +1,27 @@
+{
+  "title": "Sneak & Snipe: Through the Scope",
+  "updated": "2026-10-18",
+  "screenshot-title.webp": {
+    "type": "Godot 4.5.2 native title-screen capture",
+    "build": "2.23.0",
+    "note": "Background concept art and generated wordmark are rendered in the game UI."
+  },
+  "other_screenshots": {
+    "type": "Actual native gameplay/briefing captures",
+    "build": "2.22.0",
+    "note": "Gameplay is unchanged by the 2.23 branding update."
+  },
+  "identity": "Catalog ID shh-one-shot is retained to preserve existing URLs.",
+  "cover": {
+    "type": "Game concept artwork, not gameplay",
+    "source": "Project-owned artwork edited using the built-in image_gen tool; no external artwork supplied.",
+    "asset": "assets/branding/sneak-and-snipe-title.png"
+  },
+  "banner": {
+    "type": "Game marketing concept artwork, not a gameplay screenshot",
+    "source": "Built-in image_gen; project-owned banner used as a style reference, followed by scoped-aim and reticle refinements.",
+    "asset": "banner-scope-action.webp",
+    "prompts": "banner-generation.json",
+    "note": "Dynamic first-person scope aiming from a parallel moving train. The game title is rendered separately by the website."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "magical-toy-match",
+  "title": "매지컬 토이 매치",
+  "heroTitle": "매지컬\n토이 매치",
+  "tagline": "특수 장난감과 마법, 900개 스테이지의 매치3 퍼즐",
+  "description": "조각을 맞춰 장애물을 없애고 부품을 모으는 매치3 퍼즐. 30개 지역을 탐험하고 장난감 30종을 조립하며 도구·마법·유물을 성장시키세요.",
+  "genre": "MATCH 3 · PUZZLE",
+  "status": "coming-soon",
+  "featured": true,
+  "demo": false,
+  "banner": "games/magical-toy-match/banner-v2.webp",
+  "bannerTextPosition": "bottom-left",
+  "bannerFocus": { "x": 68, "y": 50 },
+  "bannerAlt": "MAGICAL TOY MATCH 영문 플라스틱 블록 타이틀, 실제 퍼즐 화면을 바탕으로 한 세로형 모바일 패널과 랜턴·물병·톱니바퀴",
+  "cover": "games/magical-toy-match/cover-v2.webp",
+  "platforms": [
+    {
+      "type": "google-play",
+      "url": ""
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "games/magical-toy-match/screenshot-01.webp",
+      "alt": "매지컬 토이 매치의 한국어 타이틀, 첫 장난감 기관차와 스테이지 시작 화면",
+      "caption": "한국어 타이틀 · 첫 장난감 기관차"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-05.webp",
+      "alt": "첫 교환 안내와 강조된 두 조각, 랜턴 수집 목표가 보이는 첫 스테이지",
+      "caption": "첫 교환 · 튜토리얼"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-02.webp",
+      "alt": "랜턴 수집 목표와 남은 이동 횟수, 서로 다른 사물 조각이 표시된 퍼즐 보드",
+      "caption": "매치3 퍼즐 · 목표와 남은 이동"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-06.webp",
+      "alt": "모서리가 비어 있는 7행 7열 보드와 팽이·도미노 특수 장난감",
+      "caption": "특수 장난감 · 팽이와 도미노"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-07.webp",
+      "alt": "특수 블록 교환 후 마력 60 상태의 망치·물결·이동 추가 마법 선택 창",
+      "caption": "플레이 중 마법 선택"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-08.webp",
+      "alt": "목표 점수와 남은 이동, 내구도가 표시된 나무 상자가 있는 스테이지 10",
+      "caption": "점수 목표 · 나무 상자"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-09.webp",
+      "alt": "왼쪽 위 공간이 비어 있는 보드와 이끼를 포함한 장애물이 있는 스테이지 91",
+      "caption": "빈칸 구조 · 이끼 장애물"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-10.webp",
+      "alt": "색 봉인과 장애물 내구도가 표시된 세로형 8행 6열 퍼즐 보드",
+      "caption": "색 봉인 · 세로형 보드"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-11.webp",
+      "alt": "안개와 다른 장애물이 함께 배치된 8행 8열의 스테이지 151",
+      "caption": "안개 · 복합 장애물"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-12.webp",
+      "alt": "위쪽 중앙이 비어 있는 7행 9열 보드와 턴 수가 표시된 시한폭탄",
+      "caption": "시한폭탄 · 넓은 보드"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-13.webp",
+      "alt": "별 세 개와 기관차 부품 두 개, 다음 진행 버튼이 표시된 스테이지 완료 결과",
+      "caption": "클리어 결과 · 부품 보상"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-03.webp",
+      "alt": "햇살 놀이방 지역의 클리어 기록, 다음 목표와 스테이지 경로를 보여 주는 진행 지도",
+      "caption": "30개 지역 · 900개 스테이지"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-14.webp",
+      "alt": "기관차 첫 조립을 마친 뒤 다음 부품 비용과 수집 목록이 보이는 장난감 화면",
+      "caption": "장난감 부품 · 단계별 조립"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-04.webp",
+      "alt": "세 번째 장난감 블록 집의 완성 무대와 획득 보상, 새 능력 안내",
+      "caption": "장난감 조립 · 완성 보상과 능력 해금"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-15.webp",
+      "alt": "기관차·로봇·블록 집 세 가지를 모두 완성한 세트와 장난감 마을 전경",
+      "caption": "수집 세트 · 장난감 3종 완성"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-16.webp",
+      "alt": "완성한 장난감 여덟 개 중 블록 도시를 선택한 놀이방과 작동 중인 마을",
+      "caption": "놀이방 · 전시와 작동"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-17.webp",
+      "alt": "장착한 네 가지 도구와 랜턴·물뿌리개·태엽시계·가위·우산·마법서 목록",
+      "caption": "도구 장착 · 6종 구성"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-18.webp",
+      "alt": "태엽시계의 현재 효과와 다음 성장 효과, 보유 코인 및 강화 비용이 표시된 창",
+      "caption": "도구 강화 · 효과와 비용"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-19.webp",
+      "alt": "장착한 망치·물결·이동 추가와 여섯 가지 마법의 성장 단계 목록",
+      "caption": "마법 장착 · 성장 단계"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-20.webp",
+      "alt": "유물 두 개의 장착 효과 합계와 수집한 유물, 조각 수가 표시된 화면",
+      "caption": "유물 수집 · 장착 효과"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-21.webp",
+      "alt": "첫 수리 장의 완료 기록과 복원된 놀이방·블록 도시 등 지역 목록",
+      "caption": "여행 기록 · 지역 복원"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-22.webp",
+      "alt": "장난감 기차역의 복원 단계 10·20·30회와 다음 진행 스테이지 안내",
+      "caption": "지역 복원 · 단계별 진행"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-23.webp",
+      "alt": "7일 출석 보상과 오늘의 플레이·주간 플레이 목표가 표시된 이벤트 화면",
+      "caption": "출석 보상 · 일일·주간 목표"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-24.webp",
+      "alt": "한국어 선택과 조작 안내·배경음악·효과음·진동·화면 흔들림 등의 설정",
+      "caption": "언어 · 사운드 · 연출 옵션"
+    },
+    {
+      "src": "games/magical-toy-match/screenshot-25.webp",
+      "alt": "기본 조작과 하트·조립·마법·아이템·장비 안내, 프롤로그 재열람이 있는 가이드",
+      "caption": "플레이 가이드 · 기능 안내"
+    }
+  ],
+  "about": [
+    "매지컬 토이 매치(Magical Toy Match)는 멈춘 놀이방을 복원하는 모바일 매치3 퍼즐입니다. 이웃한 조각을 바꿔 같은 모양을 3개 이상 맞추고, 제한된 이동 횟수 안에 수집 목표와 장애물 제거 조건을 달성하세요.",
+    "팽이·도미노·자석은 서로 다른 방식으로 다른 조각을 제거하는 특수 장난감입니다. 도구와 마법을 활용하고 장애물에 맞는 제거 순서를 선택하면서 다양한 모양의 보드에 도전할 수 있습니다. 실시간 제한 없이 이동 횟수를 기준으로 진행합니다.",
+    "30개 지역에 걸친 900개 스테이지에서 부품을 모아 기관차, 로봇, 블록 건물 등 장난감 30종을 조립하세요. 완성한 장난감은 놀이방에 배치할 수 있으며, 스테이지 진행에 따라 지역 복원과 이야기 기록이 이어집니다.",
+    "사출 플라스틱 장난감 재질의 타이틀과 패널, 사물의 질감을 살린 조각, 특수 장난감의 연쇄 연출을 담았습니다. 배경음악·효과음·진동·화면 흔들림·완성 연출을 설정하고 플레이 가이드에서 열린 기능을 다시 확인할 수 있습니다.",
+    "Android 버전을 준비 중이며 정식 출시일은 추후 공개합니다. 진행 상황은 기기에 저장되며 온라인 친구·계정 간 동기화 기능은 현재 제공하지 않습니다. 앱 삭제나 기기 데이터 초기화 시 진행 상황이 사라질 수 있습니다."
+  ],
+  "features": [
+    "30개 지역, 900개 스테이지",
+    "12종 보드 모양과 8종 장애물",
+    "팽이·도미노·자석 특수 블록과 연쇄 효과",
+    "도구·마법·유물 성장과 능력 해금",
+    "장난감 30종 조립·수집과 놀이방 배치",
+    "지역 복원, 진행 지도와 이야기 기록",
+    "실시간 제한 없는 이동 횟수 기반 퍼즐",
+    "9개 언어와 사운드·진동·동작 효과 설정"
+  ],
+  "developer": "NAHON Studio",
+  "releaseDate": "추후 공개",
+  "players": "싱글 플레이",
+  "languages": [
+    "한국어",
+    "English",
+    "日本語",
+    "简体中文",
+    "繁體中文",
+    "Español",
+    "Français",
+    "Português (Brasil)",
+    "Deutsch"
+  ],
+  "tags": [
+    "매치3",
+    "퍼즐",
+    "수집",
+    "성장",
+    "장난감"
+  ],
+  "videos": []
+}

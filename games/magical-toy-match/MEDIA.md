@@ -44,3 +44,44 @@
 - `screenshot-23.webp`: `output/nahon-gallery-2026-10-19/captures/attendance.png` — collection-8, events attendance.
 - `screenshot-24.webp`: `output/nahon-gallery-2026-10-19/captures/settings.png` — collection-8, settings.
 - `screenshot-25.webp`: `output/nahon-gallery-2026-10-19/captures/guide.png` — collection-8, settings guide.
+
+
+## 2026-10-22 · v2.66.1 전체 이미지 교체
+
+최신 게임을 새로 촬영한 33장으로 현재 갤러리를 전부 교체했다. 이전 촬영 이미지는 이번 갤러리에서 재사용하지 않았다. 배너(1920×1080)와 표지(1200×800)는 기존 영어 타이틀·놀이방 아트와 새 실제 플레이 스크린샷을 HTML/CSS로 배치해 촬영했다. 게임 보드와 UI를 생성 이미지로 다시 그리지 않았다.
+
+후반 콘텐츠와 수집 화면은 별도의 촬영 전용 로컬 주소에 준비 저장을 불러와 촬영했다. 원정 기록은 실제 엔진의 유효한 행동을 재생해 준비했다. 이는 첫 스테이지부터 해당 상태까지 정상 플레이로 전부 검증했다는 뜻이 아니다. 사용자의 저장·APK·결제·광고 설정은 변경하지 않았다.
+
+- `v2661-01-home.webp` — 한국어 타이틀 · 새로운 홈 화면 / 촬영 준비: `fresh`
+- `v2661-02-expedition-play.webp` — 태엽 원정 · 매치로 동력 충전 / 촬영 준비: `exp-ready`
+- `v2661-03-expedition-aim.webp` — 태엽 원정 · 장치 범위 미리보기 / 촬영 준비: `exp-ready + UI target selection`
+- `v2661-04-expedition-draft.webp` — 구역 완료 · 새 설계도 선택 / 촬영 준비: `exp-ready + UI fire`
+- `v2661-05-expedition-route.webp` — 다음 경로 · 부품 창고와 실험실 / 촬영 준비: `exp-ready + UI fire/draft`
+- `v2661-06-expedition-loadout.webp` — 설계도 편성 · 장치 순서 변경 / 촬영 준비: `exp-late`
+- `v2661-07-expedition-late.webp` — 후반 원정 · 비정형 보드와 장애물 / 촬영 준비: `exp-late`
+- `v2661-08-blueprint-library.webp` — 설계도 도감 · 발견과 수집 / 촬영 준비: `exp-late`
+- `v2661-09-expedition-lobby.webp` — 원정 안내 · 매치, 연결, 조립 / 촬영 준비: `exp-ready`
+- `v2661-10-tutorial.webp` — 첫 교환 · 튜토리얼 / 촬영 준비: `fresh + UI start`
+- `v2661-11-campaign.webp` — 캠페인 · 사물 수집 퍼즐 / 촬영 준비: `fresh + UI first swap`
+- `v2661-12-special-blocks.webp` — 특수 장난감 · 팽이와 도미노 / 촬영 준비: `special-robot`
+- `v2661-13-magic.webp` — 플레이 중 마법 · 효과와 마력 / 촬영 준비: `special-robot`
+- `v2661-14-boss-crates.webp` — 보스 목표 · 나무 상자 / 촬영 준비: `before-10 + UI start`
+- `v2661-15-obstacle-moss.webp` — 이끼 장애물 · 계단형 보드 / 촬영 준비: `blocks-moss`
+- `v2661-16-obstacle-seal.webp` — 색 봉인 · 세로형 보드 / 촬영 준비: `blocks-seal`
+- `v2661-17-obstacle-fog.webp` — 먼지 덮개 · 복합 장애물 / 촬영 준비: `blocks-fog`
+- `v2661-18-obstacle-bomb.webp` — 시한폭탄 · 분기형 보드 / 촬영 준비: `blocks-bomb`
+- `v2661-19-map.webp` — 진행 지도 · 다음 스테이지 / 촬영 준비: `collection-8`
+- `v2661-20-collection.webp` — 장난감 수집 · 단계별 조립 / 촬영 준비: `collection-8`
+- `v2661-21-toy-complete.webp` — 장난감 완성 · 능력 해금 / 촬영 준비: `story-set-ready + UI build`
+- `v2661-22-collection-set.webp` — 수집 세트 · 세 장난감 완성 / 촬영 준비: `story-set-ready + UI build`
+- `v2661-23-playroom.webp` — 놀이방 · 장난감 전시 / 촬영 준비: `collection-8`
+- `v2661-24-tools.webp` — 도구 장착 · 여섯 가지 도구 / 촬영 준비: `collection-8`
+- `v2661-25-upgrade.webp` — 도구 강화 · 효과와 비용 / 촬영 준비: `collection-8`
+- `v2661-26-spells.webp` — 마법 성장 · 장착과 해금 / 촬영 준비: `collection-8`
+- `v2661-27-relics.webp` — 유물 수집 · 장착 효과 / 촬영 준비: `collection-8`
+- `v2661-28-story.webp` — 여행 기록 · 완료한 첫 장 / 촬영 준비: `collection-8`
+- `v2661-29-restoration.webp` — 지역 복원 · 장난감 기차역 / 촬영 준비: `collection-8`
+- `v2661-30-attendance.webp` — 출석 · 일일·주간 목표 / 촬영 준비: `story-set-ready`
+- `v2661-31-prologue.webp` — 프롤로그 · 멈춘 놀이방 / 촬영 준비: `collection-8 + UI replay`
+- `v2661-32-settings.webp` — 옵션 · 언어, 사운드, 연출 / 촬영 준비: `collection-8`
+- `v2661-33-guide.webp` — 플레이 가이드 · 조작과 기능 / 촬영 준비: `collection-8`

@@ -55,7 +55,7 @@ function renderSlides() {
   state.changing = false;
   state.current = 0;
   $("#slides").innerHTML = state.featured.map((game, index) => `
-    <article class="slide slide--${game.bannerTextPosition || "bottom-left"}${index === 0 ? " active" : ""}" id="slide-${escapeHTML(game.id)}" role="group" aria-roledescription="슬라이드" aria-label="${index + 1} / ${state.featured.length}: ${escapeHTML(game.title)}" ${index ? 'aria-hidden="true" inert' : 'aria-hidden="false"'}>
+    <article class="slide slide--${game.bannerTextPosition || "bottom-left"}${game.ageRating ? " slide--rated" : ""}${index === 0 ? " active" : ""}" id="slide-${escapeHTML(game.id)}" role="group" aria-roledescription="슬라이드" aria-label="${index + 1} / ${state.featured.length}: ${escapeHTML(game.title)}" ${index ? 'aria-hidden="true" inert' : 'aria-hidden="false"'}>
       <img class="slide-art" src="${escapeHTML(localURL(game.banner))}" alt="${escapeHTML(game.bannerAlt)}" style="object-position:${game.bannerFocus?.x ?? 50}% ${game.bannerFocus?.y ?? 50}%" ${index ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">
       ${game.ageRating ? `<div class="slide-rating">${ageRatingImage(game)}</div>` : ""}
       <div class="slide-copy">
@@ -76,10 +76,13 @@ function renderSlides() {
 }
 
 function gameTitleHTML(title, subtitleClass) {
-  const parts = title.trim().match(/^(.+?)\s*[:：]\s*(.+)$/s);
-  return parts
+  const localized = title.trim().match(/^(.+?)\s*(\([^()]*[가-힣][^()]*\))$/u);
+  const mainTitle = localized ? localized[1].trim() : title.trim();
+  const parts = mainTitle.match(/^(.+?)\s*[:：]\s*(.+)$/s);
+  const mainHTML = parts
     ? `${escapeHTML(parts[1].trim())}<small class="${subtitleClass}">: ${escapeHTML(parts[2].trim())}</small>`
-    : escapeHTML(title.trim());
+    : escapeHTML(mainTitle);
+  return `<span class="slide-title-main">${mainHTML}</span>${localized ? ` <small class="slide-title-localized">${escapeHTML(localized[2])}</small>` : ""}`;
 }
 
 function primeSlide(index) {

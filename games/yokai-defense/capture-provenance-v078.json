@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-22",
+  "version": "0.78.0",
+  "capture": "Actual current game renderer/UI captured in isolated headless Chrome; 1280×720 viewport, 1.5× density, 1920×1080 PNG. A local showcase profile exposes progression features. Combat fixtures use existing units and normal simulation. Result fixture marks victory to inspect real settlement UI, not proof of a full clear. No user save, gameplay code or visual composition modified.",
+  "banner": "Current animated title scene captured with only title logo and menu controls hidden for the website heading. No composited artwork or generated replacement visuals.",
+  "files": [
+    {
+      "file": "banner-v078.webp",
+      "sha256": "e1ba52b506a46e505842089a6005c07f1c1565ce4748ec8d5bd7e1f1b044f29d",
+      "bytes": 526536
+    },
+    {
+      "file": "cover-v078.webp",
+      "sha256": "64966b4ab51c3dbdea28f6893d1bf5bd39b1df58a0ae247ae3b5c056cba90129",
+      "bytes": 302968
+    },
+    {
+      "file": "screenshot-v078-01-title.webp",
+      "sha256": "271b5897b2d4806d2f313a900eb62c7fe100e5823c124c8fc77bdc6c74f35edf",
+      "bytes": 523794
+    },
+    {
+      "file": "screenshot-v078-02-map.webp",
+      "sha256": "f566a777fa3b3fc1bfcce14f90e05e180edf15585d53f1f54ad0907563c79f27",
+      "bytes": 167758
+    },
+    {
+      "file": "screenshot-v078-03-world.webp",
+      "sha256": "0ba1096e8f2cb9aa3b67047fc6f12e16394ffb46afc544fd637e5bfd3396e4e2",
+      "bytes": 241748
+    },
+    {
+      "file": "screenshot-v078-04-preparation.webp",
+      "sha256": "029e2794e4e8819e51f43b0da76e4c3fd27a46feaa5321bcd79109a87ff17f48",
+      "bytes": 268532
+    },
+    {
+      "file": "screenshot-v078-05-heroes.webp",
+      "sha256": "854211a54dac9ab3f075060fff17b8c9c92caf6b9ccd08a607b249648b3f41ec",
+      "bytes": 135372
+    },
+    {
+      "file": "screenshot-v078-06-training.webp",
+      "sha256": "736f2ecb6a18da2596ac896c264685afe8fc1aaa2f05a34cdad90e51028c784b",
+      "bytes": 125368
+    },
+    {
+      "file": "screenshot-v078-07-equipment.webp",
+      "sha256": "e254063d21b88e1f97987aa9b46c90a3921a521bb29a6b09ef7b7868f8720be2",
+      "bytes": 141270
+    },
+    {
+      "file": "screenshot-v078-08-inventory.webp",
+      "sha256": "d20adaa54064d2383aaafdcea97d13958589e9b90748dae6f6ef0fe896fed7ca",
+      "bytes": 181898
+    },
+    {
+      "file": "screenshot-v078-09-facilities.webp",
+      "sha256": "5dd96d6b5e0691605ddc260d1e5143d96c2ca783868e638a99c604c37205f025",
+      "bytes": 266318
+    },
+    {
+      "file": "screenshot-v078-10-field-guide.webp",
+      "sha256": "7d8e5d7a63c62d7426589dd0ccf0f115dd2ec0120a3a6bd0e7f41df69e52d430",
+      "bytes": 92540
+    },
+    {
+      "file": "screenshot-v078-11-journal.webp",
+      "sha256": "a987186df1e9457d6d6fafd4f35412c8ddfe091f295d722a2e024d7edc0e2d99",
+      "bytes": 120116
+    },
+    {
+      "file": "screenshot-v078-12-village.webp",
+      "sha256": "ff1d0e7e0ef76c8fca85b097d95b9a3eca716c825d270f0fc6cd55e93390d3e8",
+      "bytes": 327932
+    },
+    {
+      "file": "screenshot-v078-13-familiars.webp",
+      "sha256": "4088e15ef92d9905eb012dd3e9cb6f81fb2867763e66b77e46c30b0bc486c396",
+      "bytes": 269976
+    },
+    {
+      "file": "screenshot-v078-14-garden.webp",
+      "sha256": "fc1a7d26d31bff57dbaf4688f7ee7982eb42cb1d1c2fd98f9c5eca40b61ac451",
+      "bytes": 250836
+    },
+    {
+      "file": "screenshot-v078-15-events.webp",
+      "sha256": "a86a4c7121adb5d8a9be2a2c9941a6bd44bbcfa73555bce15f9bf1f102cf8028",
+      "bytes": 254136
+    },
+    {
+      "file": "screenshot-v078-16-market-battle.webp",
+      "sha256": "f5cf32041714597f672fba2411fc1e345c4b8482191572216663ece31b147033",
+      "bytes": 352078
+    },
+    {
+      "file": "screenshot-v078-17-canal-battle.webp",
+      "sha256": "b77e2f837c3dfd25f81549e364c09f4cedb1694140c3f3c6d488c4339a50c3dc",
+      "bytes": 401258
+    },
+    {
+      "file": "screenshot-v078-18-workshop-battle.webp",
+      "sha256": "8fcbdfc7ea0372f1ed0fa91cce1cd8ed692ee46285088c6c7e8f8c636cd2f3d1",
+      "bytes": 413700
+    },
+    {
+      "file": "screenshot-v078-19-results.webp",
+      "sha256": "753bf4ae931bcccfaeb7c1cb22273e6494eaeaa14c1e3e5451f71936680e2820",
+      "bytes": 115294
+    },
+    {
+      "file": "screenshot-v078-20-growth.webp",
+      "sha256": "987a45d0dcab275a508c5d28d00a443a6fe54e16c6a14535488521d4f0244164",
+      "bytes": 101258
+    }
+  ]
+}

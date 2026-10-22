@@ -8,10 +8,13 @@
   "status": "in-development",
   "featured": true,
   "demo": false,
-  "banner": "games/yokai-defense/banner.webp",
+  "banner": "games/yokai-defense/banner-v078.webp",
   "bannerTextPosition": "top-right",
-  "bannerFocus": { "x": 48, "y": 50 },
-  "bannerAlt": "벚꽃과 성문이 있는 마을에서 고양이·여우·판다·토끼 영웅과 로봇이 요괴의 행렬에 맞서는 게임 타이틀 원화",
+  "bannerFocus": {
+    "x": 48,
+    "y": 50
+  },
+  "bannerAlt": "성문과 교량을 지키는 동물 영웅, 투석기와 화포, 요괴 행렬이 등장하는 최신 타이틀 배경",
   "platforms": [
     {
       "type": "google-play",
@@ -24,94 +27,104 @@
   ],
   "screenshots": [
     {
-      "src": "games/yokai-defense/screenshot-01.webp",
-      "alt": "방어 생명과 웨이브 정보가 표시된 전장에서 고양이 영웅과 방어 시설이 요괴의 행렬을 막는 모습",
-      "caption": "영웅과 방어 시설을 배치하고 전선을 지키세요 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-16-market-battle.webp",
+      "alt": "달빛 야시장 · 영웅과 방어 시설로 요괴의 행렬을 방어 화면",
+      "caption": "달빛 야시장 · 영웅과 방어 시설로 요괴의 행렬을 방어 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-16-canal-battle.webp",
-      "alt": "강과 다리로 이어진 수로에서 묵탄과 소환 동료, 여섯 방어 시설이 요괴를 상대하는 전투",
-      "caption": "수로 전투 · 다리와 합류 지점에 맞춰 방어선을 구성 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-17-canal-battle.webp",
+      "alt": "물안개 수로 · 강과 다리의 합류 지점에 맞춘 방어 화면",
+      "caption": "물안개 수로 · 강과 다리의 합류 지점에 맞춘 방어 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-17-workshop-battle.webp",
-      "alt": "기계공방의 굽은 길에서 레이저와 화포, 전격 시설이 동료들과 함께 요괴를 공격하는 전투",
-      "caption": "기계공방 전투 · 다양한 시설과 동료의 공격을 조합 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-18-workshop-battle.webp",
+      "alt": "기계공방 · 레이저·전격·화포와 소환 동료의 협공 화면",
+      "caption": "기계공방 · 레이저·전격·화포와 소환 동료의 협공 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-06-preparation.webp",
-      "alt": "물안개 수로의 길과 교량, 등장 요괴와 전장 특징이 표시된 출전 준비 화면",
-      "caption": "출전 준비 · 길과 적 구성을 살펴 방어 전략을 세우세요 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-08-inventory.webp",
+      "alt": "보급 창고 · 아이템 효과 확인과 전투 편성 화면",
+      "caption": "보급 창고 · 아이템 효과 확인과 전투 편성 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-05-world.webp",
-      "alt": "지역별 지형과 원정 진척도를 보여 주는 세계 지도",
-      "caption": "세계 지도 · 서로 다른 분위기의 지역과 원정 진행도 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-05-heroes.webp",
+      "alt": "영웅 수첩 · 전투 역할과 성장 정보 확인 화면",
+      "caption": "영웅 수첩 · 전투 역할과 성장 정보 확인 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-02.webp",
-      "alt": "달빛 야시장의 이야기 전장과 선택 도전, 다음 출전 목표를 보여 주는 원정 지도",
-      "caption": "아홉 지역과 900개 전장으로 이어지는 원정 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-07-equipment.webp",
+      "alt": "장비 · 무기를 고르고 장착·강화 화면",
+      "caption": "장비 · 무기를 고르고 장착·강화 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-07-heroes.webp",
-      "alt": "고양이 영웅 묵탄과 영웅 목록, 전투 역할과 성장 메뉴가 표시된 영웅 수첩",
-      "caption": "영웅 수첩 · 영웅을 고르고 전투 역할과 성장 정보를 확인 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-04-preparation.webp",
+      "alt": "출전 준비 · 경로와 적 구성에 맞춰 전략을 준비 화면",
+      "caption": "출전 준비 · 경로와 적 구성에 맞춰 전략을 준비 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-08-training.webp",
-      "alt": "묵탄의 체력과 공격, 치명타, 회복 등 수련 항목을 고르는 영웅 성장실",
-      "caption": "영웅 수련 · 원하는 능력을 선택해 성장 방향을 결정 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-03-world.webp",
+      "alt": "세계 지도 · 아홉 지역으로 이어지는 원정 화면",
+      "caption": "세계 지도 · 아홉 지역으로 이어지는 원정 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-03.webp",
-      "alt": "영웅 성장실에서 무기 목록과 장착 상태, 강화에 필요한 자원을 확인하는 모습",
-      "caption": "무기와 장비를 조합해 영웅을 성장시키세요 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-02-map.webp",
+      "alt": "원정 지도 · 지역별 이야기 전장과 선택 도전 화면",
+      "caption": "원정 지도 · 지역별 이야기 전장과 선택 도전 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-10-tower-guide.webp",
-      "alt": "산울림 투석기의 물리 범위 공격과 넉백, 최소 사거리 특성을 설명하는 전투 수첩",
-      "caption": "전투 수첩 · 시설의 공격 방식과 장단점을 간편하게 확인 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-06-training.webp",
+      "alt": "영웅 수련 · 원하는 능력을 선택해 성장 화면",
+      "caption": "영웅 수련 · 원하는 능력을 선택해 성장 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-18-victory.webp",
-      "alt": "전투 결과 화면에 공방 주화, 영웅 경험치, 영혼 결정과 성장 내역이 표시된 모습",
-      "caption": "전투 결과 · 획득한 자원과 경험치, 성장 내역을 확인 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-09-facilities.webp",
+      "alt": "방어 시설 · 서로 다른 공격 역할의 조합 화면",
+      "caption": "방어 시설 · 서로 다른 공격 역할의 조합 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-19-growth.webp",
-      "alt": "전투 후 묵탄의 18레벨에서 19레벨로의 성장과 경험치, 장비 확인 버튼이 보이는 화면",
-      "caption": "성장 확인 · 레벨업 후 장비를 정비하고 다음 목표로 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-10-field-guide.webp",
+      "alt": "전투 수첩 · 투석기의 범위 공격과 넉백 특성 화면",
+      "caption": "전투 수첩 · 투석기의 범위 공격과 넉백 특성 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-11-journal.webp",
-      "alt": "지역별 원정 목표, 진행도와 달성 보상이 표시된 원정 일지",
-      "caption": "원정 일지 · 지역의 목표를 달성하고 보급을 모으세요 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-19-results.webp",
+      "alt": "전투 결과 · 획득한 자원과 영웅 경험치 화면",
+      "caption": "전투 결과 · 획득한 자원과 영웅 경험치 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-12-village.webp",
-      "alt": "복원한 건물과 수호령이 배치된 귀향 마을의 전경",
-      "caption": "귀향 마을 · 전장에서 얻은 자원으로 마을을 복원 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-20-growth.webp",
+      "alt": "성장 확인 · 경험치와 레벨 상승 후 다음 원정으로 화면",
+      "caption": "성장 확인 · 경험치와 레벨 상승 후 다음 원정으로 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-13-familiars.webp",
-      "alt": "이끼거북 모루와 등불잉어 반디의 지원 효과, 레벨과 장착 버튼이 보이는 수호령 화면",
-      "caption": "수호령 · 회복과 공격을 돕는 동료를 기르고 장착 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-11-journal.webp",
+      "alt": "원정 일지 · 목표와 보상을 확인 화면",
+      "caption": "원정 일지 · 목표와 보상을 확인 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-14-garden.webp",
-      "alt": "씨앗과 식물이 자란 텃밭에서 성장 진행도와 수확 버튼을 확인하는 모습",
-      "caption": "텃밭 · 재료를 기르고 수확해 다음 원정을 준비 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-12-village.webp",
+      "alt": "귀향 마을 · 원정에서 얻은 자원으로 복원 화면",
+      "caption": "귀향 마을 · 원정에서 얻은 자원으로 복원 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v076-15-events.webp",
-      "alt": "일별 출석 보급과 주간 원정 목표를 확인하는 달빛 소식 화면",
-      "caption": "달빛 소식 · 출석 보급과 주간 목표를 한눈에 확인 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-13-familiars.webp",
+      "alt": "수호령 · 원정을 돕는 동료의 성장과 편성 화면",
+      "caption": "수호령 · 원정을 돕는 동료의 성장과 편성 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-04.webp",
-      "alt": "여러 동물 영웅과 요괴 전투 배경이 표시된 요괴 방어전의 타이틀 화면",
-      "caption": "등불과 요괴, 동물 영웅이 함께하는 세계 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-v078-14-garden.webp",
+      "alt": "텃밭 · 다음 원정을 위한 재료 재배와 수확 화면",
+      "caption": "텃밭 · 다음 원정을 위한 재료 재배와 수확 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-v078-15-events.webp",
+      "alt": "달빛 소식 · 출석 보급과 주간 원정 목표 화면",
+      "caption": "달빛 소식 · 출석 보급과 주간 원정 목표 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-v078-01-title.webp",
+      "alt": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 화면",
+      "caption": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 · 실제 게임 화면"
     }
   ],
   "about": [
@@ -146,5 +159,5 @@
     "전략"
   ],
   "videos": [],
-  "cover": "games/yokai-defense/cover.webp"
+  "cover": "games/yokai-defense/cover-v078.webp"
 }

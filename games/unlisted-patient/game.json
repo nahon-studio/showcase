@@ -13,7 +13,7 @@
     "rating": "15",
     "method": "self"
   },
-  "banner": "games/unlisted-patient/banner.png",
+  "banner": "games/unlisted-patient/banner-20261022.png",
   "bannerTextPosition": "center-right",
   "bannerFocus": {
     "x": 50,
@@ -28,42 +28,42 @@
   ],
   "screenshots": [
     {
-      "src": "games/unlisted-patient/screenshot-01.png",
+      "src": "games/unlisted-patient/screenshot-01-20261022.png",
       "alt": "접수대와 벽시계, 간호사가 있는 제7병동의 1인칭 탐색 화면. 화면 구석에는 진행 정보와 조작 안내가 표시된다.",
       "caption": "병동 탐색 · 주변 사물과 기록에서 첫 이송의 흔적을 찾습니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-02.png",
+      "src": "games/unlisted-patient/screenshot-02-20261022.png",
       "alt": "병원 복도에서 간호사와 마주한 1인칭 조사 화면. 뒤쪽에는 다른 인물과 닫힌 문이 보인다.",
       "caption": "인물 조사 · 겉모습과 증언을 수집한 기록에 대조하세요."
     },
     {
-      "src": "games/unlisted-patient/screenshot-03.png",
+      "src": "games/unlisted-patient/screenshot-03-20261022.png",
       "alt": "정사각 물품 슬롯과 별도의 설명 영역으로 구성된 소지품 화면. 접촉 녹음기를 선택해 용도를 읽고 손에 들 수 있다.",
       "caption": "소지품 · 도구의 용도를 읽고 현장의 장치에 직접 사용합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-04.png",
+      "src": "games/unlisted-patient/screenshot-04-20261022.png",
       "alt": "밝은 기록철 형태의 당직 수첩. 왼쪽에는 수집한 단서 목록, 오른쪽에는 선택한 간호사의 증언이 표시된다.",
       "caption": "당직 수첩 · 기록과 증언을 다시 읽고 사건의 모순을 비교합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-05.png",
+      "src": "games/unlisted-patient/screenshot-05-20261022.png",
       "alt": "배관과 환기구, 작업 인물과 장치가 배치된 방송·환기 중계실을 탐색하는 화면.",
       "caption": "소리의 출처 · 방향과 울림을 비교하고 장치를 바꿔 실험하세요."
     },
     {
-      "src": "games/unlisted-patient/screenshot-06.png",
+      "src": "games/unlisted-patient/screenshot-06-20261022.png",
       "alt": "어두운 지하 승강장에 도착한 열차와 승강장 문이 보이는 조사 화면.",
       "caption": "폐쇄 승강장 · 운행 기록과 목격담을 비교해 탑승할 열차를 찾습니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-07.png",
+      "src": "games/unlisted-patient/screenshot-07-20261022.png",
       "alt": "양쪽 좌석과 손잡이가 있는 한국 지하철 형태의 017호 객차. 복도와 좌석 주변에 인물과 조사 대상이 배치되어 있다.",
       "caption": "017호 객차 · 병원에서 시작된 사건과 동행인의 기억을 이어 조사합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-08.png",
+      "src": "games/unlisted-patient/screenshot-08-20261022.png",
       "alt": "서랍과 식별 표식, 바닥의 격자, 이송 장비가 보이는 흑백 영안실의 1인칭 조사 화면.",
       "caption": "영안실 · 이송 기록과 현장의 표식을 대조해 남겨진 흔적을 추적합니다."
     }
@@ -103,5 +103,5 @@
     "1-bit 디더링"
   ],
   "videos": [],
-  "cover": "games/unlisted-patient/banner.png"
+  "cover": "games/unlisted-patient/banner-20261022.png"
 }

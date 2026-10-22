@@ -14,13 +14,13 @@
     "rating": "12",
     "method": "self"
   },
-  "banner": "games/apricot-and-acorn/banner-20261022.webp",
-  "bannerTextPosition": "top-right",
+  "banner": "games/apricot-and-acorn/title-20261022.webp",
+  "bannerTextPosition": "bottom-right",
   "bannerFocus": {
     "x": 50,
-    "y": 50
+    "y": 0
   },
-  "bannerAlt": "밭과 꽃, 집과 연못이 있는 농장에서 정원 동료 두루와 주민들이 함께하는 실제 게임 풍경. 최신 픽셀 캐릭터와 타일로 촬영한 화면.",
+  "bannerAlt": "Apricot And Acorn 영문 타이틀 로고와 밝은 농장·마을 풍경. 픽셀 캐릭터들이 농사, 낚시, 시장 방문과 동굴 탐험을 즐기는 게임 타이틀 이미지.",
   "platforms": [
     {
       "type": "stove",
@@ -32,6 +32,11 @@
     }
   ],
   "screenshots": [
+    {
+      "src": "games/apricot-and-acorn/title-20261022.webp",
+      "alt": "Apricot And Acorn 영문 타이틀 로고와 밝은 농장·마을 풍경. 픽셀 캐릭터들이 농사, 낚시, 시장 방문과 동굴 탐험을 즐기는 게임 타이틀 이미지.",
+      "caption": "Apricot And Acorn · 살구와 도토리의 농장과 마을 이야기."
+    },
     {
       "src": "games/apricot-and-acorn/screenshot-20261022-01-farm-garden.webp",
       "alt": "집과 밭, 연못이 있는 농장에서 플레이어와 이웃들 옆에 꽃을 등에 심은 정원 동료 두루가 서 있는 최신 한국어 게임 화면.",
@@ -176,5 +181,6 @@
     "꾸미기",
     "싱글 플레이"
   ],
-  "videos": []
+  "videos": [],
+  "cover": "games/apricot-and-acorn/title-20261022.webp"
 }

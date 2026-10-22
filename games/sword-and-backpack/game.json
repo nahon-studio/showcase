@@ -13,14 +13,14 @@
     "rating": "12",
     "method": "self"
   },
-  "banner": "games/sword-and-backpack/banner.webp",
+  "banner": "games/sword-and-backpack/banner-title.webp",
   "bannerTextPosition": "top-left",
   "bannerFocus": {
-    "x": 52,
-    "y": 54
+    "x": 65,
+    "y": 50
   },
-  "bannerAlt": "강과 돌다리, 주황색과 푸른색 지붕이 있는 여울등 마을에서 동료와 함께 걷는 실제 게임 화면.",
-  "cover": "games/sword-and-backpack/cover.webp",
+  "bannerAlt": "푸른 폭포와 거대한 천문 장치가 있는 밤의 수몰 유적. 네 명의 픽셀 모험가가 횃불이 켜진 돌계단을 오르는 게임의 야간 타이틀 일러스트.",
+  "cover": "games/sword-and-backpack/cover-title.webp",
   "platforms": [
     {
       "type": "stove",
@@ -32,6 +32,11 @@
     }
   ],
   "screenshots": [
+    {
+      "src": "games/sword-and-backpack/screenshot-24-title.webp",
+      "alt": "수몰 천문 유적을 배경으로 소드 앤 백팩 로고와 새로운 여정, 여정 이어가기, 환경 설정 메뉴가 표시된 한국어 타이틀 화면.",
+      "caption": "여행의 시작 · 야간 타이틀 화면"
+    },
     {
       "src": "games/sword-and-backpack/screenshot-01.webp",
       "alt": "강가 마을에서 모험을 준비하는 네 명의 동료. 입체적인 건물과 나무, 강과 다리가 보인다.",
@@ -146,11 +151,6 @@
       "src": "games/sword-and-backpack/screenshot-22-display-options.webp",
       "alt": "환경 설정의 화면 탭. 창 모드와 전체화면, 다양한 해상도, 화면 밝기와 심도, 조명 품질 설정이 보인다.",
       "caption": "화면 설정 · 창 모드, 해상도, 그래픽 조절"
-    },
-    {
-      "src": "games/sword-and-backpack/screenshot-24-title.webp",
-      "alt": "수몰 천문 유적을 배경으로 소드 앤 백팩 로고와 새로운 여정, 여정 이어가기, 환경 설정 메뉴가 표시된 한국어 타이틀 화면.",
-      "caption": "여행의 시작 · 야간 타이틀 화면"
     }
   ],
   "about": [

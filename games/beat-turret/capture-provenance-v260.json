@@ -7,9 +7,9 @@
   "method": "Actual Godot-rendered desktop (1600x900) and mobile-preview (390x844) UI. Separate capture profiles and controlled chart timing were used. Mid-progression and calendar screens use injected fixtures. This is an image capture set, not a claim of full normal playthrough or physical device QA. Introductory images combine current screenshots and real equipment art.",
   "images": [
     {
-      "file": "banner-v260-studio.jpg",
-      "bytes": 255964,
-      "sha256": "947c6b544c4b84231878a526d817de5c84be277383cd00e6d8ff80bbcc8c898b"
+      "file": "banner-v260-studio-wide.jpg",
+      "bytes": 255619,
+      "sha256": "3ae066f57a2ed5a2517fc9755cbd03e6b967cd8f3ffac4608260deea0b4c39d9"
     },
     {
       "file": "promo-v260-controls.jpg",

@@ -15,8 +15,11 @@
   },
   "banner": "games/sword-and-backpack/banner.webp",
   "bannerTextPosition": "top-left",
-  "bannerFocus": { "x": 65, "y": 50 },
-  "bannerAlt": "푸른 폭포와 거대한 천문 장치가 있는 밤의 수몰 유적. 네 명의 픽셀 모험가가 횃불이 켜진 돌계단을 오른다. 게임의 야간 타이틀 일러스트.",
+  "bannerFocus": {
+    "x": 52,
+    "y": 54
+  },
+  "bannerAlt": "강과 돌다리, 주황색과 푸른색 지붕이 있는 여울등 마을에서 동료와 함께 걷는 실제 게임 화면.",
   "cover": "games/sword-and-backpack/cover.webp",
   "platforms": [
     {
@@ -51,7 +54,7 @@
     },
     {
       "src": "games/sword-and-backpack/screenshot-13-snow-boss.webp",
-      "alt": "눈이 내리는 서리등 고개에서 이솔과 동료들이 거대한 금속 수호자와 싸우는 화면. 적의 공격 범위와 피해 수치, 파티 체력이 보인다.",
+      "alt": "눈 내리는 서리등 고개에서 네 명의 파티가 거대한 수호자들과 싸우는 화면. 원형과 부채꼴 공격 예고, 파티 체력이 표시된다.",
       "caption": "설원 전투 · 눈 내리는 고개의 수호자"
     },
     {
@@ -66,7 +69,7 @@
     },
     {
       "src": "games/sword-and-backpack/screenshot-12-inn-upper-floor.webp",
-      "alt": "여관의 나무 계단을 올라간 2층 객실. 침대, 책장, 창문, 난간과 아래층에 있는 동료가 함께 보인다.",
+      "alt": "여관 2층의 나무 바닥과 침대, 창문, 난간과 아래층으로 이어지는 계단이 보이는 실내 탐험 화면.",
       "caption": "실내 탐험 · 여관 2층의 객실과 난간"
     },
     {
@@ -96,12 +99,12 @@
     },
     {
       "src": "games/sword-and-backpack/screenshot-18-prism-device.webp",
-      "alt": "빛의 공방에서 빛갈래 유리 장치를 조작하는 화면. 두 거울의 방향을 조절하는 도식과 회전 버튼이 보인다.",
+      "alt": "빛의 공방의 분광 물레 장치를 조작하는 화면. 세 방향 장치의 화살표와 회전 버튼, 장치 설명이 표시된다.",
       "caption": "현장 장치 · 프리즘 방향 맞추기"
     },
     {
       "src": "games/sword-and-backpack/screenshot-19-workshop-discoveries.webp",
-      "alt": "빛의 공방 수첩의 열두 장치 탭. 서로 다른 장치 아이콘과 복원 상태, 선택한 장치의 설명이 표시된다.",
+      "alt": "빛의 공방 수첩의 열두 장치 탭. 장치별 픽셀 아이콘과 복원 상태, 분광 물레의 설명을 확인하는 화면.",
       "caption": "빛의 공방 · 열두 장치 탐색과 복원 기록"
     },
     {
@@ -111,7 +114,7 @@
     },
     {
       "src": "games/sword-and-backpack/screenshot-16-fishing-minigame.webp",
-      "alt": "픽셀 아트 낚시 화면에서 낚싯대를 든 이솔과 찌, 초록색 타이밍 구간, 남은 시간과 챔질 버튼을 확인할 수 있다.",
+      "alt": "낚싯대를 든 주인공과 수면, 초록색 타이밍 구간, 남은 시간과 릴 감기 버튼이 보이는 픽셀 아트 낚시 화면.",
       "caption": "낚시 · 입질을 기다리고 타이밍 맞추기"
     },
     {
@@ -143,6 +146,11 @@
       "src": "games/sword-and-backpack/screenshot-22-display-options.webp",
       "alt": "환경 설정의 화면 탭. 창 모드와 전체화면, 다양한 해상도, 화면 밝기와 심도, 조명 품질 설정이 보인다.",
       "caption": "화면 설정 · 창 모드, 해상도, 그래픽 조절"
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-24-title.webp",
+      "alt": "수몰 천문 유적을 배경으로 소드 앤 백팩 로고와 새로운 여정, 여정 이어가기, 환경 설정 메뉴가 표시된 한국어 타이틀 화면.",
+      "caption": "여행의 시작 · 야간 타이틀 화면"
     }
   ],
   "about": [

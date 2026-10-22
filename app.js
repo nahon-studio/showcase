@@ -36,7 +36,7 @@ async function loadGames() {
       $("#game-grid").append(note);
     }
     const hash = location.hash.slice(1);
-    if (hash.startsWith("game-") && document.getElementById(hash)) requestAnimationFrame(() => document.getElementById(hash).scrollIntoView());
+    if ((hash.startsWith("game-") || hash === "contact") && document.getElementById(hash)) requestAnimationFrame(() => document.getElementById(hash).scrollIntoView());
   } catch (error) {
     console.error(error);
     $("#content-error").hidden = false;

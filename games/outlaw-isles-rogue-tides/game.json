@@ -15,7 +15,10 @@
   },
   "banner": "games/outlaw-isles-rogue-tides/banner.webp",
   "bannerTextPosition": "center-left",
-  "bannerFocus": { "x": 70, "y": 50 },
+  "bannerFocus": {
+    "x": 70,
+    "y": 50
+  },
   "bannerAlt": "붉은 달 아래, 랜턴과 곡도를 든 여우 해적이 박쥐·수달·상어 선원과 함께 파도를 가르는 셀화풍 범선 일러스트.",
   "cover": "games/outlaw-isles-rogue-tides/cover.webp",
   "platforms": [
@@ -36,8 +39,8 @@
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-01-combat.webp",
-      "alt": "어두운 수도원 던전에서 여우 주인공이 거대한 뿔 달린 보스와 싸우며 붉은 원으로 공격 범위가 표시되는 한국어 게임 화면.",
-      "caption": "던전과 보스전 · 공격 전조를 읽고 베기·강공격·회피를 연결하세요."
+      "alt": "반복 던전에서 여우 주인공이 거대한 뿔 달린 적을 공격하며 붉은 공격 전조와 전투 상태를 확인하는 한국어 화면.",
+      "caption": "던전과 전투 · 적의 공격 전조를 읽고 베기와 회피를 연결하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-08-dialogue.webp",
@@ -45,14 +48,24 @@
       "caption": "주민의 이야기 · 일상의 안부와 의뢰, 선원들의 증언을 따라가세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-10-chart.webp",
-      "alt": "여러 섬과 대륙의 목적지 카드, 출항 비용과 해금 조건, 배의 적재량을 보여 주는 세계 해도 화면.",
-      "caption": "세계 해도 · 목적지와 출항 비용을 살피고 다음 항로를 선택하세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-05-inventory.webp",
+      "alt": "항해일지 모양의 가방에서 캐릭터와 장비 슬롯, 아이템 목록, 선택한 커틀러스의 설명을 확인하는 한국어 화면.",
+      "caption": "선장의 소지품 · 책갈피 분류로 장비와 도구, 음식과 제작 재료를 정리하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-18-result.webp",
+      "alt": "끝없는 수문의 전투 승리 후 적중, 피해, 처치 기록과 귀환 시 회수할 전리품을 확인하는 한국어 결과 화면.",
+      "caption": "전투 기록 · 이번 전투를 돌아보고, 반복 던전의 전리품을 챙겨 귀환할지 선택하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-02-sailing.webp",
-      "alt": "비 내리는 어두운 바다에서 돛단배를 조타하며 항로와 선체 상태를 확인하는 한국어 항해 화면.",
-      "caption": "바다 위의 생존 · 풍랑과 위협에 대응하고 물자를 지켜 항구로 돌아오세요."
+      "alt": "푸른 해역에서 선원이 탄 범선을 직접 조타하며 선체, 속력, 부표와 표류 화물을 확인하는 한국어 항해 화면.",
+      "caption": "직접 조타하는 항해 · 부표를 따라 이동하고 표류 물자와 바다의 위협에 대응하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-10-chart.webp",
+      "alt": "여러 섬과 대륙의 목적지 카드, 출항 비용과 해금 조건, 배의 적재량을 보여 주는 세계 해도 화면.",
+      "caption": "세계 해도 · 목적지와 출항 비용을 살피고 다음 항로를 선택하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-14-fishing.webp",
@@ -70,24 +83,14 @@
       "caption": "직접 모으는 자원 · 도끼로 목재를 마련해 제작과 보급에 활용하세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-05-inventory.webp",
-      "alt": "음식·장비·재료·농장·도구 분류와 아이템 슬롯, 선택한 물품 설명을 나누어 보여 주는 한국어 가방 화면.",
-      "caption": "선장의 소지품 · 장비와 도구, 음식과 제작 재료를 정리하세요."
-    },
-    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-11-equipment.webp",
       "alt": "무기·옷·신발·장신구의 네 장비 슬롯과 기본 작업 도구 안내를 보여 주는 한국어 장비 화면.",
       "caption": "장비와 작업 도구 · 모험에 맞는 장비를 갖추고 생활 도구의 쓰임을 확인하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-12-cooking.webp",
-      "alt": "모닥불의 요리·보급 메뉴에서 구운 생선, 물약, 붕대와 차의 재료와 제작 버튼을 보여 주는 한국어 화면.",
-      "caption": "불 곁에서의 준비 · 재료로 음식과 회복품을 만들고 휴식을 취하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-06-shipyard.webp",
-      "alt": "배의 개조 항목과 보유 재료, 필요한 비용을 확인하는 한국어 조선소 기능 화면.",
-      "caption": "항해 준비와 배 개조 · 보급을 채우고 선박을 강화해 먼바다에 도전하세요."
+      "alt": "귀항 생활 수첩에서 밀 빻기, 빵 굽기, 스튜와 차 등 가공품의 재료와 생산 시간을 확인하는 한국어 화면.",
+      "caption": "가공과 보급 · 수확한 작물과 채집 재료로 음식과 다음 항해의 보급품을 만드세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-13-crew.webp",
@@ -95,8 +98,13 @@
       "caption": "함께 항해하는 선원 · 동료의 이야기를 듣고 원정에 필요한 주 역할을 맡기세요."
     },
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-06-shipyard.webp",
+      "alt": "뼈용골 조선소에서 채집 도구, 선상 조리대, 용골과 등불의 강화 비용과 보유 재료를 확인하는 한국어 화면.",
+      "caption": "항구에서의 강화 · 재료와 비용을 살피고 생활과 항해에 필요한 보강을 준비하세요."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-15-desert.webp",
-      "alt": "유리비 지역의 황토색 해안에서 주인공과 주민, 선착장과 배를 함께 보여 주는 탐험 화면.",
+      "alt": "유리비 지역의 황토색 해안에서 주인공, 주민, 채집 자원과 선착장에 정박한 배를 보여 주는 탐험 화면.",
       "caption": "다른 대륙의 항구 · 유리비의 주민과 새로운 채집 자원을 만나세요."
     },
     {
@@ -108,6 +116,16 @@
       "src": "games/outlaw-isles-rogue-tides/screenshot-09-quest.webp",
       "alt": "노트의 의뢰 아직 식지 않은 자리에서 필요한 생선과 장작, 보상과 수락 버튼을 확인하는 한국어 화면.",
       "caption": "주민의 부탁 · 필요한 물품을 모으고 보상을 받으며 인연을 이어 가세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-17-settings.webp",
+      "alt": "종이 질감의 환경 설정에서 책갈피 탭과 전체 음량, BGM, 효과음, 환경음 슬라이더를 보여 주는 한국어 화면.",
+      "caption": "환경 설정 · 화면·사운드·조작·언어·편의 설정을 항목별로 조절하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-19-title.webp",
+      "alt": "붉은 달과 범선, 동물 해적 일러스트 위로 영문 로고와 한국어 메뉴가 놓인 타이틀 화면.",
+      "caption": "새로운 항해 · Outlaw Isles: Rogue Tides의 한국어 타이틀 화면."
     }
   ],
   "about": [

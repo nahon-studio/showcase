@@ -1,0 +1,180 @@
+{
+  "version": "2.60.0",
+  "captured": "2026-10-22",
+  "actualScreenshots": 29,
+  "compositeGalleryImages": 4,
+  "dedicatedHomeBanners": 1,
+  "method": "Actual Godot-rendered desktop (1600x900) and mobile-preview (390x844) UI. Separate capture profiles and controlled chart timing were used. Mid-progression and calendar screens use injected fixtures. This is an image capture set, not a claim of full normal playthrough or physical device QA. Introductory images combine current screenshots and real equipment art.",
+  "images": [
+    {
+      "file": "banner-v260-studio.jpg",
+      "bytes": 255964,
+      "sha256": "947c6b544c4b84231878a526d817de5c84be277383cd00e6d8ff80bbcc8c898b"
+    },
+    {
+      "file": "promo-v260-controls.jpg",
+      "bytes": 244930,
+      "sha256": "f3e5cf00fbfc69816170eb4545dee8189e93893b8ceca29147584e0e4d87de4a"
+    },
+    {
+      "file": "promo-v260-equipment.jpg",
+      "bytes": 254882,
+      "sha256": "4a9d19a77b3f0dd9d8be7bd8a36dfc55e578274b724f43ee29795ba3f9ee8612"
+    },
+    {
+      "file": "promo-v260-overview.jpg",
+      "bytes": 257774,
+      "sha256": "ef1be922122b292ca80f7bc7d3226707bcfc2a849a76df702d036766aa5c3f04"
+    },
+    {
+      "file": "promo-v260-records.jpg",
+      "bytes": 228808,
+      "sha256": "06681bffbcaec06b1bf7a43ea2bf365777c265d75c29e7a14e0629b1f2140a35"
+    },
+    {
+      "file": "screenshot-v260-attendance-calendar.webp",
+      "bytes": 69600,
+      "sha256": "a4180357bbdf850822023c7f67fc789d5b6dd1a83e257bbc706e9cce8f6e7154"
+    },
+    {
+      "file": "screenshot-v260-backstage-prepare.webp",
+      "bytes": 221744,
+      "sha256": "be9b3773cbcebf1b0d288ddae89256ec5a9e79c85fe3c1f671dcf64acd2bf004"
+    },
+    {
+      "file": "screenshot-v260-backstage-sequencer.webp",
+      "bytes": 220472,
+      "sha256": "7b8561e81a56754df72b56ae2c35d9811b692c62693c745b229954726a7d3fbd"
+    },
+    {
+      "file": "screenshot-v260-backstage-soundcheck.webp",
+      "bytes": 217552,
+      "sha256": "702aadb0569651bdac98781e8e0e42c67fb116b6bd9e80a6590573c26391d095"
+    },
+    {
+      "file": "screenshot-v260-city-restoration.webp",
+      "bytes": 175984,
+      "sha256": "7ec492035915db3001a1b6140de3e261390f4b27af7365153629ec61a0ca7c7c"
+    },
+    {
+      "file": "screenshot-v260-combat-bass.webp",
+      "bytes": 270828,
+      "sha256": "70f96ec139d427a87a21f907010c5ecca475c46f13ba8675b3c73b7d2ff2ef8b"
+    },
+    {
+      "file": "screenshot-v260-combat-boss.webp",
+      "bytes": 270486,
+      "sha256": "7e71e3f3396d0d5d67acbbc975c097899508b1473d74c61b94cae04d360af21d"
+    },
+    {
+      "file": "screenshot-v260-combat-drum.webp",
+      "bytes": 234180,
+      "sha256": "1f99e551259e37d6446a11a1b7195902d460874d207db04dd601b3097aebc69a"
+    },
+    {
+      "file": "screenshot-v260-combat-encore.webp",
+      "bytes": 262490,
+      "sha256": "b91f7ae224446683e7b9e8e49cff482bfe7e7e9503f4b8eb275f13cfc217cee4"
+    },
+    {
+      "file": "screenshot-v260-combat-scratch.webp",
+      "bytes": 249424,
+      "sha256": "e81d32c3c4fab51d675da633dc6ec45a940d2f9837c28c46289134d6bade646a"
+    },
+    {
+      "file": "screenshot-v260-daily-missions.webp",
+      "bytes": 78142,
+      "sha256": "222023b6ce7c8ac6d121f5dda2a89c731fd0fdd42d7110b9d8ea7f494574ed8a"
+    },
+    {
+      "file": "screenshot-v260-defense-mix.webp",
+      "bytes": 86866,
+      "sha256": "178aa3cc596e3c2cde77ad13e33e3291f9577a76958ad280ff26608a05622851"
+    },
+    {
+      "file": "screenshot-v260-equipment-models.webp",
+      "bytes": 203444,
+      "sha256": "c614492b3a5bdeeac9ead633109e16ba4219e8a965c1c5a97fcb5dbd33262afb"
+    },
+    {
+      "file": "screenshot-v260-equipment-modules.webp",
+      "bytes": 192972,
+      "sha256": "5fb046a0ee74f3ca963f260bfe114d400ed989da1bad2d0f331241460e63e0b9"
+    },
+    {
+      "file": "screenshot-v260-mobile-bass.webp",
+      "bytes": 90056,
+      "sha256": "62dec2f3afc9526e9877b798b7d3e1b3ec577125d817234e479b033afa4350f1"
+    },
+    {
+      "file": "screenshot-v260-mobile-combat.webp",
+      "bytes": 84290,
+      "sha256": "8b5a9cb91cfab8778ebcf544af4600d4c8a27a1d498c617934c9d0520337b227"
+    },
+    {
+      "file": "screenshot-v260-mobile-menu.webp",
+      "bytes": 48198,
+      "sha256": "699cfd29ebea0e298fa9eaa33a3202ebbb5e6639b1f191980ab63070be6c2374"
+    },
+    {
+      "file": "screenshot-v260-mobile-result.webp",
+      "bytes": 40962,
+      "sha256": "ff319d704a9f3fecab60da35deda3fbd8523d0983e30453656e377c4f1f427ab"
+    },
+    {
+      "file": "screenshot-v260-music-collection.webp",
+      "bytes": 135022,
+      "sha256": "2d763a1d0f7b96cbbcbb8f24fbd521d386d7c0d2818d70aab6c0d2f9707e5142"
+    },
+    {
+      "file": "screenshot-v260-performance-result.webp",
+      "bytes": 202850,
+      "sha256": "4b2680c0152e62c685a7f6750006223a07735854c251f10874300a3f3629af7c"
+    },
+    {
+      "file": "screenshot-v260-permanent-research.webp",
+      "bytes": 55786,
+      "sha256": "49fe6964287861f254aa941cd5404d11f64f52133f13f22827cce21f5131d222"
+    },
+    {
+      "file": "screenshot-v260-record-library.webp",
+      "bytes": 75366,
+      "sha256": "6a12b84dcb7f78bf57e8b7e551155059ff55cf12e40bf710fd0e1781c0a84fe7"
+    },
+    {
+      "file": "screenshot-v260-record-menu.webp",
+      "bytes": 194894,
+      "sha256": "69d31c425261191d0eef4373b0919f83c202f1b5fc1a722b2043bcb43795a56a"
+    },
+    {
+      "file": "screenshot-v260-settings-accessibility.webp",
+      "bytes": 53638,
+      "sha256": "e4db430fc43f2095157aee5bd5b287af815ba1f4f3a931b035ce4796792ff7e4"
+    },
+    {
+      "file": "screenshot-v260-settings-controls.webp",
+      "bytes": 55958,
+      "sha256": "899bf8a0d43478b82e5dd2bd60a224386e6a50c2ae7c373bf1c3a1b313a19786"
+    },
+    {
+      "file": "screenshot-v260-stage-theme.webp",
+      "bytes": 115276,
+      "sha256": "0b866b6ad06b21c2f115937ce39cadaa3e254ac4ac9ba58a8216daeabccad1f5"
+    },
+    {
+      "file": "screenshot-v260-title-opening.webp",
+      "bytes": 263316,
+      "sha256": "cd248b1895522e4e91ad44154bc9d4ee426fdbe7dd71030e7600372bfd3eee8c"
+    },
+    {
+      "file": "screenshot-v260-tutorial-bass.webp",
+      "bytes": 114680,
+      "sha256": "2669087431dd80862bad50386cb7a401ef32843b35cba4049e7f3166a16af3c6"
+    },
+    {
+      "file": "screenshot-v260-tutorial-tap.webp",
+      "bytes": 107394,
+      "sha256": "e501a8f99133c7ed1fdba1927c743dc000932e5e01211b149e39c73aaf235efc"
+    }
+  ]
+}

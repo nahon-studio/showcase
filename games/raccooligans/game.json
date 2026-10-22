@@ -8,11 +8,14 @@
   "status": "in-development",
   "featured": true,
   "demo": false,
-  "banner": "games/raccooligans/cover.webp",
-  "bannerTextPosition": "bottom-left",
-  "bannerFocus": { "x": 68, "y": 50 },
-  "bannerAlt": "Raccooligans 로고와 함께 항만 도시를 배경으로 공구와 방패를 든 너구리 대장과 동료가 서 있는 대표 키 아트.",
-  "cover": "games/raccooligans/cover.webp",
+  "banner": "games/raccooligans/cover-20261022.jpg",
+  "bannerTextPosition": "top-left",
+  "bannerFocus": {
+    "x": 50,
+    "y": 60
+  },
+  "bannerAlt": "밝은 항만 도시에서 너구리 대장과 방패 동료가 대형 집행체와 대치하는 실제 게임 전장. 배너용으로 UI를 숨겨 촬영했습니다.",
+  "cover": "games/raccooligans/cover-20261022.jpg",
   "platforms": [
     {
       "type": "google-play",
@@ -21,109 +24,124 @@
   ],
   "screenshots": [
     {
-      "src": "games/raccooligans/screenshot-01-combat-v0530.png",
-      "alt": "노을 언덕 전장에서 너구리 대장과 동료 세 명이 화물선 집행관과 싸우는 화면. 상단 정보와 중앙 전투 버튼, 커진 설정 톱니가 보입니다.",
-      "caption": "개발 중 실제 게임 화면 · 정돈된 전투 HUD와 조작 버튼"
+      "src": "games/raccooligans/screenshot-01-combat-auto-20261022.jpg",
+      "alt": "항만 도시에서 진행하는 자동 전투. 상단의 지역·적 정보와 하단 스킬·전투 조작 버튼이 보입니다.",
+      "caption": "개발 중 실제 게임 화면 · 자동 전투와 전장 HUD"
     },
     {
-      "src": "games/raccooligans/screenshot-06-manual-overdrive-combat-v0530.jpg",
-      "alt": "수동 스킬을 사용하는 항만 전투. 강철 방벽의 보호막과 과부하 효과, 네 개 스킬의 사용·재사용 대기 표시가 보입니다.",
-      "caption": "개발 중 실제 게임 화면 · 전투 · 방벽과 과부하를 조합하는 수동 스킬"
+      "src": "games/raccooligans/screenshot-02-combat-manual-20261022.jpg",
+      "alt": "02–10 보스 전투를 일시정지한 화면. 수동 전투 설정과 네 개 스킬, 전투 계속 버튼이 보입니다.",
+      "caption": "개발 중 실제 게임 화면 · 보스 전투 · 일시정지와 수동 스킬 조작"
     },
     {
-      "src": "games/raccooligans/screenshot-07-generator-defense-v0530.jpg",
-      "alt": "야시장 정전 복구 특별 작전에서 발전기를 지키며 대형 집행체와 싸우는 화면. 남은 시간과 설비 내구력이 표시됩니다.",
-      "caption": "개발 중 실제 게임 화면 · 특별 작전 · 발전기를 지키는 방어전"
+      "src": "games/raccooligans/screenshot-03-generator-defense-20261022.jpg",
+      "alt": "야시장 정전 복구 작전의 발전기 방어 전투. 제한 시간과 설비 내구력을 확인할 수 있습니다.",
+      "caption": "개발 중 실제 게임 화면 · 특별 작전 · 발전기 방어전"
     },
     {
-      "src": "games/raccooligans/screenshot-08-supply-escort-v0530.jpg",
-      "alt": "도난 보급차 호위 특별 작전에서 너구리 대장과 방패수가 운반차를 호송하는 화면. 이동 진척과 설비 내구력이 표시됩니다.",
+      "src": "games/raccooligans/screenshot-04-supply-escort-20261022.jpg",
+      "alt": "도난 보급차 작전에서 운반차를 호송하는 전투. 이동 진척과 설비 내구력이 표시됩니다.",
       "caption": "개발 중 실제 게임 화면 · 특별 작전 · 보급차 호송"
     },
     {
-      "src": "games/raccooligans/screenshot-09-rescue-survival-v0530.jpg",
-      "alt": "주민과 골목 재건 특별 작전에서 구조 신호기와 방패를 든 적이 등장하는 생존 전투. 구조대 도착까지 남은 시간이 표시됩니다.",
+      "src": "games/raccooligans/screenshot-05-rescue-survival-20261022.jpg",
+      "alt": "주민과 골목 재건 작전의 생존 전투. 구조 신호기와 구조대 도착까지의 시간이 보입니다.",
       "caption": "개발 중 실제 게임 화면 · 특별 작전 · 구조대 도착까지 생존"
     },
     {
-      "src": "games/raccooligans/screenshot-10-victory-rewards-v0530.jpg",
-      "alt": "02–06 작전 성공 결과에서 전투 시간, 보호막 기여, 지급된 재화와 경험치, 획득 장비를 확인하는 화면.",
-      "caption": "개발 중 실제 게임 화면 · 보상 · 전투 결과와 획득 장비 확인"
+      "src": "games/raccooligans/screenshot-06-victory-rewards-20261022.jpg",
+      "alt": "02–09 작전 성공 후 전투 시간, 지급 재화·경험치와 획득 장비를 확인하는 결과 화면.",
+      "caption": "개발 중 실제 게임 화면 · 보상 · 전투 결과와 획득 장비"
     },
     {
-      "src": "games/raccooligans/screenshot-11-loot-comparison-v0530.jpg",
-      "alt": "획득한 희귀 전술 벨트의 외형과 장착 전후 전투력·출력·내구력·장갑, 장착·잠금·옵션 변경 버튼이 보이는 화면.",
+      "src": "games/raccooligans/screenshot-07-loot-comparison-20261022.jpg",
+      "alt": "새로 획득한 레벨 7 볼트브레이커의 외형과 장착 전후 능력치, 장착·잠금·옵션 재조정·분해 버튼.",
       "caption": "개발 중 실제 게임 화면 · 성장 · 보상 장비 비교와 장착"
     },
     {
-      "src": "games/raccooligans/screenshot-12-equipment-v0530.jpg",
-      "alt": "너굴 대장과 여덟 부위의 장착 장비, 선택한 볼트브레이커의 품질·강화 비용을 보여 주는 장비 작업실.",
+      "src": "games/raccooligans/screenshot-08-equipment-20261022.jpg",
+      "alt": "너굴 대장의 장착 장비와 볼트브레이커의 능력치·강화 비용을 확인하는 장비 작업실.",
       "caption": "개발 중 실제 게임 화면 · 성장 · 부위별 장비와 강화"
     },
     {
-      "src": "games/raccooligans/screenshot-02-crew-v0530.png",
-      "alt": "미카·토비·모카 세 동료의 역할과 출전 상태를 확인하는 크루 편성 화면",
-      "caption": "개발 중 실제 게임 화면 · 역할에 맞춘 동료 편성"
+      "src": "games/raccooligans/screenshot-09-crew-roster-20261022.jpg",
+      "alt": "보유한 동료의 역할과 출전 여부를 확인하고 편성하는 크루 화면.",
+      "caption": "개발 중 실제 게임 화면 · 크루 · 보유 동료와 출전 편성"
     },
     {
-      "src": "games/raccooligans/screenshot-13-mod-workshop-v0530.jpg",
-      "alt": "폭풍 청소기·번쩍 신호기·불꽃 토스터를 확인하는 생활용품 개조 공방. 폭풍 청소기의 자동 공격 효과와 조립 안내가 보입니다.",
+      "src": "games/raccooligans/screenshot-10-crew-codex-20261022.jpg",
+      "alt": "다양한 너구리 동료의 외형과 역할, 획득 여부를 살펴보는 동료 도감.",
+      "caption": "개발 중 실제 게임 화면 · 크루 · 동료 도감과 역할"
+    },
+    {
+      "src": "games/raccooligans/screenshot-11-mod-workshop-20261022.jpg",
+      "alt": "폭풍 청소기·번쩍 신호기·불꽃 토스터와 조립 조건을 살펴보는 생활용품 개조 공방.",
       "caption": "개발 중 실제 게임 화면 · 개조 · 생활용품을 전투 장비로"
     },
     {
-      "src": "games/raccooligans/screenshot-14-modules-v0530.jpg",
-      "alt": "고속 모터·중량 구동축·균형 기어 등 모듈의 효과와 소모 출력, 세 개의 조립 슬롯을 비교하는 화면.",
-      "caption": "개발 중 실제 게임 화면 · 전술 · 출력 한도에 맞춘 모듈 조립"
+      "src": "games/raccooligans/screenshot-12-modules-20261022.jpg",
+      "alt": "모듈의 효과와 소모 출력을 비교하고 세 개 조립 슬롯에 배치하는 화면.",
+      "caption": "개발 중 실제 게임 화면 · 전술 · 출력 한도와 모듈 조립"
     },
     {
-      "src": "games/raccooligans/screenshot-15-base-facilities-v0530.jpg",
-      "alt": "합금 회수장과 기동 운반차의 시설 강화 비용, 강화 전후 효과, 누적 생산물 회수 버튼이 보이는 새벽 정비소.",
+      "src": "games/raccooligans/screenshot-13-base-facilities-20261022.jpg",
+      "alt": "합금 회수장과 기동 운반차의 강화 비용·생산 효과와 누적 생산물 회수를 확인하는 시설 화면.",
       "caption": "개발 중 실제 게임 화면 · 도시 · 시설 투자와 방치 생산"
     },
     {
-      "src": "games/raccooligans/screenshot-03-restoration-v0530.png",
-      "alt": "남문 항만의 발전기·장터·쉼터 복구 완료 상태와 일일 주민 보급을 확인하는 도시 복구 화면",
-      "caption": "개발 중 실제 게임 화면 · 시설 복구와 주민 보급"
+      "src": "games/raccooligans/screenshot-14-restoration-20261022.jpg",
+      "alt": "남문 항만의 발전기·장터·쉼터 복구 조건과 단계별 보상을 확인하는 도시 복구 화면.",
+      "caption": "개발 중 실제 게임 화면 · 도시 · 시설 복구 조건과 주민 보급"
     },
     {
-      "src": "games/raccooligans/screenshot-16-city-map-v0530.jpg",
-      "alt": "남문 항만·노을 언덕·유리 온실·백파 염전의 풍경과 개척 진도, 다음 지역 해금 조건을 보여 주는 도시 작전 지도.",
+      "src": "games/raccooligans/screenshot-15-city-map-20261022.jpg",
+      "alt": "여러 지역의 풍경과 개척 진도, 다음 지역의 해금 조건을 보여 주는 도시 작전 지도.",
       "caption": "개발 중 실제 게임 화면 · 탐험 · 지역 지도와 해금 조건"
     },
     {
-      "src": "games/raccooligans/screenshot-17-crew-expeditions-v0530.jpg",
-      "alt": "남문 항만의 보급 골목·정비 순찰·기록 탐사 경로별 소요 시간, 필요한 탐사 정보와 보상, 파견 버튼을 비교하는 화면.",
-      "caption": "개발 중 실제 게임 화면 · 탐사 · 시간과 보상을 비교해 파견"
+      "src": "games/raccooligans/screenshot-16-crew-expeditions-20261022.jpg",
+      "alt": "보급 골목·정비 순찰·기록 탐사의 소요 시간과 필요한 정보, 파견 보상을 비교하는 화면.",
+      "caption": "개발 중 실제 게임 화면 · 탐사 · 경로별 시간과 보상"
     },
     {
-      "src": "games/raccooligans/screenshot-18-chapter-story-v0530.jpg",
-      "alt": "철도항의 밀수 장부 챕터의 항만 풍경과 수송장 조작·물자 회수 이야기, 주민의 목소리를 읽는 화면.",
+      "src": "games/raccooligans/screenshot-17-chapter-story-20261022.jpg",
+      "alt": "철도항의 밀수 장부 챕터의 항만 풍경과 지역 사건, 주민의 목소리를 읽는 이야기 화면.",
       "caption": "개발 중 실제 게임 화면 · 이야기 · 지역별 사건과 챕터 기록"
     },
     {
-      "src": "games/raccooligans/screenshot-04-memories-v0530.png",
-      "alt": "남문 항만 기억 네 개의 열람 완료와 장착 중인 지역 인장을 보여 주는 기억첩 화면",
-      "caption": "개발 중 실제 게임 화면 · 지역의 기억과 인장 수집"
+      "src": "games/raccooligans/screenshot-18-memories-20261022.jpg",
+      "alt": "남문 항만의 기억 열람 진행도와 지역 인장 수집 조건을 확인하는 기억첩.",
+      "caption": "개발 중 실제 게임 화면 · 수집 · 지역의 기억과 인장"
     },
     {
-      "src": "games/raccooligans/screenshot-19-relic-codex-v0530.jpg",
-      "alt": "항만 작업 명패·배전 열쇠·구조 나침반 등 도시 유물의 외형과 보유 여부, 능력치 효과를 확인하는 도감.",
+      "src": "games/raccooligans/screenshot-19-relic-codex-20261022.jpg",
+      "alt": "도시 유물의 외형과 보유 여부, 능력치 효과를 확인하는 유물 도감.",
       "caption": "개발 중 실제 게임 화면 · 수집 · 도시 유물과 보유 효과"
     },
     {
-      "src": "games/raccooligans/screenshot-05-first-boss-v0530.png",
-      "alt": "첫 보스 격파 명장면을 다시 보는 화면. 기록 다시보기와 보상 재지급 없음 안내가 보입니다.",
-      "caption": "개발 중 실제 게임 화면 · 첫 보스 명장면 다시보기"
+      "src": "games/raccooligans/screenshot-20-first-boss-scene-20261022.jpg",
+      "alt": "첫 보스 격파 명장면을 다시 보는 화면. 기록 다시보기와 보상 재지급 없음 안내가 표시됩니다.",
+      "caption": "개발 중 실제 게임 화면 · 연출 · 첫 보스 명장면 다시보기"
     },
     {
-      "src": "games/raccooligans/screenshot-20-daily-attendance-v0530.jpg",
-      "alt": "7일 순환 출석 보급의 일차별 보상과 오늘 받을 크레딧·계약서·무료 크라운을 확인하는 화면.",
+      "src": "games/raccooligans/screenshot-21-daily-attendance-20261022.jpg",
+      "alt": "7일 순환 출석 보급의 일차별 보상과 오늘 받을 보급을 확인하는 화면.",
       "caption": "개발 중 실제 게임 화면 · 일일 콘텐츠 · 7일 순환 출석 보급"
     },
     {
-      "src": "games/raccooligans/screenshot-21-city-daily-operation-v0530.jpg",
-      "alt": "일일·주간 작전 안내와 골목 순찰·장비 점검·골목의 선택 목표, 진행도·보상·하러 가기 버튼을 보여 주는 화면.",
-      "caption": "개발 중 실제 게임 화면 · 일일 콘텐츠 · 목표 확인과 활동 바로가기"
+      "src": "games/raccooligans/screenshot-22-city-daily-operation-20261022.jpg",
+      "alt": "일일·주간 작전과 개별 목표의 진행도·보상·활동 바로가기 버튼을 확인하는 화면.",
+      "caption": "개발 중 실제 게임 화면 · 일일 콘텐츠 · 목표와 활동 바로가기"
+    },
+    {
+      "src": "games/raccooligans/screenshot-23-fold-combat-20261022.jpg",
+      "alt": "673×841 비율의 전투 일시정지 화면. 최상단 전투 정보와 좌우 보조 버튼, 하단 조작부 배치.",
+      "caption": "개발 중 실제 게임 화면 · 폴드 비율 · 화면 상단에 모은 전투 정보"
+    },
+    {
+      "src": "games/raccooligans/screenshot-24-fold-growth-20261022.jpg",
+      "alt": "673×841 비율에서 장착 장비와 선택 장비의 성장 정보를 확인하는 화면.",
+      "caption": "개발 중 실제 게임 화면 · 폴드 비율 · 장비 작업실과 성장 정보"
     }
   ],
   "about": [

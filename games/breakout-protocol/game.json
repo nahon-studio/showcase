@@ -15,7 +15,10 @@
   },
   "banner": "games/breakout-protocol/cover.webp",
   "bannerTextPosition": "bottom-right",
-  "bannerFocus": { "x": 50, "y": 45 },
+  "bannerFocus": {
+    "x": 50,
+    "y": 45
+  },
   "bannerAlt": "Breakout Protocol 로고 아래, 달빛이 비치는 감옥 안뜰에 주황색 수감복을 입은 네 인물이 서 있는 대표 키 아트.",
   "cover": "games/breakout-protocol/cover.webp",
   "platforms": [
@@ -31,23 +34,28 @@
   "screenshots": [
     {
       "src": "games/breakout-protocol/screenshot-01-prison.webp",
-      "alt": "돌벽과 철창으로 나뉜 교도소 내부를 탐색하는 주인공과 현재 조사 목표, 시간, 기록 및 소지품 버튼이 표시된 한국어 게임 화면.",
+      "alt": "돌벽과 철창으로 나뉜 세탁 작업실의 마라와 다른 수감자, 화면 가장자리의 접기 가능한 목표·일과·상호작용 HUD가 보이는 한국어 게임 화면.",
       "caption": "수감생활 속 조사 · 주변 사물과 사람에게서 다음 단서를 찾으세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-07-dialogue.webp",
-      "alt": "레온의 초상화와 대화·사연 및 조력자·자료 제시 탭, 알고 있는 일과 다른 행동 버튼이 보이는 한국어 인물 대화 화면.",
+      "alt": "레온의 인물 정보와 대화·사연 및 조력자·자료 제시 탭, 넓어진 대화 본문과 하단 행동 버튼이 분리된 한국어 대화 화면.",
       "caption": "인물과 대화 · 사연을 듣고 자료를 제시하며 관계와 증언을 확인하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-02-inventory.webp",
-      "alt": "장비·소모품·기록 분류 탭과 픽셀 아이템 슬롯, 정비 렌치의 설명과 사용 버튼이 보이는 한국어 소지품 화면.",
-      "caption": "소지품과 도구 · 무엇을 어디에 사용할지 확인하고 탈출을 준비하세요."
+      "alt": "아이템 목록과 넓어진 상세 설명 영역, 전체 읽기 버튼, 정비 렌치의 설비 조작 버튼이 구분된 최신 한국어 소지품 화면.",
+      "caption": "소지품과 도구 · 분류된 물건을 살피고, 설명을 펼쳐 사용처를 확인하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-03-deduction.webp",
-      "alt": "사건 자료 목록과 선택한 두 원본, 세 가지 가설을 나란히 보여주는 한국어 수사 수첩 화면.",
+      "alt": "자료 목록 아래 출처와 원문이 구분되고, 오른쪽에 선택한 두 자료와 세 가지 가설이 배치된 한국어 수사 수첩.",
       "caption": "기록 대조 · 두 자료와 가설을 연결하고 현장에서 확인하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-15-document.webp",
+      "alt": "수정 전 설비 사고 기록의 출처와 원문을 넓은 본문 영역에 보여주고 수사 수첩·다음 행동 버튼을 아래에 둔 한국어 문서 화면.",
+      "caption": "원본을 읽는 시간 · 문서의 시각과 표현을 기억하고 다른 단서와 비교하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-12-visitation.webp",
@@ -55,9 +63,14 @@
       "caption": "면회 이야기 · 기다리는 사람과의 연락도 수감생활의 일부가 됩니다."
     },
     {
+      "src": "games/breakout-protocol/screenshot-16-life-notes.webp",
+      "alt": "책갈피의 빈자리 선택 미션에서 반환된 책, 화분 아래의 잎, 에밀의 약속을 나란히 읽는 관찰 기록 화면.",
+      "caption": "수감생활의 작은 사건 · 관찰한 흔적과 동료의 말을 연결해 스스로 판단하세요."
+    },
+    {
       "src": "games/breakout-protocol/screenshot-08-schedule.webp",
-      "alt": "하루 시간표에서 현재 오전 작업 시간이 강조되고, 현재 의무와 지정 장소, 다음 일정 및 이동 버튼이 보이는 한국어 일과표.",
-      "caption": "하루의 리듬 · 식사·작업·운동·면회·귀실 시간을 살피며 기회를 만드세요."
+      "alt": "오전 작업 의무와 지정 장소, 전체 일과표, 다음 점심 식사의 게임 시간 및 실제 남은 시간이 표시된 한국어 일과표.",
+      "caption": "하루의 리듬 · 다음 일정까지 남은 실제 시간을 살피며 행동을 계획하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-09-map.webp",
@@ -66,8 +79,8 @@
     },
     {
       "src": "games/breakout-protocol/screenshot-10-escape-plan.webp",
-      "alt": "경로별 탭과 하부 집수로의 준비 단계, 조사한 설비 기록 및 입구 이동 버튼이 보이는 한국어 탈출 계획 화면.",
-      "caption": "탈출 설계 · 조사한 기록과 준비 단계를 비교하고 다음 행동을 정하세요."
+      "alt": "여러 탈출 경로를 고르는 사이드 탭과 하부 집수로 소개, 준비 상태 및 선택형 단계별 도움 버튼이 있는 한국어 탈출 계획 화면.",
+      "caption": "탈출 설계 · 경로의 특징과 준비 상태를 비교하세요. 단계별 도움은 필요할 때 펼칩니다."
     },
     {
       "src": "games/breakout-protocol/screenshot-04-records.webp",
@@ -76,7 +89,7 @@
     },
     {
       "src": "games/breakout-protocol/screenshot-13-railway.webp",
-      "alt": "교정 이송역의 화차 표식과 편성 슬롯, 조력자의 역할 및 신호등, 점검 운행 버튼이 나뉘어 배치된 한국어 철도 퍼즐 화면.",
+      "alt": "여객·화물·의료를 구분하는 픽셀 표식과 화차 편성 카드, 두 조력자의 역할 및 출발 신호를 확인하는 한국어 철도 퍼즐 화면.",
       "caption": "이송역과 협력 · 화차 편성, 출발 신호, 동료의 역할을 준비하세요."
     },
     {
@@ -91,12 +104,12 @@
     },
     {
       "src": "games/breakout-protocol/screenshot-14-submarine.webp",
-      "alt": "물 위의 잠수정과 나무 부두, 리나와 잠수 기사, 산소 점검 장비가 보이는 외부 이야기의 한국어 탐색 화면.",
+      "alt": "나무 부두에서 잠수 기사와 산소 점검 장비를 확인하는 리나, 물 위의 커다란 잠수정, 가장자리 HUD가 보이는 한국어 외부 탐색 화면.",
       "caption": "외해에서 해저까지 · 산소와 압력을 점검하며 잠수정 여정을 준비하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-11-collection.webp",
-      "alt": "마라의 클리어 도장과 이보·님의 진행 기록, 미시작 인물 카드 및 사건·여정·탈출 경로 집계를 보여주는 한국어 시나리오 컬렉션.",
+      "alt": "마라의 클리어와 이보·님의 진행, 미시작 인물 카드, 사건·여정·13개 탈출 경로의 기록 집계를 보여주는 한국어 시나리오 컬렉션.",
       "caption": "여정을 모으는 컬렉션 · 인물별 진행과 클리어, 탈출 기록을 한눈에 확인하세요."
     }
   ],

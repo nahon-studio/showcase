@@ -38,107 +38,127 @@
       "caption": "Apricot And Acorn · 살구와 도토리의 농장과 마을 이야기."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-01-farm-garden.webp",
-      "alt": "집과 밭, 연못이 있는 농장에서 플레이어와 이웃들 옆에 꽃을 등에 심은 정원 동료 두루가 서 있는 최신 한국어 게임 화면.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-01-farm-garden.webp",
+      "alt": "집과 밭, 연못과 꽃을 등에 심은 정원 동료 두루가 보이는 한국어 농장 플레이 화면. 최신 퀵슬롯과 오늘 할 일 안내가 표시되어 있다.",
       "caption": "농장과 이동 정원 두루 · 밭과 꽃을 가꾸며 나만의 하루를 시작하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-02-home-decoration.webp",
-      "alt": "개편된 집 꾸미기 화면. 선택한 상단 탭이 콘텐츠와 연결되고, 왼쪽 가구 목록과 오른쪽 실제 방의 벽·창문·바닥 및 가구 배치 미리보기가 구분되어 있다.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-02-home-decoration.webp",
+      "alt": "가구 선택 목록과 실제 방의 배치 미리보기, 집 꾸미기 탭과 배치 버튼이 구분된 한국어 실내 꾸미기 화면.",
       "caption": "집 꾸미기 · 가구를 고르고 실제 방에서 배치 위치를 미리 확인하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-03-inventory.webp",
-      "alt": "크림·민트 인벤토리의 상단 가방·제작·기록·지도 탭과 왼쪽 분류 탭, 퀵슬롯·보관 칸·착용 장비, 오른쪽 결정 검날의 요약 정보와 장착 버튼을 보여 주는 최신 한국어 화면.",
-      "caption": "모험을 위한 준비 · 분류 탭으로 가방을 정리하고 장비의 능력을 살펴보세요."
+      "src": "games/apricot-and-acorn/screenshot-20261027-03-inventory.webp",
+      "alt": "크림·민트 가방의 상단 기능 탭과 왼쪽 분류, 아이템 외곽선과 중앙 아이콘, 결정 검날의 요약·상세 정보 및 장착 버튼.",
+      "caption": "모험을 위한 준비 · 가방을 분류하고 장비의 능력과 상세 정보를 확인하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-04-duru-garden.webp",
-      "alt": "두루와 돌보기 탭이 본문과 연결된 이동 정원 화면. 심은 식물 네 종류와 두루의 모습, 모종 목록, 모은 바람·이슬·햇빛 자원 및 돌보기 버튼이 보인다.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-04-duru-garden.webp",
+      "alt": "이동 정원·서식지·이야기 탭이 있는 두루의 정원 화면. 네 종류 식물과 두루의 모습, 바람·이슬·햇빛 자원과 돌보기 행동이 보인다.",
       "caption": "두루의 이동 정원 · 꽃밭을 돌보고 모은 날씨를 활용하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-05-river.webp",
+      "alt": "강변 마을의 길을 플레이어와 서로 간격을 두고 따라오는 모라·올린 동행대가 함께 걷는 실제 게임 화면.",
+      "caption": "혼자 떠나지 않아도 괜찮아요 · 함께 일한 이웃들과 탐험을 이어가세요.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-05-travel-party.webp"
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-06-river.webp",
       "alt": "강을 가로지르는 나무다리와 석조 건물, 물레방아와 나무가 있는 강변 마을에서 플레이어와 두루가 함께 걷는 화면.",
       "caption": "강변 마을 · 다리와 물레방아를 따라 마을을 둘러보세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-06-cave-combat.webp",
-      "alt": "폐광 지하 2층의 돌벽과 광석 사이에서 플레이어가 검을 휘두르는 궤적, 주변의 적과 탐험 통로가 보이는 실시간 전투 화면.",
-      "caption": "폐광 탐험 · 검을 휘두르며 적과 맞서고 광맥과 전리품을 찾아보세요."
+      "src": "games/apricot-and-acorn/screenshot-20261027-07-coast.webp",
+      "alt": "푸른 바다 위 나무 부두에서 플레이어와 두루가 함께 서 있고 해변과 울타리 안 동물이 보이는 해안 마을 화면.",
+      "caption": "해안 마을 · 나무 부두에서 일렁이는 푸른 바다를 만나세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-07-neighbors.webp",
-      "alt": "사람들 탭과 연결된 협업 화면. 주민 목록 옆에 모라와 맺은 현장 동료 관계, 씨앗 부탁과 현장 활동 등 관계에 따른 행동이 표시되어 있다.",
-      "caption": "함께한 일로 쌓는 관계 · 이웃의 부탁과 공동 작업을 이어 가세요."
+      "alt": "만과 곶, 크기가 다른 육지와 좁은 연결로를 보여 주는 새 해안 마을 지도. 구역을 선택하면 길을 안내한다.",
+      "caption": "굽은 해안과 연결로 · 지도를 살펴보고 다음 산책길을 골라보세요.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-08-coast-map.webp"
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-08-watering.webp",
-      "alt": "농장의 작물과 꽃밭 앞에서 물뿌리개를 든 플레이어가 물을 주고, 물 잔량이 39로 표시된 화면.",
-      "caption": "밭 돌보기 · 자라는 작물에 물을 주고 수확을 준비하세요."
-    },
-    {
-      "src": "games/apricot-and-acorn/screenshot-20261022-09-animals.webp",
-      "alt": "축사 앞에 소와 양, 닭이 모여 있고 플레이어가 모이를 선택한 농장 화면. 뒤쪽에는 연못과 나무다리가 보인다.",
-      "caption": "축사 앞의 작은 일상 · 소와 양, 닭을 돌보세요."
-    },
-    {
-      "src": "games/apricot-and-acorn/screenshot-20261022-10-fishing.webp",
-      "alt": "강변의 나무다리 옆에서 낚싯대를 드리운 플레이어와 낚시 타이밍 바, 초록 구간 안내가 표시된 화면.",
-      "caption": "물가의 낚시 · 타이밍을 맞추며 물고기를 낚아 보세요."
-    },
-    {
-      "src": "games/apricot-and-acorn/screenshot-20261022-11-gold-panning.webp",
-      "alt": "강변 사금 채취 중 왼쪽과 오른쪽 체질 타이밍 바 및 성공 횟수가 표시된 한국어 미니게임 화면.",
-      "caption": "사금 채취 · 물가에서 좌우로 체질하며 모래 속 자원을 찾아보세요."
-    },
-    {
-      "src": "games/apricot-and-acorn/screenshot-20261022-12-coast.webp",
-      "alt": "배와 나무 부두, 일렁이는 푸른 바다가 있는 해안 마을. 플레이어와 두루가 부두에 서 있고 해변과 울타리 안 동물들이 보이는 실제 게임 화면.",
-      "caption": "해안 마을 · 부두와 배, 푸른 바다를 만나는 산책길."
-    },
-    {
-      "src": "games/apricot-and-acorn/screenshot-20261022-13-snow.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-09-snow.webp",
       "alt": "눈발이 내리는 북쪽 마을에서 눈 덮인 지붕과 나무, 장터와 울타리, 주민들이 보이는 화면.",
       "caption": "눈 내리는 북쪽 마을 · 설경 속 주민과 생활 공간을 만나세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-14-forest-rain.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-10-forest-rain.webp",
       "alt": "빗줄기가 내리는 숲 마을의 나무와 집, 돌길과 울타리가 보이는 실제 게임 화면.",
       "caption": "비 오는 숲 마을 · 날씨가 바꾸는 풍경 속을 걸어보세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-15-autumn-windmill.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-11-autumn-windmill.webp",
       "alt": "황금빛과 주황빛 나무가 울창한 마을의 풍차와 돌길, 플레이어가 보이는 가을 지역 화면.",
       "caption": "풍차와 가을 숲 · 다른 색으로 물든 지역을 둘러보세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-16-crafting.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-12-cave-combat.webp",
+      "alt": "폐광 지하 2층의 돌벽과 광석 사이에서 플레이어가 검을 휘두르는 궤적, 주변의 적과 탐험 통로가 보이는 실시간 전투 화면.",
+      "caption": "폐광 탐험 · 검을 휘두르며 적과 맞서고 광맥과 전리품을 찾아보세요."
+    },
+    {
+      "alt": "해안 동굴의 암석 통로에서 플레이어가 동굴 생물을 향해 검을 휘두르는 장면.",
+      "caption": "해안 동굴 탐험 · 바위 안쪽의 생물과 기록을 찾아보세요.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-13-coastal-cave.webp"
+    },
+    {
+      "alt": "돌벽으로 둘러싸인 옛 저수장의 마른 물길과 나무 수문, 일부 되살아난 수로를 살펴보는 실제 게임 화면.",
+      "caption": "숲 너머의 오래된 수로 · 흔적을 따라 숨은 공간을 살펴보세요.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-14-secret-cistern.webp"
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-15-neighbors.webp",
+      "alt": "사람들 탭과 연결된 협업 화면. 주민 목록 옆에 모라와 맺은 현장 동료 관계, 씨앗 부탁과 현장 활동 등 관계에 따른 행동이 표시되어 있다.",
+      "caption": "함께한 일로 쌓는 관계 · 이웃의 부탁과 공동 작업을 이어 가세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-16-watering.webp",
+      "alt": "작물과 꽃밭 앞에서 물뿌리개를 든 플레이어가 물을 주는 한국어 농장 화면.",
+      "caption": "밭 돌보기 · 자라는 작물에 물을 주고 수확을 준비하세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-17-animals.webp",
+      "alt": "축사 앞에 소와 양, 닭이 모여 있고 플레이어가 모이를 선택한 농장 화면. 뒤쪽에는 연못과 나무다리가 보인다.",
+      "caption": "축사 앞의 작은 일상 · 소와 양, 닭을 돌보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-18-fishing.webp",
+      "alt": "강변에서 낚싯대를 드리운 플레이어와 낚시 진행 상황 및 타이밍 조작 안내가 보이는 한국어 미니게임 화면.",
+      "caption": "물가의 낚시 · 타이밍을 맞추며 물고기를 낚아 보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-19-gold-panning.webp",
+      "alt": "강변 사금 채취 중 왼쪽과 오른쪽 체질 타이밍 바 및 성공 횟수가 표시된 한국어 미니게임 화면.",
+      "caption": "사금 채취 · 물가에서 좌우로 체질하며 모래 속 자원을 찾아보세요."
+    },
+    {
+      "src": "games/apricot-and-acorn/screenshot-20261027-20-crafting.webp",
       "alt": "선택한 울타리의 재료 보유량과 제작 수량, 제작 버튼을 보여 주는 개편된 제작 화면.",
       "caption": "생활 도구 제작 · 필요한 재료를 확인하고 농장에 쓸 물건을 만드세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-17-weather-kite.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-21-weather-kite.webp",
       "alt": "푸른 하늘에서 연을 움직여 바람·빗방울·햇살을 모으는 미니게임. 수집한 자원과 남은 시간이 표시되어 있다.",
       "caption": "연으로 날씨 모으기 · 하늘의 바람과 비, 햇살을 모아보세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-18-pollination.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-22-pollination.webp",
       "alt": "꽃이 있는 풀밭에서 나비를 다음 꽃으로 이끄는 미니게임. 진행 상황 2/6과 시간 제한 없음이 표시된 화면.",
       "caption": "꽃길로 이끌기 · 수분 생물을 다른 꽃으로 안내하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-19-skills.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-23-skills.webp",
       "alt": "농사·채집·낚시·채광·전투의 숙련 목록, 농사 레벨과 두 가지 전문 분야를 보여 주는 생활수첩 화면.",
       "caption": "생활 숙련 · 활동으로 쌓은 경험과 전문 분야를 확인하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-20-season-orders.webp",
-      "alt": "농장 운영의 계절 납품 탭에서 순무, 달걀, 과일잼의 요구 수량과 보상을 확인하는 화면.",
+      "src": "games/apricot-and-acorn/screenshot-20261027-24-season-orders.webp",
+      "alt": "농장 운영의 계절 납품 탭에서 계절 작물과 달걀, 과일잼의 필요 수량·보상·납품 조건을 확인하는 화면.",
       "caption": "계절 납품 · 수확물과 가공품을 준비해 농장을 운영하세요."
     },
     {
-      "src": "games/apricot-and-acorn/screenshot-20261022-21-forest-camp.webp",
+      "src": "games/apricot-and-acorn/screenshot-20261027-25-forest-camp.webp",
       "alt": "숲 마을 야영지 화면. 타오르는 불의 상태와 불 준비, 몸 돌보기, 야영 요리의 세 구역이 구분되어 있다.",
       "caption": "숲속 야영 · 불을 준비하고 쉬거나 야영 요리를 살펴보세요."
     }

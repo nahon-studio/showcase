@@ -8,10 +8,13 @@
   "status": "in-development",
   "featured": true,
   "demo": false,
-  "banner": "games/yokai-town/banner-gameplay-v2.webp",
+  "banner": "games/yokai-town/banner-gameplay-v0441.webp",
   "bannerTextPosition": "top-right",
-  "bannerFocus": { "x": 50, "y": 50 },
-  "bannerAlt": "Yokai Town 영문 로고와 도깨비·여우 캐릭터 옆에 자원 수량과 건설·수확 버튼이 보이는 마을 플레이 화면을 크게 배치한 홍보 배너",
+  "bannerFocus": {
+    "x": 50,
+    "y": 50
+  },
+  "bannerAlt": "Yokai Town 영문 제목과 도깨비·여우 캐릭터 옆에 자주색 HUD와 접이식 메뉴가 보이는 0.44.1 마을 화면을 담은 홍보 배너",
   "platforms": [
     {
       "type": "google-play",
@@ -20,23 +23,33 @@
   ],
   "screenshots": [
     {
-      "src": "games/yokai-town/screenshot-01.webp",
-      "alt": "호적당과 생산·방어 시설, 도깨비와 여우불 주민이 보이는 아이소메트릭 마을 화면",
-      "caption": "마을 운영 · 생산과 수확"
+      "src": "games/yokai-town/screenshot-01-village-v0441.webp",
+      "alt": "자주색 자원 HUD와 우측 하단 접이식 메뉴, 아이소메트릭 마을과 요괴 주민이 보이는 Android 0.44.1 게임 화면",
+      "caption": "마을 운영 · 생산·목표·접이식 메뉴"
     },
     {
-      "src": "games/yokai-town/screenshot-02.webp",
-      "alt": "선택한 타일에 귀시 건물의 미리보기와 배치 확정·취소 버튼이 표시된 건설 화면",
+      "src": "games/yokai-town/screenshot-02-building-placement-v0441.webp",
+      "alt": "건물 미리보기와 배치 가능 표시, 우측 아래 사각형 취소·확정 버튼이 보이는 Android 0.44.1 건설 화면",
       "caption": "건설 · 타일 선택과 배치 확정"
     },
     {
-      "src": "games/yokai-town/screenshot-03.webp",
-      "alt": "도깨비·여우불·부적령 부대가 적 거점을 공략하고 집결 깃발과 서리 부적을 사용하는 전투 화면",
-      "caption": "원정 전투 · 부대 편성과 전술 개입"
+      "src": "games/yokai-town/screenshot-03-battle-v0441.webp",
+      "alt": "원정 시작 시 세 부대와 집결·서리 전술 버튼, 출진할 지도 외곽이 표시된 Android 0.44.1 전투 화면",
+      "caption": "원정 · 출진 위치와 부대 선택"
     },
     {
-      "src": "games/yokai-town/screenshot-04.webp",
-      "alt": "요괴 타운 제목과 기와 건물, 도깨비와 여우불 캐릭터, 마을 입장 버튼이 있는 타이틀 화면",
+      "src": "games/yokai-town/screenshot-04-squad-v0441.webp",
+      "alt": "도깨비·여우불·부적령의 부대 수와 역할, 수용량 및 연구 정보가 보이는 Android 0.44.1 편성 화면",
+      "caption": "원정대 편성 · 요괴의 역할과 수용량"
+    },
+    {
+      "src": "games/yokai-town/screenshot-05-inventory-first-v0441.webp",
+      "alt": "왼쪽 세로 탭과 장식 카드 여섯 개, 배치 및 페이지 이동 버튼이 보이는 Android 0.44.1 장식 보관함",
+      "caption": "장식 보관함 · 수집과 마을 꾸미기"
+    },
+    {
+      "src": "games/yokai-town/screenshot-06-title-v0441.webp",
+      "alt": "YOKAI TOWN 제목과 기와 건물, 도깨비·여우 캐릭터, 마을 입장 버튼이 보이는 Android 0.44.1 타이틀 화면",
       "caption": "요괴 타운 · 게임 타이틀"
     }
   ],
@@ -75,5 +88,5 @@
     "수집"
   ],
   "videos": [],
-  "cover": "games/yokai-town/cover-gameplay-v2.webp"
+  "cover": "games/yokai-town/banner-gameplay-v0441.webp"
 }

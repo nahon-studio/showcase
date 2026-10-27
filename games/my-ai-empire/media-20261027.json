@@ -1,0 +1,738 @@
+{
+  "capturedAt": "2026-10-27",
+  "game": "My AI Empire",
+  "galleryImages": 38,
+  "replacedGalleryEntries": 27,
+  "previousImageFilesPreserved": true,
+  "captureMethod": "Native macOS Godot source, 1440x900 request; earned campaign checkpoint copies renamed PAD AI to Tokyo AI for presentation only. No money/progression grants. New policies configured and paid via real UI. Normal movement/travel/UI via controller input replay, 4x/240Hz and focus notifications. Six-second settling in game time. Isolated QA saves/preferences. Not a new release export or one uninterrupted earned campaign.",
+  "sourceRevision": "v813 working source",
+  "runtime": "Godot 4.5.2, macOS, 1440x900 viewport",
+  "processing": "PNG to lossless WebP. Decoded pixels match captured originals. No visual retouching or generated gameplay images.",
+  "privacy": "Isolated QA save and settings directory. Original user data unchanged. No save files included.",
+  "scenes": [
+    {
+      "id": "03-founding",
+      "source": "new-company setup",
+      "context": "Current difficulty and country setup before new company",
+      "day": 1.0,
+      "panel": "welcome",
+      "map": "hq"
+    },
+    {
+      "id": "02-office-outside",
+      "source": "new-company setup",
+      "context": "New company at real outdoor spawn; current HUD and intact roof",
+      "day": 1.0,
+      "panel": "",
+      "map": "hq"
+    },
+    {
+      "id": "01-office-inside",
+      "source": "new-company setup",
+      "context": "Walked through actual doorway to the office central corridor",
+      "day": 1,
+      "panel": "",
+      "map": "hq"
+    },
+    {
+      "id": "10-server-hall",
+      "source": "new-company setup",
+      "context": "Physical route to current server hall, solid racks and current occlusion",
+      "day": 1.0,
+      "panel": "",
+      "map": "hq"
+    },
+    {
+      "id": "04-turbo",
+      "source": "res://qa/v813/campaign/begin/checkpoint-first-release.json",
+      "context": "Conversation with Turbo at the office",
+      "day": 6.0,
+      "panel": "dialogue",
+      "map": "hq"
+    },
+    {
+      "id": "05-recruitment",
+      "source": "res://qa/v813/campaign/begin/checkpoint-first-release.json",
+      "context": "Current employee recruitment and salary negotiation",
+      "day": 6.0,
+      "panel": "staff",
+      "map": "hq"
+    },
+    {
+      "id": "06-research",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Six model families and current research state",
+      "day": 90.0,
+      "panel": "research",
+      "map": "hq"
+    },
+    {
+      "id": "07-technology",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Technology tree and prerequisites",
+      "day": 90.0,
+      "panel": "evolution",
+      "map": "hq"
+    },
+    {
+      "id": "08-benchmarks",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Current frontier ranking and competing models",
+      "day": 90.0,
+      "panel": "frontier",
+      "map": "hq"
+    },
+    {
+      "id": "09-inventory",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Owned harness inventory and equipment state",
+      "day": 90.0,
+      "panel": "inventory",
+      "map": "hq"
+    },
+    {
+      "id": "11-compute-monitor",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Training versus inference capacity and recorded utilization",
+      "day": 90.0,
+      "panel": "resources",
+      "map": "hq"
+    },
+    {
+      "id": "12-memory-procurement",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "HBM/DRAM procurement offers",
+      "day": 90.0,
+      "panel": "resources",
+      "map": "hq"
+    },
+    {
+      "id": "13-serving-preview",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Uncommitted serving policy forecast",
+      "day": 90.0,
+      "panel": "resources",
+      "map": "hq"
+    },
+    {
+      "id": "15-subscription-prices",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Subscription monthly prices and current plans",
+      "day": 90.0,
+      "panel": "pricing",
+      "map": "hq"
+    },
+    {
+      "id": "16-api-prices",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Retail input/output and other model unit prices",
+      "day": 90.0,
+      "panel": "pricing",
+      "map": "hq"
+    },
+    {
+      "id": "17-enterprise",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "B2B contracting and client service state",
+      "day": 90.0,
+      "panel": "pricing",
+      "map": "hq"
+    },
+    {
+      "id": "18-cashflow",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Earned company's recurring daily revenue and costs",
+      "day": 90.0,
+      "panel": "cashflow",
+      "map": "hq"
+    },
+    {
+      "id": "19-company-report",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Actual growth and financial metrics",
+      "day": 90.0,
+      "panel": "overview",
+      "map": "hq"
+    },
+    {
+      "id": "20-requests",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Optional startup requests, costs, deadlines and rewards",
+      "day": 90.0,
+      "panel": "opportunities",
+      "map": "hq"
+    },
+    {
+      "id": "21-management-event",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Pending management event and actual response choices",
+      "day": 90.0,
+      "panel": "event",
+      "map": "hq"
+    },
+    {
+      "id": "22-social-marketing",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Social post styles, audiences and campaign choices",
+      "day": 90.0,
+      "panel": "social",
+      "map": "hq"
+    },
+    {
+      "id": "23-world-market",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Current world market map and country boundaries",
+      "day": 90.0,
+      "panel": "world",
+      "map": "hq"
+    },
+    {
+      "id": "28-growth-campaign",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Eight-stage company campaign and current evidence",
+      "day": 90.0,
+      "panel": "growth",
+      "map": "hq"
+    },
+    {
+      "id": "29-customer-projects",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Industry-specific customer briefs",
+      "day": 90.0,
+      "panel": "solutions",
+      "map": "hq"
+    },
+    {
+      "id": "30-solution-design",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Alternative architectures, pilot cost and operating tradeoffs",
+      "day": 90.0,
+      "panel": "solutions",
+      "map": "hq"
+    },
+    {
+      "id": "31-project-outcomes",
+      "source": "res://qa/v813/campaign/begin/checkpoint-sector-observed.json",
+      "context": "Live project outcomes and observed company contribution",
+      "day": 65.0,
+      "panel": "solutions",
+      "map": "hq"
+    },
+    {
+      "id": "14-serving-results",
+      "source": "res://qa/v813/campaign/resume/checkpoint-serving-restored.json",
+      "context": "Previous completed 30-day precision/TPS observation, preserved after restoration",
+      "day": 90,
+      "panel": "resources",
+      "map": "hq"
+    },
+    {
+      "id": "27-ipo",
+      "source": "res://qa/v813/campaign/resume/checkpoint-funding-3-ipo.json",
+      "context": "Earned IPO proposal and ownership terms",
+      "day": 210.0,
+      "panel": "financing",
+      "map": "hq"
+    },
+    {
+      "id": "32-usage-policy",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Weekly allowance and scheduled paid-overage terms",
+      "day": 90.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "34-credit-shop",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Paid credit packs, discounts and customer spending caps",
+      "day": 90.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "35-promotional-credit",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Issued promotional credit campaign and cooldown",
+      "day": 90.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "33-api-billing",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Prepaid API and optional cache/batch pricing",
+      "day": 90.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "36-provider-supply",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Three real trial closes, projected delivery and manual provider adoption",
+      "day": 93.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "37-settlement",
+      "source": "res://qa/v813/campaign/begin/checkpoint-midgame-reload.json",
+      "context": "Paid-credit sales, recognized revenue, unpaid balances and supply receivables",
+      "day": 94.0,
+      "panel": "commerce",
+      "map": "hq"
+    },
+    {
+      "id": "38-company-endings",
+      "source": "res://qa/v813/campaign/resume/checkpoint-public-company.json",
+      "context": "Optional company conclusions before committing to an ending",
+      "day": 211.0,
+      "panel": "ending_routes",
+      "map": "hq"
+    },
+    {
+      "id": "24-airport",
+      "source": "res://qa/v813/campaign/resume/checkpoint-public-company.json",
+      "context": "Current airport after physical shuttle route",
+      "day": 211.0,
+      "panel": "",
+      "map": "airport"
+    },
+    {
+      "id": "25-flight",
+      "source": "res://qa/v813/campaign/resume/checkpoint-public-company.json",
+      "context": "Paid flight in actual aircraft interior",
+      "day": 211.0,
+      "panel": "",
+      "map": "flight"
+    },
+    {
+      "id": "26-supplier-campus",
+      "source": "res://qa/v813/campaign/resume/checkpoint-public-company.json",
+      "context": "Actual arrival at memory supplier campus",
+      "day": 213.0,
+      "panel": "",
+      "map": "supplier"
+    }
+  ],
+  "files": [
+    {
+      "path": "games/my-ai-empire/screenshot-01-office-inside-20261027.webp",
+      "bytes": 72542,
+      "sha256": "37656ca38298b68508b065b3bb7fc6d5b37923a5f30e4f7fa9871308303faf63",
+      "png_sha256": "06ad97ed450741d6c273e5de64bdebf9de70eb9cd888035b1d2b65b696652e7e",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-02-office-outside-20261027.webp",
+      "bytes": 54036,
+      "sha256": "f636cf6b5bdc94a61ac3514130d88ae1af2abf0c4da12a03b07048167bcc1eaf",
+      "png_sha256": "fbf1efd2e0f67d1b02b675984da8bdd64ce7f68ef202020ff0aff42c49612bc7",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-03-founding-20261027.webp",
+      "bytes": 44228,
+      "sha256": "665435294e6ec9a63fcb3bf0f724f3aeed3d031686f3b33f6380be5509f86f8b",
+      "png_sha256": "e1a9b270926750f14c389b67a6c482b74702b8ca248320d4959d1ce7bf5ff500",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-04-turbo-20261027.webp",
+      "bytes": 47454,
+      "sha256": "d02aa1390ca0db84a2ee4562a55088ca41331e7e20b1c3bd9bb96daeec6eaf4a",
+      "png_sha256": "8e0500b04701a06f464c58b647c86ddbc78bcb0594d57dbba1c677446eccc639",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-05-recruitment-20261027.webp",
+      "bytes": 54594,
+      "sha256": "f17e5783ca7067a2380202de22980d47dfd69ba1606a3ebe0d4ae4982e3ae9ec",
+      "png_sha256": "9a6bdf2b722ea86cdc1f94f1265cd5d6afab43e1e67f1865846bb75db720594e",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-06-research-20261027.webp",
+      "bytes": 53586,
+      "sha256": "eb264bdbb01cecda196632f4c61aa5dc6201f70ca0be29bf89a15a95418ee2e5",
+      "png_sha256": "3dfdaa510e172774240860bf1c2f9ce1f63c47b18a6284bcdbc19247c1e0b56a",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-07-technology-20261027.webp",
+      "bytes": 62606,
+      "sha256": "56b0c58fd0cf3f04a071ca66c002f59b377dc1d60235ab564b5cf85989843bba",
+      "png_sha256": "0913fa8851c9a28b96c6e1ace3775df9a4ea01ea1146f0b3848bfe0c22b28fd9",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-08-benchmarks-20261027.webp",
+      "bytes": 68588,
+      "sha256": "f91f0bd81fd5eecf0c1edf2442a41dadd620180ec7ab22f0172391266dc89d4c",
+      "png_sha256": "1e4a9432326ea9423bd0539e5b486c14f935ae330cab4577f4bec7bbd1cb0e99",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-09-inventory-20261027.webp",
+      "bytes": 50262,
+      "sha256": "8e6168200e315250598a3aae4bdc265034b028d5325fbb0b0f0ba56236c11ab1",
+      "png_sha256": "6a6e861e0ba93e597f12674199f627d4377386950ee6620f9cdb6eb90bd5010c",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-10-server-hall-20261027.webp",
+      "bytes": 85096,
+      "sha256": "b1b6b2dcff1fcc1e553c46de7b2c12c7258081e46e5743dea99c1b396f9659c0",
+      "png_sha256": "98c81a3c43c2af52754f4b7db9b895ed37d0aeae31fe729f4d066ff3dd2936ba",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-11-compute-monitor-20261027.webp",
+      "bytes": 60750,
+      "sha256": "0fef6e79d7ffc64b6e1556aee996fd6f63c2a214ba8e4c052de0e78b978ced0c",
+      "png_sha256": "6962d4a8fa18d3208f853cd76e1c5b2e703668aa7c3da1dd3549aa9eb882a7f4",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-12-memory-procurement-20261027.webp",
+      "bytes": 57966,
+      "sha256": "821c514c081570dfce483b0e26d1b9a7d283b0d195b87e883a9a41d20ed3fd34",
+      "png_sha256": "6993e31eb40bc31c186b7bfc4b0a8215247d9550603ba1edfe09e7cfda291122",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-13-serving-preview-20261027.webp",
+      "bytes": 70618,
+      "sha256": "b74908cce19f0bfa8d504f64fb3ef6d09422c8d6a4d21cbf02d6d79e697ce5b2",
+      "png_sha256": "e430a7f048632adf379851273ac444e15e6cf7101bdb1eb1badcb720185f5b58",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-14-serving-results-20261027.webp",
+      "bytes": 64642,
+      "sha256": "4008c119a521c171e0890a2e937fa400e7d84f84fe57078db2c29355f9f040ba",
+      "png_sha256": "23a7f1e66ca9c57754f010eb8e8e839e94493d8a3b60afc053af7c83c19af005",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-15-subscription-prices-20261027.webp",
+      "bytes": 52700,
+      "sha256": "15e4fc59d9e65a0323c5e2493ac9450adbe3e9203895b5fa319457c7a89c4c87",
+      "png_sha256": "7e3d91e90ae66f6528648ac53ad1b1c35e04e6dbe83e5f5775b087215623c351",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-32-usage-policy-20261027.webp",
+      "bytes": 54328,
+      "sha256": "6d5184da035ffcd142d933f7fc4d2be8171a8f97fbff18d51fa64dd6ba97c83f",
+      "png_sha256": "9eee438eaf5c497c584d628d02d7455a98cf1fd72f5b10ab608523707875263d",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-16-api-prices-20261027.webp",
+      "bytes": 51184,
+      "sha256": "501481fc8970459a70942f94bc1ded90b0ad7adcfe77d2b40eb1bc33cb995dbc",
+      "png_sha256": "203e0ee26571ec820672611851d28a33e89baa6187dabc3fd1cd0112775046f3",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-33-api-billing-20261027.webp",
+      "bytes": 54558,
+      "sha256": "88bb72844a5c25fc55e6a5614832563694774d1a4b92262917b4cb3cdf2c300a",
+      "png_sha256": "471b130d32c1ba7216d6a083e4d9f1f11281923bde4692db0a58da27a8d2167c",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-34-credit-shop-20261027.webp",
+      "bytes": 53946,
+      "sha256": "9a27418e2dd591ab427e41ecf269a70cdcf1b8b4e7a7d8552854442a1883477e",
+      "png_sha256": "7137f1b1c1f12ed76c3212ef35e3908d49359b14254b8e92a57d549d42f15bc8",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-35-promotional-credit-20261027.webp",
+      "bytes": 55878,
+      "sha256": "416ade347aaedc9d0ba4b88066a51a95bd89c2a6c0f3aa6f40055d2a77e7c9e1",
+      "png_sha256": "5d2899a473bea00deab218ef6c593e1f4ab9af5fcaf4d0bf16632bd740702716",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-36-provider-supply-20261027.webp",
+      "bytes": 53472,
+      "sha256": "b750950cdf6b8cf3f4bbb8d3f454bfd46c49b344bfec684abdfa187f039bc171",
+      "png_sha256": "9aede57b959355487a857346d7e0a8c5863cc6a834339e0f13f56170232c951e",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-37-settlement-20261027.webp",
+      "bytes": 51602,
+      "sha256": "ea61e2cbc7f6947e689206ac16f53134019946100c2dd7cba03a0dfee5cfd902",
+      "png_sha256": "fe5de8d83acc077b2bebd5265df071ba5c30220a5274d49b08a2d4c5696995ba",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-17-enterprise-20261027.webp",
+      "bytes": 54866,
+      "sha256": "fdd8c411b844da055ff82dc2a76aac240401571f780e2752483ae711b85b7040",
+      "png_sha256": "401bc71c7c7d64409319b8b9ee7e20f54b398185f9335015f49bbff85e0e9259",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-18-cashflow-20261027.webp",
+      "bytes": 69568,
+      "sha256": "211feb524ebed761b8a009ca218833fe54be640889e62d8ef8fb1fd5c7805940",
+      "png_sha256": "e520fd99bce9a226a482b2dab766bf90d156a61b87035108620035d4f4a6da0b",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-19-company-report-20261027.webp",
+      "bytes": 56786,
+      "sha256": "6754b7748e8cb3b22b1dceb42ce039d332cfe37bd684f03f54ba5a59f970e8ea",
+      "png_sha256": "f58a03102887f8f3b336fdeccc5144238dbeecff6be62eded0ec5cf18b9f567d",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-28-growth-campaign-20261027.webp",
+      "bytes": 61688,
+      "sha256": "af6246e51fac97f6b3475ecee4eff40de3bc22fd034f246c4fc1578f5ef9dc15",
+      "png_sha256": "4b71433bfc043db5d8f9a6548adf0f0d211500054dbdc9c2004eb2802ed53b5f",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-29-customer-projects-20261027.webp",
+      "bytes": 53524,
+      "sha256": "cf07e106a0311fd4cc58416331915a443765e9661424c22c569f4fc231349317",
+      "png_sha256": "e810408d9566396e962d206ab3d5dc66b69ce37795cf7f8d2dc6765b61b94c91",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-30-solution-design-20261027.webp",
+      "bytes": 76860,
+      "sha256": "a0c43f502f854cf5e6fa468e16ae28ec419a799870b896856776933c97194f88",
+      "png_sha256": "c37f65e2be9506ffa1de974cf73bb51806b2a3484ac6f941e343e1a962e54468",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-31-project-outcomes-20261027.webp",
+      "bytes": 52076,
+      "sha256": "f9650def49d35e9d612f0203b266cacd2aaf6d159650fcd7824ca5cdd7bbcc13",
+      "png_sha256": "b20a522638d6c1327c9d5460c1a43e4ae9b7b9b4b439d337c2af965eb9662730",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-20-requests-20261027.webp",
+      "bytes": 58750,
+      "sha256": "1d117644e14e41d43c647821269f1eb9f6637f777a8dc60e6cd59afe4acef227",
+      "png_sha256": "3a8f36f5ba8dd5dbcb079ebf7eea0b1f8a16fdf76c2621559416761b458f676b",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-21-management-event-20261027.webp",
+      "bytes": 49348,
+      "sha256": "04626c8b735ee24593ca98ab79d4d586aeb2ddadf678e7a6fa51ef7d0b66d047",
+      "png_sha256": "5fc2a9c67d0d4010ff0f75e756f0251fde3402fa3ed62e0408ce3152959c639e",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-22-social-marketing-20261027.webp",
+      "bytes": 59974,
+      "sha256": "e29780f87f97b5a20b9f10d23435249b3af924b4ee9776be6f28db79f3ddf729",
+      "png_sha256": "261266c7566ceeab3ab52f8725ec089e4956bb5e605a3a63f179999002411dc1",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-23-world-market-20261027.webp",
+      "bytes": 91238,
+      "sha256": "4d4719b7b2b367b1c6ea81e95dd561a7b3e60538afcc77bc8f54b4c50ac36d08",
+      "png_sha256": "f43ec4bda0bbf3bcfffe83df3afd3e4026ca2531331c9d6a9ab757a45252cd2c",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-24-airport-20261027.webp",
+      "bytes": 69940,
+      "sha256": "7f6c38219b65b8ad742c76e7da03bcef023c9b49535a3ff6c1508a1a84207a35",
+      "png_sha256": "b7e3e5f9980fe9444f6942cada60c2d47bebe1f2901feab747e15095a39d75e1",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-25-flight-20261027.webp",
+      "bytes": 39106,
+      "sha256": "1da114856c04f46ab01995e7649866d94bb494b39b8e06057d0dbeb3ffddfa53",
+      "png_sha256": "14367af5b60b8d015d7ba087c0249b60da862e9b557dcb7f5f23452587f88a33",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-26-supplier-campus-20261027.webp",
+      "bytes": 75308,
+      "sha256": "a678ba169b55a172116622fbc39c2e3f54191eff359deb1afe29f7a1135db722",
+      "png_sha256": "b279120b7ec40d72e70adf44b731774ba325a60dfe868e48ce8f99367e725e6d",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-27-ipo-20261027.webp",
+      "bytes": 50798,
+      "sha256": "bb95396c481cdd982208789b6d4a32cd1b0c2c218955ef2ca37e576e7f420a7e",
+      "png_sha256": "591f064b9d17672b1918a9d832a93afaaec78ae0b7981e4845373aea6ef4610a",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    },
+    {
+      "path": "games/my-ai-empire/screenshot-38-company-endings-20261027.webp",
+      "bytes": 140336,
+      "sha256": "d63a3f0a771050b904e071b28bd7ea6d0370d37728acf10e7604c426f68649c9",
+      "png_sha256": "112915ced5f7b3958f4b7bd61353b3123af907c8bfad82761d38722cfcae089d",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "lossless_pixels_verified": true
+    }
+  ]
+}

@@ -1,16 +1,6 @@
 {
   "title": "Sneak & Snipe: Through the Scope",
-  "updated": "2026-10-18",
-  "screenshot-title.webp": {
-    "type": "Godot 4.5.2 native title-screen capture",
-    "build": "2.23.0",
-    "note": "Background concept art and generated wordmark are rendered in the game UI."
-  },
-  "other_screenshots": {
-    "type": "Actual native gameplay/briefing captures",
-    "build": "2.22.0",
-    "note": "Gameplay is unchanged by the 2.23 branding update."
-  },
+  "updated": "2026-10-27",
   "identity": "Catalog ID shh-one-shot is retained to preserve existing URLs.",
   "cover": {
     "type": "Game concept artwork, not gameplay",
@@ -23,5 +13,166 @@
     "asset": "banner-scope-action.webp",
     "prompts": "banner-generation.json",
     "note": "Dynamic first-person scope aiming from a parallel moving train. The game title is rendered separately by the website."
+  },
+  "archived_screenshots": {
+    "displayed": false,
+    "note": "Retained as historical assets; removed from the current gallery on 2026-10-27.",
+    "title": {
+      "type": "Godot 4.5.2 native title-screen capture",
+      "build": "2.23.0",
+      "note": "Background concept art and generated wordmark are rendered in the game UI."
+    },
+    "others": {
+      "type": "Actual native gameplay/briefing captures",
+      "build": "2.22.0",
+      "note": "Gameplay is unchanged by the 2.23 branding update."
+    }
+  },
+  "screenshots": {
+    "type": "Actual Godot 4.5.2 native renderer captures of the current development source",
+    "date": "2026-10-27",
+    "source_version_label": "2.35.2",
+    "release_export": false,
+    "renderer": "Compatibility / OpenGL 4.1 Metal / Apple M4",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "method": "Arranged mission time and camera using isolated --self-test QA profile; authentic game meshes, lighting and UI. Not a continuous-play recording.",
+    "processing": "PNG to WebP quality 92; original frame/aspect preserved, no visual retouching or generation.",
+    "source_sha256": {
+      "project.godot": "a684c8045154e04e0ab25f31f2bc445a67e4392041a69a0eebb34480d2c2dd74",
+      "scripts/art_detail.gd": "25bbbc352dafacd8f84b0eae945aa0e9257b02e73984b7a23d6f85f3d65afffa",
+      "scripts/audio.gd": "73eb65959e4cfcd0bb12cf56a477521e40e548335abf4275c613f8ddcc31ba4f",
+      "scripts/ballistics.gd": "243e2b48f4ac40a89d981e8a69fd611bd233b65c75bb5eaef5c233906b3f9a6f",
+      "scripts/character.gd": "a4e414504553a283e01365ba5ab8e54297d165cc8eb126290dff54e83fd543ba",
+      "scripts/checkpoint_store.gd": "7776494e829fdd65a63aae47d1f55f6c5b00af14c6f5c3872c34802b9b8d8e0b",
+      "scripts/controller.gd": "577dbf52d2b9a12f777a8ee89d7ccf47723cb2543f8926f445026821d807dd4d",
+      "scripts/display_settings.gd": "cd2c9801bc2cd1c7659b4ced49e5ee9d11cb5b5b755b6bbc69222999db4fe2da",
+      "scripts/dramatic_beats.gd": "ee1986db493e7b9fab61a9896db3d2f48260f34a1e954d85b0dc24b395a1f3f0",
+      "scripts/field_director.gd": "bde7a08de373702571550cafd487183675c2ad691dc11ff71469adcb93750db1",
+      "scripts/field_drama.gd": "73a1eaac4253dd4fe8209b9ce8831fb7aa38e7562241f4ff9f6910b196559e65",
+      "scripts/field_space.gd": "f9eede3d50dbef1c0819a682f6a2b0ddfcafbcaf99a82853cc9f1c86cd127e4a",
+      "scripts/first_person.gd": "fd5c1b5297738fb6fac8e3b6671a249dfcea8c5f4d59f5f18f222c75c562d1fb",
+      "scripts/footing.gd": "82fc5ac8a213514e3397a56b00903d3cd4d8050d0d104098cb4ed1ecc848215d",
+      "scripts/guard_ai.gd": "ad1a5649564a76e8dfca2b2bdb2575833de91f4688bba299f7245974a27017c1",
+      "scripts/hand.gd": "c14f5ca7d9c3424ba264a84e7a50eda23737773fa70561a5fa2573fdc4ed32a5",
+      "scripts/locale.gd": "350fcc8206a8d41dbeb9f36f2542632814db623ba33bf04b6dfbe255e2e69ed2",
+      "scripts/main.gd": "2d960e43e07125d6221e7cbaa3189d66b6975003004c7fc58db20a776d88a150",
+      "scripts/mission_plan.gd": "e16782f981468e8dd153340e3348e0d9620db891f09ff5bf01144566d386853c",
+      "scripts/missions.gd": "260af1dc966fea9f4da7b59ecd3969d73bd4fd3b1ea9b679036f0f0d0a091929",
+      "scripts/music.gd": "dfbb864573407893b1d8859abed35f3247a1a386a74084e42de68ef2795d21c8",
+      "scripts/operation.gd": "b78ee49112207348eb61643c8b5e192c8b982ee068f76176d834db9cba0dba2b",
+      "scripts/optics.gd": "28239e085da9c9b681f50e8aba1b5564cba037e26549c12feaf7586fc06e4a32",
+      "scripts/playflow.gd": "4da592cda71adac54c01e895774fa7b6f1d045cab341905f444248e49eac2fcf",
+      "scripts/regions.gd": "a2b6249712788a6aa332970594283bac43c44dcbe3335e04837b9c9e19e3d741",
+      "scripts/scenario.gd": "abc3fe72518ff38512962d3c5dae328bba6404c318797dac98c02153e5e116cf",
+      "scripts/settings.gd": "f9e0580027bba700be54d050d84c4155d6fb1885b69694be0a75f1a1fda8b247",
+      "scripts/shot_feedback.gd": "f16821fb6587169c9d61e8f0692c7dfcd8094f79a8b214508f5388c378cdf67e",
+      "scripts/studio_intro.gd": "b9562162721d0b82f04bb991c192fe1b18da0790ce740a517f1ed3d1b4573f83",
+      "scripts/threat.gd": "b9cf5a43261fe8600d48bdebbe14377ff140e789ccb56783857cb2812a1c6eae",
+      "scripts/training.gd": "f23e823aedc50ad3a960068e93c3c664a2acdbdb30a1e7a2bd9d82cb23d3e99a",
+      "scripts/ui.gd": "2f60a657409859e53800092fa18718cf02796496b4de060f2ce34a78dbc783e1",
+      "scripts/visuals.gd": "516d943b9e0901c1b78b359740e1a13ec485037e675b67be8b3ce3014e66c8fc",
+      "scripts/world.gd": "5c2ec8bffd208423667f17ab995e8126e4a2a316cbea6e587935bb39fc39093d"
+    },
+    "files": [
+      {
+        "file": "screenshot-20261027-convoy-scope.webp",
+        "sha256": "b52a7fb64e3cc0d1d2362234d688d6e2cd58678f545b2008cd8bc2a48b518a42",
+        "bytes": 118482,
+        "source_png": "12-convoy-scope.png",
+        "source_sha256": "ea9d5598f525eb888ecbe3b18c37e9eb3498519ff88777619f1ce6868fe8adf2",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 9.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 8,
+        "scoped": true,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261027-city-escort.webp",
+        "sha256": "4e7ea56746c07c444fd012695f7074c1b3d68ad4e4bb1d3cd9a2f85626992766",
+        "bytes": 266880,
+        "source_png": "03-city-escort.png",
+        "source_sha256": "cb3e99155e771f51e80d720082f526752867eb16457d2424fc8e22ee671e7bdc",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 9.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 6,
+        "scoped": false,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261027-night-infiltration.webp",
+        "sha256": "428b9137949149ca18288eceb12abdf72da1b485cdda7a2e1af6035020c5ed12",
+        "bytes": 126598,
+        "source_png": "05-night-infiltration.png",
+        "source_sha256": "65115f582e63cf014d4b1afad57ad53abb032d289c9f07c1bebc1219862c16d9",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 16.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 9,
+        "scoped": false,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261027-express-cabin.webp",
+        "sha256": "34f3d5d83f7f0c8f33b054d6bf26bb1037e3309e78aea02b12a3db94f9fdddb9",
+        "bytes": 205484,
+        "source_png": "07-express-window.png",
+        "source_sha256": "1a2537c716d5beaf87c10ce238b6b19e79ee13400ca82bf5d4549768f0c52ff8",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 27.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 12,
+        "scoped": false,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261027-express-scope.webp",
+        "sha256": "62dfcd05b13c576593f8721d64bd736638bbf40e46e43ffd190b30522a120e8b",
+        "bytes": 122216,
+        "source_png": "express-candidate-41.png",
+        "source_sha256": "cd99e475303b017b5b11f28b40e2f9ddb79b38f792f8203ff2939a6cd6ce33e1",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 41.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 12,
+        "scoped": true,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261027-express-briefing.webp",
+        "sha256": "c113406a18c12fc268e287c1cc0895f46aff737e515ed6593a4973f9252bf571",
+        "bytes": 129990,
+        "source_png": "02-express-briefing.png",
+        "source_sha256": "363352db3fbacd99770365cbe83aea92e30883a2ced3cc12ede7b196915661b0",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 0.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 12,
+        "scoped": false,
+        "state": "briefing"
+      }
+    ]
   }
 }

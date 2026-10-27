@@ -13,13 +13,13 @@
     "rating": "15",
     "method": "self"
   },
-  "banner": "games/unlisted-patient/banner-20261022.png",
+  "banner": "games/unlisted-patient/banner-20261027.png",
   "bannerTextPosition": "center-right",
   "bannerFocus": {
     "x": 50,
     "y": 50
   },
-  "bannerAlt": "흑백 점묘로 표현된 제7병동. 접수대와 벽시계, 이송 기록 안내판과 복도 안의 인물이 보이는 최신 개발 빌드의 실제 화면.",
+  "bannerAlt": "최신 게임 화면의 제7병동. 흑백 점묘로 표현한 접수대, 이송 안내판과 복도, 간호사가 보인다.",
   "platforms": [
     {
       "type": "steam",
@@ -28,44 +28,54 @@
   ],
   "screenshots": [
     {
-      "src": "games/unlisted-patient/screenshot-01-20261022.png",
-      "alt": "접수대와 벽시계, 간호사가 있는 제7병동의 1인칭 탐색 화면. 화면 구석에는 진행 정보와 조작 안내가 표시된다.",
-      "caption": "병동 탐색 · 주변 사물과 기록에서 첫 이송의 흔적을 찾습니다."
+      "src": "games/unlisted-patient/screenshot-01-20261027.png",
+      "alt": "접수대와 벽시계, 간호사가 있는 제7병동. 정리된 현재 목표와 구석의 소지품·조작 안내가 보이는 실제 탐색 화면.",
+      "caption": "병동 탐색 · 수첩의 정상 상태 지침과 현장을 비교합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-02-20261022.png",
-      "alt": "병원 복도에서 간호사와 마주한 1인칭 조사 화면. 뒤쪽에는 다른 인물과 닫힌 문이 보인다.",
-      "caption": "인물 조사 · 겉모습과 증언을 수집한 기록에 대조하세요."
+      "src": "games/unlisted-patient/screenshot-02-20261027.png",
+      "alt": "접힌 서류를 든 간호사의 시선을 관찰하는 장면. 화면 아래에는 손 내밀기·기다리기 선택과 반응 준비 상태가 표시된다.",
+      "caption": "인물과 선택 · 시선과 손동작을 살피고 어떻게 반응할지 결정합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-03-20261022.png",
-      "alt": "정사각 물품 슬롯과 별도의 설명 영역으로 구성된 소지품 화면. 휴대 청음기를 선택해 용도를 읽고 손에 들 수 있다.",
-      "caption": "소지품 · 도구의 용도를 읽고 현장의 장치에 직접 사용합니다."
+      "src": "games/unlisted-patient/screenshot-03-20261027.png",
+      "alt": "소지품에서 황동 서랍 열쇠를 선택한 화면. 사용 대상과 설명을 확인하고 이 대상에 사용 버튼으로 조사 중인 서랍에 사용할 수 있다.",
+      "caption": "상황에 맞는 도구 사용 · 물건을 고른 뒤 조사 중인 대상에 직접 사용합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-04-20261022.png",
-      "alt": "밝은 기록철 형태의 당직 수첩. 왼쪽에는 수집한 단서 목록, 오른쪽에는 선택한 간호사의 증언이 표시된다.",
-      "caption": "당직 수첩 · 기록과 증언을 다시 읽고 사건의 모순을 비교합니다."
+      "src": "games/unlisted-patient/screenshot-04-20261027.png",
+      "alt": "기록철 형태의 당직 수첩. 미확인 기록 표시와 필터, 간호사의 증언, 다음 미확인 기록과 기록 대조 버튼이 보인다.",
+      "caption": "당직 수첩 · 읽지 않은 기록을 찾고 증언을 다시 살펴보세요."
     },
     {
-      "src": "games/unlisted-patient/screenshot-05-20261022.png",
-      "alt": "배관과 환기구, 작업 인물과 장치가 배치된 방송·환기 중계실을 탐색하는 화면.",
+      "src": "games/unlisted-patient/screenshot-05-20261027.png",
+      "alt": "배관과 환기구, 작업 인물과 장치가 있는 방송·환기 중계실. 청취 지점의 비교 안내와 갱신된 환승권 아이콘이 보인다.",
       "caption": "소리의 출처 · 방향과 울림을 비교하고 장치를 바꿔 실험하세요."
     },
     {
-      "src": "games/unlisted-patient/screenshot-06-20261022.png",
-      "alt": "어두운 지하 승강장에 도착한 열차와 승강장 문이 보이는 조사 화면.",
-      "caption": "폐쇄 승강장 · 운행 기록과 목격담을 비교해 탑승할 열차를 찾습니다."
+      "src": "games/unlisted-patient/screenshot-06-20261027.png",
+      "alt": "폐쇄 승강장에 정차한 열차의 문이 열리는 순간. 문 위의 상태 표시등과 외부 표식, 열차 문 개방 안내가 보인다.",
+      "caption": "열차 도착과 승차 · 운행 기록과 현장의 표식을 대조한 뒤 탑승합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-07-20261022.png",
-      "alt": "양쪽 좌석과 손잡이가 있는 한국 지하철 형태의 017호 객차. 복도와 좌석 주변에 인물과 조사 대상이 배치되어 있다.",
+      "src": "games/unlisted-patient/screenshot-07-20261027.png",
+      "alt": "한국 지하철 형태의 017호 객차. 천장 손잡이와 양쪽 좌석, 통로의 인물과 조사 대상, 현재 목표가 보인다.",
       "caption": "017호 객차 · 병원에서 시작된 사건과 동행인의 기억을 이어 조사합니다."
     },
     {
-      "src": "games/unlisted-patient/screenshot-08-20261022.png",
-      "alt": "서랍과 식별 표식, 바닥의 격자, 이송 장비가 보이는 흑백 영안실의 1인칭 조사 화면.",
+      "src": "games/unlisted-patient/screenshot-08-20261027.png",
+      "alt": "식별 표식과 서랍, 이송 설비가 있는 흑백 영안실. 서랍 상태와 현재 조사 목표가 보이는 1인칭 화면.",
       "caption": "영안실 · 이송 기록과 현장의 표식을 대조해 남겨진 흔적을 추적합니다."
+    },
+    {
+      "src": "games/unlisted-patient/screenshot-09-20261027.png",
+      "alt": "진료 사본과 세탁 인계장을 나란히 펼친 기록 대조 화면. 두 자료를 각각 선택해 내용의 차이를 확인할 수 있다.",
+      "caption": "기록 대조 · 서로 다른 장소에서 얻은 자료를 나란히 읽고 모순을 찾습니다."
+    },
+    {
+      "src": "games/unlisted-patient/screenshot-10-20261027.png",
+      "alt": "폐쇄 세탁실의 세 대의 세탁기, 분류대와 기록, 세탁물 운반대가 보인다. 세탁기의 소리를 비교하는 환경 퍼즐 장면.",
+      "caption": "폐쇄 세탁실 · 기계의 소리와 인계 기록을 연결해 조사합니다."
     }
   ],
   "about": [
@@ -103,5 +113,5 @@
     "1-bit 디더링"
   ],
   "videos": [],
-  "cover": "games/unlisted-patient/banner-20261022.png"
+  "cover": "games/unlisted-patient/banner-20261027.png"
 }

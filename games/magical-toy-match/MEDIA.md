@@ -85,3 +85,26 @@
 - `v2661-31-prologue.webp` — 프롤로그 · 멈춘 놀이방 / 촬영 준비: `collection-8 + UI replay`
 - `v2661-32-settings.webp` — 옵션 · 언어, 사운드, 연출 / 촬영 준비: `collection-8`
 - `v2661-33-guide.webp` — 플레이 가이드 · 조작과 기능 / 촬영 준비: `collection-8`
+
+
+
+## 2026-10-27 · 최근 인게임 변화 반영
+
+기존 33장 중 7장을 최신 화면으로 교체하고 5장을 추가해 총 38장으로 구성했다. 홈의 원정 작업대, 원정 배경과 범위 예시, 마법 편성을 갱신했다. 조합 도장·반복 여행·마법 강화 상세·장난감 능력 선택·시즌 점수 진행 화면을 추가했다. 배너·표지·소개 문구·출시 상태·설치 링크·다른 게임의 파일은 변경하지 않았다.
+
+기준은 2026-10-27 작업 소스(패키지 버전 2.66.3과 이후 개선 내용)이며 새 APK 출시를 의미하지 않는다. 별도 로컬 촬영 주소에서 준비 저장을 불러온 뒤 실제 게임 UI로 이동해 390×844 화면을 촬영했다. 원정 상태는 실제 엔진의 유효한 행동으로 준비했다. 후반 성장과 수집 상태는 촬영용으로 주입했으며, 전체 정상 플레이 검증이나 하드웨어 테스트 자료가 아니다. 실제 사용자의 저장·계정·빌드·결제·광고 설정은 변경하지 않았다.
+
+모든 신규 이미지는 실제 게임 스크린샷이다. 내용 합성·생성 이미지·문구 덧씌우기 없이 동일 비율로 WebP 변환만 적용했다. 기존 이미지 파일은 보존하고 신규 파일명으로 캐시를 구분했다.
+
+- `20261027-home.webp` — 준비 상태: `current-home`. 교체.
+- `20261027-expedition-play.webp` — 준비 상태: `exp-ready + UI resume`. 교체.
+- `20261027-expedition-aim.webp` — 준비 상태: `exp-ready + UI target selection`. 교체.
+- `20261027-expedition-loadout.webp` — 준비 상태: `exp-ready + UI loadout`. 교체.
+- `20261027-expedition-late.webp` — 준비 상태: `exp-late + UI resume`. 교체.
+- `20261027-expedition-lobby.webp` — 준비 상태: `exp-ready + UI lobby`. 교체.
+- `20261027-spells.webp` — 준비 상태: `current-home + UI equipment`. 교체.
+- `20261027-combination-stamps.webp` — 준비 상태: `exp-stamps + UI expand record`. 신규 추가.
+- `20261027-repeat-journey.webp` — 준비 상태: `current-complete + UI journey`. 신규 추가.
+- `20261027-spell-detail.webp` — 준비 상태: `current-home + UI spell detail`. 신규 추가.
+- `20261027-toy-abilities.webp` — 준비 상태: `current-home + UI collection abilities`. 신규 추가.
+- `20261027-season.webp` — 준비 상태: `current-home + UI events season`. 신규 추가.

@@ -33,122 +33,147 @@
   ],
   "screenshots": [
     {
-      "src": "games/sword-and-backpack/screenshot-24-title.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-24-title.webp",
       "alt": "수몰 천문 유적을 배경으로 소드 앤 백팩 로고와 새로운 여정, 여정 이어가기, 환경 설정 메뉴가 표시된 한국어 타이틀 화면.",
       "caption": "여행의 시작 · 야간 타이틀 화면"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-01.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-01-town-party.webp",
       "alt": "강가 마을에서 모험을 준비하는 네 명의 동료. 입체적인 건물과 나무, 강과 다리가 보인다.",
       "caption": "동료들과 함께 걷는 강가 마을"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-02.webp",
-      "alt": "초원에서 주인공과 세 동료가 늑대와 멧돼지 등 여러 몬스터와 실시간으로 싸우는 화면. 왼쪽에는 파티의 체력이 표시된다.",
+      "src": "games/sword-and-backpack/screenshot-v372-02-party-combat.webp",
+      "alt": "초원에서 주인공과 세 동료가 늑대, 멧돼지, 버섯과 곤충 형태의 마물들과 싸우는 실시간 전투 화면. 파티 체력과 행동 버튼, 자동 획득한 보상이 표시된다.",
       "caption": "검과 회피, 동료의 공격·지원이 어우러지는 전투"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-07-npc-dialogue.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-25-secret-entrance.webp",
+      "caption": "숨겨진 입구 · 숲의 뿌리 틈",
+      "alt": "가을빛 나무와 숲길 사이에 뿌리로 둘러싸인 비밀 입구가 있는 실제 게임 화면. 주인공과 동료가 입구 앞에 서 있다."
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-v372-26-spring-encounter.webp",
+      "caption": "비밀 탐험 · 뿌리 아래 수원",
+      "alt": "어두운 수원 내부의 굽은 길과 물, 바위 사이에서 파티가 수원의 마물을 상대하는 실제 게임 화면."
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-v372-07-npc-dialogue.webp",
       "alt": "나루의 어부 단표와 대화하며 공용 낚싯대와 낚시 방법을 안내받는 화면. 하단에는 인물 초상과 대화창이 보인다.",
       "caption": "NPC 대화 · 어부에게 듣는 나루의 이야기"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-04.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-04-inventory.webp",
       "alt": "가방의 장비 탭에서 무기와 방어구를 살펴보고 선택한 장비의 능력치와 현재 장비와의 차이를 확인하는 화면.",
       "caption": "장비 비교와 물품 관리"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-13-snow-boss.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-13-snow-boss.webp",
       "alt": "눈 내리는 서리등 고개에서 네 명의 파티가 거대한 수호자들과 싸우는 화면. 원형과 부채꼴 공격 예고, 파티 체력이 표시된다.",
       "caption": "설원 전투 · 눈 내리는 고개의 수호자"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-09-party-roles.webp",
-      "alt": "함께하는 동료 탭에서 약초사 모라, 방패병 브렌, 궁수 연오의 초상과 체력, 기술, 선두 동료 지정 기능을 확인하는 화면.",
+      "src": "games/sword-and-backpack/screenshot-v372-09-party-roles.webp",
+      "alt": "동료·성장 화면의 함께하는 동료 탭. 모라·브렌·연오의 전투 역할과 상세 능력치, 파티 편성 기능을 확인한다.",
       "caption": "동료 관리 · 모라, 브렌, 연오의 전투 역할"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-08-quest-journal.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-08-quest-journal.webp",
       "alt": "눈길을 여는 사람들 의뢰를 선택한 일지. 의뢰 목록, 산늑대 토벌 목표, 경험치와 물품 보상, 목적지 지도 버튼이 보인다.",
       "caption": "의뢰 일지 · 목표, 보상, 목적지 확인"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-12-inn-upper-floor.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-12-inn-upper-floor.webp",
       "alt": "여관 2층의 나무 바닥과 침대, 창문, 난간과 아래층으로 이어지는 계단이 보이는 실내 탐험 화면.",
       "caption": "실내 탐험 · 여관 2층의 객실과 난간"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-05.webp",
-      "alt": "여덟 대륙의 지형과 개별 지역으로 이어지는 세계 항해도. 오른쪽에는 현재 마을과 다음 항로의 안내가 표시된다.",
+      "src": "games/sword-and-backpack/screenshot-v372-05-world-map.webp",
+      "alt": "대륙마다 서로 다른 해안선과 산맥, 사막과 숲을 픽셀 원화로 표현한 새로운 세계 항해도. 지역 선택 탭과 다음 항로 안내가 함께 표시된다.",
       "caption": "다음 여행지를 고르는 세계 항해도"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-14-night-port.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-27-spring-local-map.webp",
+      "caption": "현지 지도 · 지형과 귀환 경로",
+      "alt": "뿌리 아래 수원의 불규칙한 지형과 길을 보여주는 현지 지도. 현재 위치와 귀환 지점, 취수문 복원 목표가 표시된다."
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-v372-29-discovered-regions.webp",
+      "caption": "지역 지도 · 발견한 비밀 장소",
+      "alt": "고향 지도의 불규칙한 지형과 길, 마을과 산길을 보여주는 화면. 발견한 뿌리 아래 수원과 눈 아래 대피소의 위치가 함께 등록된다."
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-v372-28-refuge-encounter.webp",
+      "caption": "설산의 숨은 길 · 눈 아래 대피소",
+      "alt": "푸른 조명의 설산 대피소에서 네 명의 파티가 서리늑대와 싸우는 화면. 검 공격과 원거리 지원, 피해 수치와 파티 체력이 보인다."
+    },
+    {
+      "src": "games/sword-and-backpack/screenshot-v372-14-night-port.webp",
       "alt": "밤의 물금항을 네 명의 파티가 걷는 화면. 여러 색의 지붕, 노점, 길과 현재 시간 표시가 보인다.",
       "caption": "야간 탐험 · 물금항의 거리"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-15-desert-boss.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-15-desert-boss.webp",
       "alt": "선인장과 석조 유적이 있는 사막에서 파티가 거대한 수호자와 주변 마물 무리를 상대하는 실시간 전투 화면.",
       "caption": "사막 전투 · 거대한 적과 마물 무리"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-03.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-03-dark-ruins.webp",
       "alt": "푸른 조명과 횃불이 비치는 어두운 석조 유적에서 네 명의 파티가 수호자와 싸우는 실제 게임 화면.",
       "caption": "어두운 유적과 던전 탐험"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-20-rainy-marsh.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-20-rainy-marsh.webp",
       "alt": "저녁 비가 내리는 공방의 습지를 파티가 탐험하는 화면. 푸른 발광 장치, 주변 마물, 빗줄기가 보인다.",
       "caption": "비 오는 습지 · 빛나는 생태 장치와 탐험"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-18-prism-device.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-18-prism-device.webp",
       "alt": "빛의 공방의 분광 물레 장치를 조작하는 화면. 세 방향 장치의 화살표와 회전 버튼, 장치 설명이 표시된다.",
       "caption": "현장 장치 · 프리즘 방향 맞추기"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-19-workshop-discoveries.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-19-workshop-discoveries.webp",
       "alt": "빛의 공방 수첩의 열두 장치 탭. 장치별 픽셀 아이콘과 복원 상태, 분광 물레의 설명을 확인하는 화면.",
       "caption": "빛의 공방 · 열두 장치 탐색과 복원 기록"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-11-crafting.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-11-crafting.webp",
       "alt": "대장간에서 제작법 목록을 연 화면. 회복품과 장비별 재료의 보유 수량, 필요한 수량, 등전 비용, 제작 버튼이 표시된다.",
       "caption": "제작과 요리 · 재료와 비용을 확인하며 준비"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-16-fishing-minigame.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-16-fishing-minigame.webp",
       "alt": "낚싯대를 든 주인공과 수면, 초록색 타이밍 구간, 남은 시간과 릴 감기 버튼이 보이는 픽셀 아트 낚시 화면.",
       "caption": "낚시 · 입질을 기다리고 타이밍 맞추기"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-06.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-06-homestead.webp",
       "alt": "고향의 뜰에 다양한 작물을 재배하고 시설을 확장한 실제 게임 화면. 파티가 밭과 작업 시설 사이에 서 있다.",
       "caption": "재배와 수확, 돌아올 고향 가꾸기"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-17-farming-management.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-17-farming-management.webp",
       "alt": "돌아오는 뜰의 재배 탭. 열두 칸의 밭, 작물 성장 막대, 씨앗 목록, 물주기와 수확 기능이 표시된다.",
       "caption": "재배 관리 · 씨앗 선택과 성장, 수확"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-10-character-growth.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-10-character-growth.webp",
       "alt": "주인공 이솔의 생명력, 공격, 방어와 장착 장비를 확인하고 활력·힘·정신·민첩에 성장 포인트를 배분하는 화면.",
       "caption": "캐릭터 성장 · 능력치와 성장 포인트"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-23-party-tactics.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-23-party-tactics.webp",
       "alt": "등불과 동행 화면에서 온기·물결의 효과와 자율·집중·보호 파티 지시, 적의 빛 껍질에 대응하는 방법을 확인한다.",
       "caption": "동행 전술 · 등불의 두 빛과 파티 지시"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-21-input-options.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-21-input-options.webp",
       "alt": "환경 설정의 조작 탭. 키보드 조작 변경, 입력 테스트, 행동별 키 안내, 컨트롤러 버튼 표시 설정을 확인하는 화면.",
       "caption": "조작 설정 · 키보드와 컨트롤러 안내"
     },
     {
-      "src": "games/sword-and-backpack/screenshot-22-display-options.webp",
+      "src": "games/sword-and-backpack/screenshot-v372-22-display-options.webp",
       "alt": "환경 설정의 화면 탭. 창 모드와 전체화면, 다양한 해상도, 화면 밝기와 심도, 조명 품질 설정이 보인다.",
       "caption": "화면 설정 · 창 모드, 해상도, 그래픽 조절"
     }
@@ -158,7 +183,7 @@
     "마을과 항구, 산길과 외딴 거처, 건물 내부와 계단, 어두운 던전으로 이어지는 길을 직접 걸어 탐험합니다. 낮과 밤, 비와 눈, 날짜와 시간에 따라 같은 장소의 분위기도 달라집니다.",
     "검 연격과 회피, 등불 파동으로 적을 상대하세요. 약초사 모라, 방패병 브렌, 궁수 연오가 공격과 지원에 참여합니다. 의뢰를 해결하고 재료를 모아 장비와 회복품을 제작하며 파티를 성장시킬 수 있습니다.",
     "여정 사이에는 낚시와 채집으로 요리 재료를 모으고, 뜰에 씨앗을 심어 수확하며 돌아올 고향을 가꿀 수 있습니다. 메인 이야기 외에도 동료의 개인 의뢰, 지역의 서브퀘스트, 수집과 반복 시련을 즐겨 보세요.",
-    "한국어를 포함한 7개 언어의 메뉴와 키보드·마우스·게임패드 조작을 지원합니다. 일부 번역은 보완 중이며, 일본어·프랑스어의 일부 이야기 문구는 영어로 표시됩니다. 현재 출시 준비 중인 개발 빌드의 화면으로, 콘텐츠와 사양은 출시 전 조정될 수 있습니다."
+    "한국어를 포함한 7개 언어의 메뉴와 키보드·마우스·게임패드 조작을 지원합니다. 일부 번역은 보완 중이며, 일본어·프랑스어의 일부 이야기 문구는 영어로 표시됩니다. 현재 출시 준비 중인 개발 빌드의 화면으로, 콘텐츠와 사양은 출시 전 조정될 수 있습니다. 일부 스크린샷은 기능 소개를 위해 진행 상태와 파티·장비를 준비해 촬영했습니다."
   ],
   "features": [
     "직접 움직이며 펼치는 검 연격·회피·등불 파동의 실시간 전투",

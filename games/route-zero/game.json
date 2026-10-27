@@ -24,192 +24,167 @@
   ],
   "screenshots": [
     {
-      "src": "games/route-zero/gallery-v60-20261022-01-terminal-hud.webp",
-      "alt": "유리 천장 중앙역과 모서리에 배치된 새 HUD",
-      "caption": "중앙역의 작은 HUD · 직업과 열차를 고르기 전 중앙역에서 원정을 준비하세요."
+      "src": "games/route-zero/gallery-v802-20261027-01-central-terminal.webp",
+      "alt": "유리 천장과 네온 승강장, 장식 선반과 전광판이 있는 중앙역",
+      "caption": "중앙역 · 높은 천장 아래에서 직업과 동료를 정하고 원정을 준비하세요. · 공개 서버 플레이 촬영"
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-02-platforms.webp",
+      "src": "games/route-zero/gallery-v802-20261027-02-platforms.webp",
       "alt": "남은 자리와 인원, 탑승 상태가 표시된 승강장 선택 메뉴",
       "caption": "승강장·팀 구성 · 팀 인원과 남은 자리를 확인하고 승강장을 선택합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-03-roles.webp",
+      "src": "games/route-zero/gallery-v802-20261027-03-roles.webp",
       "alt": "정비사, 의무병, 정찰자, 운반꾼의 새 직업 메뉴",
       "caption": "무료 직업 선택 · 수리·치료·탐지·운반 역할을 나누어 맡으세요."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-04-train-styles.webp",
+      "src": "games/route-zero/gallery-v802-20261027-04-train-styles.webp",
       "alt": "증기기관차, 도시철도와 고속열차의 외형 선택 목록",
       "caption": "열차 외형 · 보유 열차를 후보로 올려 이번 원정대가 탈 열차를 고릅니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-05-wardrobe.webp",
+      "src": "games/route-zero/gallery-v802-20261027-05-wardrobe.webp",
       "alt": "기장 의상의 3D 미리보기와 역할별 의상 목록",
       "caption": "승무원 옷장 · 의상을 미리 살펴보고 원정대의 개성을 표현하세요."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-06-shop.webp",
+      "src": "games/route-zero/gallery-v802-20261027-06-shop.webp",
       "alt": "운행증과 EX 가격, 상품 효과를 비교하는 밝은 상점 UI",
       "caption": "역 구내 상점 · 가격과 효과를 비교합니다. Studio 테스트 지갑이며 실제 결제 화면이 아닙니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-07-boarding-doors.webp",
+      "src": "games/route-zero/gallery-v802-20261027-07-boarding-doors.webp",
       "alt": "실내 승강장에 정차한 고속열차와 탑승구",
       "caption": "승강장의 열차 · 열차의 위치와 탑승구를 살피고 원정을 준비합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-08-signal-activity.webp",
+      "src": "games/route-zero/gallery-v802-20261027-08-signal-activity.webp",
       "alt": "중앙역 한쪽의 세 종과 신호 합주 시설",
       "caption": "대기실 신호 합주 · 출발 전 대기실에서 즐길 수 있는 작은 활동입니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-10-departure-countdown.webp",
-      "alt": "전원 탑승 안내와 출발 전 열차 연출",
-      "caption": "출발 카운트다운 · 탑승 확인과 문 닫힘을 알리는 화면입니다. 촬영용 진행 상태로 준비했습니다."
+      "src": "games/route-zero/gallery-v802-20261027-09-stamp-desk.webp",
+      "alt": "중앙역 벽면과 기념 우표 책상",
+      "caption": "기념 우표 책상 · 출발 전에 역 구석의 작은 수집 활동을 찾아보세요."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-11-transit-comic.webp",
-      "alt": "신호등, 열차 바퀴, 창가의 원정대를 담은 세 컷 만화 화면",
-      "caption": "코믹스 전환 연출 · 역과 역 사이에 짧게 등장하는 인게임 코믹스 컷씬입니다."
+      "src": "games/route-zero/gallery-v802-20261027-10-departure.webp",
+      "alt": "승강장의 증기기관차와 전원 탑승·출발 카운트다운",
+      "caption": "전원 탑승 완료 · 문을 닫고 출발하기 전 카운트다운이 이어집니다. · 공개 서버 플레이 촬영"
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-12-skyway-cinematic.webp",
-      "alt": "공중 철교 위 증기기관차와 다음 역 안내",
-      "caption": "공중 철교 · 구름 위 철길을 지나며 다음 정차역의 임무를 확인합니다."
+      "src": "games/route-zero/gallery-v802-20261027-11-skyway-tunnel.webp",
+      "alt": "공중 철교를 건너 빛나는 터널로 향하는 증기기관차",
+      "caption": "공중 철교와 터널 · 다음 역으로 이동하며 목적지와 안내를 확인합니다. · 공개 서버 플레이 촬영"
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-13-tunnel-cinematic.webp",
-      "alt": "터널 안 열차와 이동 연출 건너뛰기 버튼",
-      "caption": "빛의 터널 · 다음 역으로 이어지는 터널 구간의 실제 연출 화면입니다."
+      "src": "games/route-zero/gallery-v802-20261027-12-cabin.webp",
+      "alt": "객실 내부를 바라보는 탑승 카메라와 열차 문 안내",
+      "caption": "열차 객실 · 탑승 후 실내를 바라보는 카메라와 문 안내입니다. · 공개 서버 플레이 촬영"
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-14-arrival-cinematic.webp",
-      "alt": "열차 도착 장면과 문 열림까지의 안내",
-      "caption": "다음 역 도착 · 문이 열리는 시점과 목적지의 활동을 알려 줍니다."
-    },
-    {
-      "src": "games/route-zero/gallery-v60-20261022-15-garden-hud.webp",
+      "src": "games/route-zero/gallery-v802-20261027-15-garden-hud.webp",
       "alt": "온실과 관수·수확 목표, 체력과 화물의 작은 HUD",
       "caption": "새벽 온실 · 밸브를 목표 숫자에 맞추고 작물을 수확해 식량을 준비합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-16-signal-puzzle.webp",
-      "alt": "신호 장치와 분기기 정렬 목표가 표시된 미션 HUD",
-      "caption": "세 갈래 신호소 · 분기기를 정렬한 뒤 안내 순서대로 신호를 보냅니다."
+      "src": "games/route-zero/gallery-v802-20261027-45-garden-stationwide.webp",
+      "alt": "온실 정차역의 승강장과 출발 계약 안내",
+      "caption": "정차역과 출발 준비 · 미션 뒤 돌아올 본 열차와 승강장을 살펴보세요."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-17-cargo-yard.webp",
-      "alt": "화물 야적장과 운반 임무 안내",
-      "caption": "분실 화물 정류장 · 화물을 계량한 뒤 같은 표식의 하역장으로 옮깁니다."
+      "src": "games/route-zero/gallery-v802-20261027-49-tram-platform.webp",
+      "alt": "공중 시설로 이어지는 경사 레일과 작은 트램 승강장",
+      "caption": "공중 시설 트램 · 본 열차 옆에서 작은 트램을 타는 경로를 소개합니다. Studio 배치 미리보기입니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-18-flood-pumps.webp",
+      "src": "games/route-zero/gallery-v802-20261027-18-flood-pumps.webp",
       "alt": "수문과 펌프 시설, 미션 시간과 진행 안내",
       "caption": "차오르는 수문 · 펌프로 수위를 낮추고 수문을 봉인합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-20-observatory.webp",
+      "src": "games/route-zero/gallery-v802-20261027-20-observatory.webp",
       "alt": "별빛 시설과 관측기 정렬 안내",
       "caption": "별빛 관측소 · 별자리 각도를 맞추고 맑은 관측창을 기다립니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-21-bridge-repairs.webp",
+      "src": "games/route-zero/gallery-v802-20261027-21-bridge-repairs.webp",
       "alt": "끊어진 교량과 자재 운반·복구 안내",
       "caption": "끊어진 교량 · 자재를 옮겨 교량을 설치한 뒤 연결 볼트를 조입니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-27-cliff-elevator.webp",
+      "src": "games/route-zero/gallery-v802-20261027-27-cliff-elevator.webp",
       "alt": "화물과 승강기 시설, 무게 조합 임무 HUD",
       "caption": "황동 화물 승강장 · 무게가 다른 두 상자를 조합해 승강장 목표 합계를 맞춥니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-28-radio-tower.webp",
+      "src": "games/route-zero/gallery-v802-20261027-28-radio-tower.webp",
       "alt": "신호 시설과 기록 수집 안내",
       "caption": "메아리 통신탑 · 기록 조각을 모아 공유 코드를 만들고 송신 시간에 응답합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-29-canal-lock.webp",
+      "src": "games/route-zero/gallery-v802-20261027-29-canal-lock.webp",
       "alt": "운하의 물길과 순서별 수문 제어 안내",
       "caption": "비구름 운하 · 안전한 분기를 선택해 화물선을 차례로 통과시킵니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-30-foundry.webp",
+      "src": "games/route-zero/gallery-v802-20261027-30-foundry.webp",
       "alt": "용광로와 가열·냉각 장치, 목표 온도 안내",
       "caption": "잿빛 샘 주조소 · 가열과 냉각으로 목표 온도를 맞추고 부품을 주조합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-31-cloud-library.webp",
+      "src": "games/route-zero/gallery-v802-20261027-31-cloud-library.webp",
       "alt": "책장과 기억 타일, 정렬 목표 HUD",
       "caption": "구름 도서관 · 이웃 타일을 교환해 1부터 6까지 정렬하고 두 칸씩 확정합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-32-rescue-camp.webp",
+      "src": "games/route-zero/gallery-v802-20261027-32-rescue-camp.webp",
       "alt": "눈 덮인 구조역의 대피소와 구조 인계 안내",
       "caption": "설원 구조역 · 대피소를 준비하고 썰매를 보내 도착한 사람들을 인계합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-26-lighthouse.webp",
+      "src": "games/route-zero/gallery-v802-20261027-26-lighthouse.webp",
       "alt": "등대 시설과 거울 정렬·광원 충전 안내",
       "caption": "새벽의 등대역 · 빛을 모아 등대를 되살리고 귀환길을 밝힙니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-33-mission-guide.webp",
+      "src": "games/route-zero/gallery-v802-20261027-33-mission-guide.webp",
       "alt": "현재 목표와 진행 방법을 읽는 새 원정 수첩 UI",
       "caption": "단계별 임무 안내 · 지금 할 일과 다음 단계를 수첩에서 다시 확인하세요."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-34-route-map.webp",
-      "alt": "6개 정차역의 상태와 권역 정보를 보여 주는 수첩",
-      "caption": "노선·권역 안내 · 촬영용 예시 노선으로 정차역·활동 시간·완료 상태를 소개합니다."
-    },
-    {
-      "src": "games/route-zero/gallery-v60-20261022-35-team-pings.webp",
+      "src": "games/route-zero/gallery-v802-20261027-35-team-pings.webp",
       "alt": "집결·도움 요청·열차 복귀 버튼",
       "caption": "팀 핑 · 긴 채팅 없이 동료에게 필요한 행동을 알립니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-44-mission-complete.webp",
-      "alt": "미션을 완료한 뒤 열차로 돌아갈 수 있는 상태의 HUD",
-      "caption": "미션 완료 안내 · 완료 후 안내가 어떻게 바뀌는지 보여 주는 Studio 미리보기입니다."
-    },
-    {
-      "src": "games/route-zero/gallery-v60-20261022-36-return-boarding.webp",
-      "alt": "귀환 마감 시간과 열차 복귀 안내",
-      "caption": "열차 귀환 · 남은 시간과 탑승 상태를 확인하는 귀환 단계의 미리보기입니다."
-    },
-    {
-      "src": "games/route-zero/gallery-v60-20261022-41-results-preview.webp",
-      "alt": "완료한 역과 기여도, 보상 표시가 담긴 결과창",
-      "caption": "원정 결과·보상 UI · 촬영용 결과·보상 예시입니다. 실제 서버의 플레이 기록이나 재화 지급 내역이 아닙니다."
-    },
-    {
-      "src": "games/route-zero/gallery-v60-20261022-42-phone-mission.webp",
+      "src": "games/route-zero/gallery-v802-20261027-42-phone-mission.webp",
       "alt": "가로 휴대전화 화면의 모서리 HUD와 터치 조작 버튼",
       "caption": "모바일의 작은 HUD · 작은 화면에서도 플레이 공간을 확보한 UI입니다. Studio 휴대전화 시뮬레이터 촬영입니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-43-phone-guide.webp",
+      "src": "games/route-zero/gallery-v802-20261027-43-phone-guide.webp",
       "alt": "작은 화면에 맞춘 임무 수첩",
       "caption": "모바일 원정 수첩 · 필요할 때 목표와 조작법을 펼쳐 볼 수 있습니다. Studio 휴대전화 시뮬레이터 촬영입니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-37-settings-display.webp",
+      "src": "games/route-zero/gallery-v802-20261027-37-settings-display.webp",
       "alt": "언어와 연출, 움직임 줄이기 설정",
       "caption": "화면·편의 설정 · 언어·연출·HUD 안내 등 표시 옵션을 조절합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-38-settings-keyboard.webp",
+      "src": "games/route-zero/gallery-v802-20261027-38-settings-keyboard.webp",
       "alt": "마우스 감도와 이동 키 설정",
       "caption": "키보드 설정 · 자주 사용하는 행동의 키와 마우스 감도를 바꿀 수 있습니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-39-settings-gamepad.webp",
+      "src": "games/route-zero/gallery-v802-20261027-39-settings-gamepad.webp",
       "alt": "상호작용과 메뉴 등 패드 버튼 설정",
       "caption": "컨트롤러 설정 · 컨트롤러 버튼을 확인하고 원하는 조작으로 변경합니다."
     },
     {
-      "src": "games/route-zero/gallery-v60-20261022-40-settings-audio.webp",
+      "src": "games/route-zero/gallery-v802-20261027-40-settings-audio.webp",
       "alt": "음악·환경음·알림·메뉴 효과음 음량 조절",
       "caption": "소리 설정 · 음악과 열차·환경음, 중요한 알림을 각각 조절합니다."
     }
@@ -219,7 +194,7 @@
     "한 번의 원정은 18개 목적지 중 6곳을 잇습니다. 각 역에서 주어지는 시간은 3~5분. 식량을 구하고, 신호와 기록을 해독하고, 교량을 복구하거나 수문을 제어하는 등 지역마다 다른 방법으로 임무를 해결합니다. 작업을 나눠 맡거나 혼자 남아도 수행할 수 있도록 구성했습니다.",
     "팀마다 자신의 열차로 이동하며 생존과 원정 성과를 겨룹니다. 모든 임무를 끝내지 못해도 확보한 물자와 출발 조건을 확인해 다음 역을 노릴 수 있습니다. 떠나는 열차를 놓치지 않도록 경적과 귀환 안내를 살피세요.",
     "증기기관차부터 전철과 고속열차까지 다양한 열차와 역할 의상으로 원정대를 꾸밀 수 있습니다. 중앙역의 신호 합주와 기념 우표, 이동 중 창밖 관찰, 지역별 선택 활동에서 여정의 작은 추억도 모아 보세요. 현재 Roblox 공개 베타이며 혼자 익히는 연습 운행도 제공합니다.",
-    "메인 배너와 게임 목록·상세 페이지 대표 이미지는 공식 타이틀 키 아트입니다. 갤러리 38장은 2026년 10월 22일 0.60.0 개발 빌드의 새 UI를 실제 게임 엔진에서 촬영했습니다. 위치·진행 상태·카메라를 준비한 Studio 소개용 화면이며 공개 서버 플레이 기록이 아닙니다. 출발·도착·미션 완료·결과 화면은 촬영용 진행 상태로 구성했습니다. 상점 지갑과 결과 보상은 테스트·예시 표시이며 실제 결제나 지급 내역이 아닙니다. 휴대전화 화면은 Studio 시뮬레이터 촬영입니다."
+    "메인 배너와 목록·상세 대표 이미지는 공식 타이틀 키 아트입니다. 갤러리 33장은 2026년 10월 27일 촬영한 현재 게임 화면으로 교체했습니다. 공개 서버 표시가 있는 4장은 Roblox Player의 0.80.1~0.80.2 플레이 화면입니다. 나머지는 0.80.2의 실제 게임 엔진에서 위치·카메라·진행 상태를 준비한 Studio 소개용 화면입니다. 상점 지갑은 Studio 테스트 표시이며 실제 결제 내역이 아닙니다. 휴대전화 화면은 Studio 시뮬레이터 촬영입니다."
   ],
   "features": [
     "팀당 2~6인, 최대 3팀이 함께하는 열차 생존 모험",

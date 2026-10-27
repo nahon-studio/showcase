@@ -1,0 +1,272 @@
+{
+  "captured": "2026-10-27",
+  "gameSourceVersion": "2.63.0",
+  "replacedGalleryEntries": 19,
+  "addedGalleryEntries": 6,
+  "galleryEntries": 39,
+  "method": "Actual native Godot rendering from current source, 1600x900 desktop and 390x844 portrait previews. Separate capture profiles and controlled chart clock; later progression and tutorial lessons are presentation fixtures. Not physical device tests or a human playthrough. No game builds, no AI-generated gameplay screenshots. Promotional panels arrange real captures and existing game art.",
+  "images": [
+    {
+      "file": "banner-20261027-studio-wide.jpg",
+      "bytes": 251684,
+      "sha256": "23a8292f292cc644687ade376ea1154a94368000daf62f4e5dbcc15995bde9f9"
+    },
+    {
+      "file": "promo-20261027-controls.jpg",
+      "bytes": 239356,
+      "sha256": "ee0bfc2c0dc2b854d30c4c75fe70a8674c8726f1548c9e354438e15242cdd48f"
+    },
+    {
+      "file": "promo-20261027-overview.jpg",
+      "bytes": 253555,
+      "sha256": "f6a1db8e57cbfece45536d489005c56801b7bda2139806dffcca21befaf3024b"
+    },
+    {
+      "file": "promo-20261027-records.jpg",
+      "bytes": 229456,
+      "sha256": "c89402d3343d561575771f364e23c3f7de7f92a2ccf0ab43dc847d94f8680971"
+    },
+    {
+      "file": "screenshot-20261027-backstage-prepare.webp",
+      "bytes": 235746,
+      "sha256": "17d385c0c16a33554e0a99d04dbb3195d743bad4a7f75aff889859687c6d8233",
+      "id": "backstage-prepare",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Real backstage after settled first clear"
+    },
+    {
+      "file": "screenshot-20261027-city-restoration.webp",
+      "bytes": 192954,
+      "sha256": "cee3c16fe366e796b3bcfcb630e248aff836a7274a8de463216cc0e7bd986e52",
+      "id": "city-restoration",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "isolated presentation fixture"
+    },
+    {
+      "file": "screenshot-20261027-combat-bass.webp",
+      "bytes": 293746,
+      "sha256": "ef11828def69f5cca86bdefb2edd40e27c6326332ea8d71338eefa85e0a75ce9",
+      "id": "combat-bass",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-combat-boss.webp",
+      "bytes": 275018,
+      "sha256": "ccdbc4367f8e79026a63c9596d9ceb6f9450ff6f9cc23c988b562e68e109632c",
+      "id": "combat-boss",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual spawned boss; controlled chart clock"
+    },
+    {
+      "file": "screenshot-20261027-combat-contribution.webp",
+      "bytes": 211350,
+      "sha256": "034ad6080175fa88d93353fb6d55a76e2d0b9de9806fc54ff20d1e9666ef9864",
+      "id": "combat-contribution",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual settled combat contribution; scrolled result"
+    },
+    {
+      "file": "screenshot-20261027-combat-drum.webp",
+      "bytes": 242084,
+      "sha256": "6e886521f3ebc54603e7ebb173de7484f5879de98c6a62ce6357b1422ce281cf",
+      "id": "combat-drum",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-combat-encore.webp",
+      "bytes": 287422,
+      "sha256": "5879dc9e5803cbe46cfc556f91ddbae4690556100ffbd1c7c0670960bb4725ea",
+      "id": "combat-encore",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-combat-scratch.webp",
+      "bytes": 264688,
+      "sha256": "e9b360c26d68057c3c05d0f180503ac06c401ffc084524ea60a4e566e5dbd166",
+      "id": "combat-scratch",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-daily-missions.webp",
+      "bytes": 87790,
+      "sha256": "35b054232e46cb481e14b1d25747cfc723458c122001c1b1e3260405c583cba5",
+      "id": "daily-missions",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual mission planner with isolated progression fixture"
+    },
+    {
+      "file": "screenshot-20261027-failure-retry.webp",
+      "bytes": 168408,
+      "sha256": "e23d24d0c5c0b9a4a44c4f0b4d1923013e66162218a516dfcbcd1f8f8f045b32",
+      "id": "failure-retry",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Previously earned harder-chart failure receipt, displayed as capture fixture"
+    },
+    {
+      "file": "screenshot-20261027-first-transmission.webp",
+      "bytes": 232452,
+      "sha256": "b5402d7e7fd94d9cd54475b51edd983cb0c1694de779deb11eb14a9653a38d5e",
+      "id": "first-transmission",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Real first prologue from isolated new save"
+    },
+    {
+      "file": "screenshot-20261027-mastery-goal.webp",
+      "bytes": 79718,
+      "sha256": "b26739e407897d1dfbea315918530bd2c887ae20c8cc15616efe8c901fb0c72b",
+      "id": "mastery-goal",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "isolated presentation fixture"
+    },
+    {
+      "file": "screenshot-20261027-mobile-combat-contribution.webp",
+      "bytes": 40568,
+      "sha256": "6b3b7f256337e4cede11e801edd758e9a3feb166bd6ed018143c406b46048d64",
+      "id": "mobile-combat-contribution",
+      "size": [
+        390,
+        844
+      ],
+      "source": "Actual settled combat contribution; scrolled result"
+    },
+    {
+      "file": "screenshot-20261027-mobile-combat-drum.webp",
+      "bytes": 84722,
+      "sha256": "fbe0f0b051f274901ad01021cecf636b3eab453d31bd413f1430aaa7c0f81fe1",
+      "id": "mobile-combat-drum",
+      "size": [
+        390,
+        844
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-mobile-combat-encore.webp",
+      "bytes": 95586,
+      "sha256": "b61bbb638f42a34a9c0c346ac9ac47319dced1ed1665096530efcee93a230e0d",
+      "id": "mobile-combat-encore",
+      "size": [
+        390,
+        844
+      ],
+      "source": "Actual chart/input/combat; controlled audio clock, native renderer"
+    },
+    {
+      "file": "screenshot-20261027-mobile-record-menu.webp",
+      "bytes": 50098,
+      "sha256": "7e1307f754c039344bb283103d8f0449309f226d238337a73cff77af8ab5c190",
+      "id": "mobile-record-menu",
+      "size": [
+        390,
+        844
+      ],
+      "source": "isolated presentation fixture"
+    },
+    {
+      "file": "screenshot-20261027-passage-practice.webp",
+      "bytes": 156064,
+      "sha256": "9d55c25e2ec394bef9b173a48d17e4c5b23d6e5ba4b35bc47c544a8fca767679",
+      "id": "passage-practice",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual practice entry from displayed failure receipt"
+    },
+    {
+      "file": "screenshot-20261027-performance-result.webp",
+      "bytes": 202474,
+      "sha256": "d7cf00dbbd55281a0b9f88b8a13c7fe2e9151c8e2daab73864671f210ff64437",
+      "id": "performance-result",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Actual settled result from captured full chart"
+    },
+    {
+      "file": "screenshot-20261027-record-menu.webp",
+      "bytes": 203272,
+      "sha256": "42bdb4fb6eed1c3fc5b2b58a8b74c85938bbe22c4fd480c9d4db48ffb7efc761",
+      "id": "record-menu",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "isolated presentation fixture"
+    },
+    {
+      "file": "screenshot-20261027-style-shop.webp",
+      "bytes": 99182,
+      "sha256": "a76be064c455712d28605d689361e0da6f9e27b29f931d724f210082ae840c10",
+      "id": "style-shop",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Native cosmetic shop preview; no real money purchase"
+    },
+    {
+      "file": "screenshot-20261027-tutorial-bass.webp",
+      "bytes": 141684,
+      "sha256": "f6f797d358af3690452d8f77706980821014a3efedfe422b7d1d227e1ae1f66c",
+      "id": "tutorial-bass",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Native tutorial; BASS lesson selected for capture"
+    },
+    {
+      "file": "screenshot-20261027-tutorial-tap.webp",
+      "bytes": 140130,
+      "sha256": "af9092571e5a0732075b7b2aea5a46c3160f0dafba0da82bcac653c26572f8d1",
+      "id": "tutorial-tap",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Native tutorial; animation time held for capture"
+    }
+  ]
+}

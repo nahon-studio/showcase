@@ -24,19 +24,19 @@
   ],
   "screenshots": [
     {
-      "src": "games/magical-toy-match/v2661-01-home.webp",
-      "caption": "한국어 타이틀 · 새로운 홈 화면",
-      "alt": "플라스틱 블록 타이틀, 기관차와 태엽 원정·스테이지 진입 버튼이 있는 홈"
+      "src": "games/magical-toy-match/20261027-home.webp",
+      "caption": "한국어 타이틀 · 원정 작업대와 캠페인",
+      "alt": "태엽 원정 작업대 이미지와 일반 스테이지 시작 버튼이 있는 최신 홈"
     },
     {
-      "src": "games/magical-toy-match/v2661-02-expedition-play.webp",
-      "caption": "태엽 원정 · 매치로 동력 충전",
-      "alt": "남은 이동·동력·발열·조립 목표와 세 장치의 가동 순서가 보이는 원정"
+      "src": "games/magical-toy-match/20261027-expedition-play.webp",
+      "caption": "태엽 원정 · 작업대에서 장치 가동",
+      "alt": "작업대 배경, 동력·발열·조립 목표와 증폭기·드릴·프레스 편성"
     },
     {
-      "src": "games/magical-toy-match/v2661-03-expedition-aim.webp",
-      "caption": "태엽 원정 · 장치 범위 미리보기",
-      "alt": "선택한 칸에서 드릴과 프레스가 제거할 범위를 강조한 가동 조준 화면"
+      "src": "games/magical-toy-match/20261027-expedition-aim.webp",
+      "caption": "태엽 원정 · 제거 범위 미리보기",
+      "alt": "선택한 칸을 중심으로 드릴과 프레스의 제거 범위를 표시한 원정"
     },
     {
       "src": "games/magical-toy-match/v2661-04-expedition-draft.webp",
@@ -49,14 +49,14 @@
       "alt": "새 설계도를 얻은 뒤 기본 경로와 높은 목표의 실험실을 비교하는 화면"
     },
     {
-      "src": "games/magical-toy-match/v2661-06-expedition-loadout.webp",
-      "caption": "설계도 편성 · 장치 순서 변경",
-      "alt": "증폭기·드릴·프레스·냉각기 등 보유 설계도로 두 번째 장치를 교체하는 창"
+      "src": "games/magical-toy-match/20261027-expedition-loadout.webp",
+      "caption": "설계도 편성 · 효과와 범위 예시",
+      "alt": "증폭기·드릴·프레스의 비용과 가동 효과, 제거 범위 예시를 보여주는 편성창"
     },
     {
-      "src": "games/magical-toy-match/v2661-07-expedition-late.webp",
+      "src": "games/magical-toy-match/20261027-expedition-late.webp",
       "caption": "후반 원정 · 비정형 보드와 장애물",
-      "alt": "네 번째 구역의 조립 목표 110과 얼음·상자가 배치된 7행 7열 퍼즐"
+      "alt": "장난감 작업대 위의 비정형 퍼즐판과 상자·얼음 장애물이 있는 원정 4구역"
     },
     {
       "src": "games/magical-toy-match/v2661-08-blueprint-library.webp",
@@ -64,9 +64,14 @@
       "alt": "발견한 설계도 6종과 아직 발견하지 못한 설계도를 보여 주는 도감"
     },
     {
-      "src": "games/magical-toy-match/v2661-09-expedition-lobby.webp",
+      "src": "games/magical-toy-match/20261027-combination-stamps.webp",
+      "caption": "조합 도장 · 새로운 순서로 완주",
+      "alt": "획득한 조합 도장, 다음 추천 조합과 설계도 수집, 완료 기록"
+    },
+    {
+      "src": "games/magical-toy-match/20261027-expedition-lobby.webp",
       "caption": "원정 안내 · 매치, 연결, 조립",
-      "alt": "원정의 세 단계와 하트·유료 아이템을 사용하지 않는 규칙을 안내하는 로비"
+      "alt": "가동 순서와 설계도 수집을 안내하는 태엽 원정 로비"
     },
     {
       "src": "games/magical-toy-match/v2661-10-tutorial.webp",
@@ -119,6 +124,11 @@
       "alt": "지역 7 기차 다리의 완료 기록, 다음 목표와 잠긴 스테이지 경로"
     },
     {
+      "src": "games/magical-toy-match/20261027-repeat-journey.webp",
+      "caption": "반복 여행 · 다섯 판마다 새 경로",
+      "alt": "900스테이지 이후 성장과 수집을 유지하며 이어지는 다섯 스테이지 반복 경로"
+    },
+    {
       "src": "games/magical-toy-match/v2661-20-collection.webp",
       "caption": "장난감 수집 · 단계별 조립",
       "alt": "완성 8종과 다음 장난감 블록 타워의 부품 비용·해금 조건"
@@ -127,6 +137,11 @@
       "src": "games/magical-toy-match/v2661-21-toy-complete.webp",
       "caption": "장난감 완성 · 능력 해금",
       "alt": "블록 집 완성 모습과 획득 보상, 팽이 제작 능력 해금 안내"
+    },
+    {
+      "src": "games/magical-toy-match/20261027-toy-abilities.webp",
+      "caption": "장난감 능력 · 추가 효과 선택",
+      "alt": "완성한 장난감 능력의 효과와 필요한 총 마력을 비교해 선택하는 화면"
     },
     {
       "src": "games/magical-toy-match/v2661-22-collection-set.webp",
@@ -149,9 +164,14 @@
       "alt": "태엽시계 현재 효과, 다음 효과와 코인 강화 비용을 보여 주는 상세 창"
     },
     {
-      "src": "games/magical-toy-match/v2661-26-spells.webp",
-      "caption": "마법 성장 · 장착과 해금",
-      "alt": "망치·물결·이동 추가와 잠금 해제·섞기·색상 제거 마법 목록"
+      "src": "games/magical-toy-match/20261027-spells.webp",
+      "caption": "마법 성장 · 편성과 강화",
+      "alt": "장착한 마법과 마력 비용, 마법 레벨과 편성·강화 안내가 보이는 장비 화면"
+    },
+    {
+      "src": "games/magical-toy-match/20261027-spell-detail.webp",
+      "caption": "마법 강화 · 다음 효과와 비용",
+      "alt": "물결 마법의 현재 효과와 다음 레벨의 마력 비용·강화 가격을 비교하는 상세창"
     },
     {
       "src": "games/magical-toy-match/v2661-27-relics.webp",
@@ -172,6 +192,11 @@
       "src": "games/magical-toy-match/v2661-30-attendance.webp",
       "caption": "출석 · 일일·주간 목표",
       "alt": "7일 출석 보상과 서로 다른 스테이지를 완료하는 일일·주간 목표"
+    },
+    {
+      "src": "games/magical-toy-match/20261027-season.webp",
+      "caption": "조립 시즌 · 점수와 보상 진행",
+      "alt": "시즌 점수와 다음 보상까지 필요한 점수, 첫 클리어·재도전 점수 규칙"
     },
     {
       "src": "games/magical-toy-match/v2661-31-prologue.webp",

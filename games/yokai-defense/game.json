@@ -42,9 +42,9 @@
       "caption": "기계공방 · 레이저·전격·화포와 소환 동료의 협공 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-08-inventory.webp",
-      "alt": "보급 창고 · 아이템 효과 확인과 전투 편성 화면",
-      "caption": "보급 창고 · 아이템 효과 확인과 전투 편성 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-inventory.jpg",
+      "alt": "보급 창고 · 아이템의 대상·지속시간 확인과 전투 편성 화면",
+      "caption": "보급 창고 · 아이템의 대상·지속시간 확인과 전투 편성 · 실제 게임 화면"
     },
     {
       "src": "games/yokai-defense/screenshot-v078-05-heroes.webp",
@@ -52,24 +52,44 @@
       "caption": "영웅 수첩 · 전투 역할과 성장 정보 확인 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-07-equipment.webp",
-      "alt": "장비 · 무기를 고르고 장착·강화 화면",
-      "caption": "장비 · 무기를 고르고 장착·강화 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-equipment.jpg",
+      "alt": "영웅 장비 · 제작 전 능력치 비교와 장착·강화 화면",
+      "caption": "영웅 장비 · 제작 전 능력치 비교와 장착·강화 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-04-preparation.webp",
-      "alt": "출전 준비 · 경로와 적 구성에 맞춰 전략을 준비 화면",
-      "caption": "출전 준비 · 경로와 적 구성에 맞춰 전략을 준비 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-companions.jpg",
+      "alt": "동료 편성 · 최대 세 명의 부대와 동료 능력 확인 화면",
+      "caption": "동료 편성 · 최대 세 명의 부대와 동료 능력 확인 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-03-world.webp",
-      "alt": "세계 지도 · 아홉 지역으로 이어지는 원정 화면",
-      "caption": "세계 지도 · 아홉 지역으로 이어지는 원정 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-companion-weapons.jpg",
+      "alt": "동료 무기 · 공격력·체력·공격 간격을 비교해 선택 화면",
+      "caption": "동료 무기 · 공격력·체력·공격 간격을 비교해 선택 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-02-map.webp",
-      "alt": "원정 지도 · 지역별 이야기 전장과 선택 도전 화면",
-      "caption": "원정 지도 · 지역별 이야기 전장과 선택 도전 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-preparation.jpg",
+      "alt": "출전 준비 · 지형과 진입로, 출현 적을 확인 화면",
+      "caption": "출전 준비 · 지형과 진입로, 출현 적을 확인 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-20261027-scout.jpg",
+      "alt": "적 정찰 · 장갑 항아리의 방어력과 돌파 피해 확인 화면",
+      "caption": "적 정찰 · 장갑 항아리의 방어력과 돌파 피해 확인 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-20261027-prologue.jpg",
+      "alt": "서막 · 등불의 흔적을 살피고 첫 임무로 화면",
+      "caption": "서막 · 등불의 흔적을 살피고 첫 임무로 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-20261027-world.jpg",
+      "alt": "세계 지도 · 아홉 지역의 진행도와 원정 목적지 화면",
+      "caption": "세계 지도 · 아홉 지역의 진행도와 원정 목적지 · 실제 게임 화면"
+    },
+    {
+      "src": "games/yokai-defense/screenshot-20261027-map.jpg",
+      "alt": "원정 지도 · 현재 지역에서 다음 이야기 전장으로 화면",
+      "caption": "원정 지도 · 현재 지역에서 다음 이야기 전장으로 · 실제 게임 화면"
     },
     {
       "src": "games/yokai-defense/screenshot-v078-06-training.webp",
@@ -82,24 +102,24 @@
       "caption": "방어 시설 · 서로 다른 공격 역할의 조합 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-10-field-guide.webp",
-      "alt": "전투 수첩 · 투석기의 범위 공격과 넉백 특성 화면",
-      "caption": "전투 수첩 · 투석기의 범위 공격과 넉백 특성 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-field-guide.jpg",
+      "alt": "전투 수첩 · 투석기의 범위 공격·넉백과 공격 제한 화면",
+      "caption": "전투 수첩 · 투석기의 범위 공격·넉백과 공격 제한 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-19-results.webp",
-      "alt": "전투 결과 · 획득한 자원과 영웅 경험치 화면",
-      "caption": "전투 결과 · 획득한 자원과 영웅 경험치 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-results.jpg",
+      "alt": "전투 결과 · 획득 보상과 입장·보급 사용 내역 화면",
+      "caption": "전투 결과 · 획득 보상과 입장·보급 사용 내역 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-20-growth.webp",
-      "alt": "성장 확인 · 경험치와 레벨 상승 후 다음 원정으로 화면",
-      "caption": "성장 확인 · 경험치와 레벨 상승 후 다음 원정으로 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-growth.jpg",
+      "alt": "성장 확인 · 영웅 경험치와 장비·훈련·다음 목표 화면",
+      "caption": "성장 확인 · 영웅 경험치와 장비·훈련·다음 목표 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-11-journal.webp",
-      "alt": "원정 일지 · 목표와 보상을 확인 화면",
-      "caption": "원정 일지 · 목표와 보상을 확인 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-journal.jpg",
+      "alt": "원정 일지 · 수집·도전 목표와 달성 보상 화면",
+      "caption": "원정 일지 · 수집·도전 목표와 달성 보상 · 실제 게임 화면"
     },
     {
       "src": "games/yokai-defense/screenshot-v078-12-village.webp",
@@ -117,9 +137,9 @@
       "caption": "텃밭 · 다음 원정을 위한 재료 재배와 수확 · 실제 게임 화면"
     },
     {
-      "src": "games/yokai-defense/screenshot-v078-15-events.webp",
-      "alt": "달빛 소식 · 출석 보급과 주간 원정 목표 화면",
-      "caption": "달빛 소식 · 출석 보급과 주간 원정 목표 · 실제 게임 화면"
+      "src": "games/yokai-defense/screenshot-20261027-events.jpg",
+      "alt": "달빛 소식 · 출석 보급과 일일 목표 화면",
+      "caption": "달빛 소식 · 출석 보급과 일일 목표 · 실제 게임 화면"
     },
     {
       "src": "games/yokai-defense/screenshot-v078-01-title.webp",

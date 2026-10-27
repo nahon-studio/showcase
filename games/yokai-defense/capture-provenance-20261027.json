@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27",
+  "kind": "Current game-renderer screenshots",
+  "imageSize": [
+    1280,
+    720
+  ],
+  "format": "JPEG",
+  "description": "Native browser captures of the current game UI. No mockups, compositing, or image enhancement. An isolated local showcase profile exposes progression features; result and growth screens use a controlled victory fixture, not evidence of a complete natural playthrough.",
+  "changes": {
+    "replaced": 10,
+    "added": 4,
+    "retained": 10,
+    "galleryTotal": 24
+  },
+  "removedFromGallery": [
+    "games/yokai-defense/screenshot-v078-08-inventory.webp",
+    "games/yokai-defense/screenshot-v078-07-equipment.webp",
+    "games/yokai-defense/screenshot-v078-04-preparation.webp",
+    "games/yokai-defense/screenshot-v078-02-map.webp",
+    "games/yokai-defense/screenshot-v078-03-world.webp",
+    "games/yokai-defense/screenshot-v078-10-field-guide.webp",
+    "games/yokai-defense/screenshot-v078-11-journal.webp",
+    "games/yokai-defense/screenshot-v078-15-events.webp",
+    "games/yokai-defense/screenshot-v078-19-results.webp",
+    "games/yokai-defense/screenshot-v078-20-growth.webp"
+  ],
+  "files": [
+    {
+      "file": "screenshot-20261027-inventory.jpg",
+      "sha256": "71be26bf1b3daebc514996ec0626213ed1a19fe4f894e555d737db6b2ca8842d",
+      "bytes": 136620,
+      "screen": "items"
+    },
+    {
+      "file": "screenshot-20261027-equipment.jpg",
+      "sha256": "1ae8eeb80b0d6a8102824197f43da5931d2e73dd65bc0b10dda5fa683cbacda4",
+      "bytes": 122122,
+      "screen": "rpg-gear"
+    },
+    {
+      "file": "screenshot-20261027-preparation.jpg",
+      "sha256": "9343934ecf9389ae64595e99788435d5ff4223fabc1c021cc650439bdf294f43",
+      "bytes": 149788,
+      "screen": "detail"
+    },
+    {
+      "file": "screenshot-20261027-map.jpg",
+      "sha256": "6588ce59cbfa7384abf9dac9c739c4e94c445bfef37515b5c38af6f16c1e2196",
+      "bytes": 114736,
+      "screen": "map"
+    },
+    {
+      "file": "screenshot-20261027-world.jpg",
+      "sha256": "8b425253842bcfad3ba04a29e8d4d80b84bb41e4e230678c5c646b7612956b05",
+      "bytes": 133474,
+      "screen": "world"
+    },
+    {
+      "file": "screenshot-20261027-field-guide.jpg",
+      "sha256": "37a4895c22c18f7746b09d57e792a30af2bdbf55f8d82ac493e62da4289d062a",
+      "bytes": 68518,
+      "screen": "armory"
+    },
+    {
+      "file": "screenshot-20261027-journal.jpg",
+      "sha256": "c90298dafa1328ce7b4ff0419e3d87f9fcb692beb76a231cc162515fe30e282a",
+      "bytes": 103187,
+      "screen": "rpg-journal"
+    },
+    {
+      "file": "screenshot-20261027-events.jpg",
+      "sha256": "7912c5e5f7b5543c63eb6db910b4468b16f0efedf2685a585f323849627d54ac",
+      "bytes": 153120,
+      "screen": "events"
+    },
+    {
+      "file": "screenshot-20261027-results.jpg",
+      "sha256": "7468c24ce93d653ef501b3c89f8b49250ea1961f8bf06f389a94f3e4377d7e5e",
+      "bytes": 74379,
+      "screen": "result"
+    },
+    {
+      "file": "screenshot-20261027-growth.jpg",
+      "sha256": "0d49d78f10e2a2bb38bda3ff15463d618de67650b36cbc8178a51328ce818580",
+      "bytes": 64244,
+      "screen": "result"
+    },
+    {
+      "file": "screenshot-20261027-companion-weapons.jpg",
+      "sha256": "fdea3c2d17f6a114e14999b975686d5c9201d25ceb60dc664e0c8445b61d69a1",
+      "bytes": 123490,
+      "screen": "company"
+    },
+    {
+      "file": "screenshot-20261027-companions.jpg",
+      "sha256": "f57273f044322f2932b37d4928ef9cd8e0789e272d620f6c41da4140cfd1bda5",
+      "bytes": 99189,
+      "screen": "company"
+    },
+    {
+      "file": "screenshot-20261027-prologue.jpg",
+      "sha256": "4790bd84bcd08881c211d65203ce5618882e2b5d59e364eba58da2fda73eed37",
+      "bytes": 78512,
+      "screen": "prologue"
+    },
+    {
+      "file": "screenshot-20261027-scout.jpg",
+      "sha256": "acd66e23244cd4616f7fbb61bb64eb046e8c334033840e20f195e72acb1ccae4",
+      "bytes": 144542,
+      "screen": "detail"
+    }
+  ],
+  "sourceFix": "Restore village and stronghold navigation sprite frames hidden by legacy mobile text-span CSS. No balance or game-logic changes."
+}

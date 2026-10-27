@@ -8,14 +8,14 @@
   "status": "coming-soon",
   "featured": true,
   "demo": false,
-  "banner": "games/beat-turret/banner-v260-studio-wide.jpg",
+  "banner": "games/beat-turret/banner-20261027-studio-wide.jpg",
   "bannerTextPosition": "bottom-left",
   "bannerFocus": {
     "x": 50,
     "y": 50
   },
-  "bannerAlt": "BEAT TURRET 영문 타이틀과 최신 2.60 스튜디오 UI의 실제 리듬 보스전을 조합한 배너. TAP·SCRATCH·BASS로 포탑을 조작하는 리듬 디펜스.",
-  "cover": "games/beat-turret/promo-v260-overview.jpg",
+  "bannerAlt": "BEAT TURRET 영문 타이틀과 2026년 10월 27일 개발 소스에서 촬영한 실제 스크래치 반격·광원·리듬 패드 화면을 조합한 배너.",
+  "cover": "games/beat-turret/promo-20261027-overview.jpg",
   "platforms": [
     {
       "type": "google-play",
@@ -24,7 +24,7 @@
   ],
   "screenshots": [
     {
-      "src": "games/beat-turret/promo-v260-overview.jpg",
+      "src": "games/beat-turret/promo-20261027-overview.jpg",
       "alt": "BEAT TURRET 영문 로고와 실제 전투·선곡 화면을 배치한 소개 이미지. 박자 입력으로 포탑을 쏘는 리듬 디펜스이며 41곡, 장비 36모델, 세 난이도를 안내합니다.",
       "caption": "BEAT TURRET · 박자에 맞춰 포탑을 쏘는 리듬 디펜스 / 실제 화면을 조합한 소개"
     },
@@ -34,59 +34,74 @@
       "caption": "시작 / 영문 타이틀과 오프닝"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-combat-drum.webp",
-      "alt": "Amber Signal 전투에서 좌우 원형 패드, 요격 중인 적, 포탑의 발사와 타이밍 판정이 보이는 화면",
-      "caption": "전투 / 좌우 패드와 드럼 포격"
+      "src": "games/beat-turret/screenshot-20261027-first-transmission.webp",
+      "alt": "음악이 끊긴 도시의 야경 위에 코어 방어와 보스 격파, 다음 곡 해금이라는 목적을 안내하는 첫 송신 프롤로그",
+      "caption": "이야기 / 음악이 끊긴 도시에서 보내는 첫 송신"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-combat-scratch.webp",
-      "alt": "LP 스크래치 구간에서 화살표 방향 입력, PERFECT 판정과 포탑의 반격 궤적이 보이는 화면",
-      "caption": "전투 / LP 스크래치 반격"
+      "src": "games/beat-turret/screenshot-20261027-combat-drum.webp",
+      "alt": "박자 입력 직후 포탑의 총구 광원, 요격 파티클과 실제 요격 수가 보이는 최신 전투 화면",
+      "caption": "전투 / 박자 입력에 반응하는 포격·요격·광원"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-combat-boss.webp",
-      "alt": "CIRCUIT BREAKER 보스와 체력바, BASS 충전량, 좌우 전선과 리듬 패드가 함께 보이는 실제 보스전 화면",
-      "caption": "전투 / 보스 등장과 체력바"
+      "src": "games/beat-turret/screenshot-20261027-combat-scratch.webp",
+      "alt": "LP 스크래치 입력 후 반격 궤적과 분홍색 타격 파티클, PERFECT 판정이 표시된 실제 화면",
+      "caption": "전투 / 스크래치 반격과 타격 파티클"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-combat-bass.webp",
-      "alt": "BASS 릴리즈로 보스를 격파한 직후 금빛 충격파와 VICTORY ENCORE 전환이 나타나는 실제 전투 화면",
-      "caption": "전투 / BASS 피니시와 격파 직후의 파동"
+      "src": "games/beat-turret/screenshot-20261027-combat-boss.webp",
+      "alt": "CIRCUIT BREAKER 보스의 체력바와 리듬 패드, 포탑이 함께 보이는 최신 보스전 화면",
+      "caption": "전투 / 보스 등장과 전선 방어"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-combat-encore.webp",
-      "alt": "보스 격파 뒤 피해 없는 VICTORY ENCORE 구간에서 패드를 연주하고 추가 점수를 모으는 화면",
-      "caption": "전투 / 승리 뒤 이어지는 앙코르"
+      "src": "games/beat-turret/screenshot-20261027-combat-bass.webp",
+      "alt": "BASS 릴리즈 직후 금빛 충격파와 광원이 퍼지며 SWEEP 요격 결과가 표시되는 실제 전투",
+      "caption": "전투 / BASS 충격파와 광역 요격"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-performance-result.webp",
-      "alt": "RECORD CLEAR 결과에서 S 등급, 정확도, 최고 기록, 공명 보상과 다음 공연 버튼을 확인하는 화면",
-      "caption": "결과 / 정확도·기록·획득 보상"
+      "src": "games/beat-turret/screenshot-20261027-combat-encore.webp",
+      "alt": "BASS로 보스를 격파한 직후 실제 보스 피해 수치와 VICTORY ENCORE 전환이 보이는 화면",
+      "caption": "전투 / BASS 보스 피해와 승리 앙코르"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-mobile-menu.webp",
-      "alt": "세로 화면에 맞춘 스튜디오 선곡 UI, 장비, 미리듣기와 플레이 시작 버튼",
-      "caption": "모바일 / 선곡과 장비 선택"
+      "src": "games/beat-turret/screenshot-20261027-performance-result.webp",
+      "alt": "첫 곡을 완주한 뒤 도시에서 온 응답과 S 등급, 정확도, 다음 공연 준비 버튼을 보여 주는 실제 결과 화면",
+      "caption": "결과 / 첫 공연에 돌아온 응답과 다음 무대"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-mobile-combat.webp",
-      "alt": "모바일 세로 전투에서 포탑, 적과 좌우 입력 패드가 분리되어 표시되는 실제 화면",
-      "caption": "모바일 / 좌우 리듬 패드와 포탑 공격"
+      "src": "games/beat-turret/screenshot-20261027-combat-contribution.webp",
+      "alt": "실제 완주 결과의 요격·반격·장비 발동 집계와 공명 지급량, 외형 스탬프 보상 화면",
+      "caption": "결과 / 연주와 장비의 실제 전투 기여도"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-mobile-bass.webp",
-      "alt": "모바일에서 BASS 릴리즈 후 금빛 충격파와 PERFECT 판정, 승리 앙코르가 표시된 화면",
-      "caption": "모바일 / BASS 피니시와 승리 앙코르"
+      "src": "games/beat-turret/screenshot-20261027-failure-retry.webp",
+      "alt": "보스 마무리 실패 원인과 한 단계 낮춰 재도전, 놓친 구간 연습 버튼을 안내하는 결과 화면",
+      "caption": "재도전 / 실패 원인과 쉬운 난도·구간 연습"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-mobile-result.webp",
-      "alt": "모바일 결과에서 S 등급, 정확도와 획득 공명, 다음 공연 준비 버튼을 보여 주는 화면",
-      "caption": "모바일 / 결과와 획득 보상"
+      "src": "games/beat-turret/screenshot-20261027-mobile-record-menu.webp",
+      "alt": "모바일 세로 비율의 최신 선곡·장비 선택과 첫 공연 목표 안내 화면",
+      "caption": "모바일 / 선곡·장비와 첫 공연 목표"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-record-menu.webp",
-      "alt": "Amber Signal 선곡과 카세트 장비 등급, 미리듣기, 난이도 선택과 시작 버튼이 보이는 실제 선곡 화면",
-      "caption": "실제 선곡·장비 선택 화면 · 클리어로 다음 곡을 해금하세요"
+      "src": "games/beat-turret/screenshot-20261027-mobile-combat-drum.webp",
+      "alt": "세로 화면의 포탑 발사·요격 파티클과 좌우 리듬 패드가 보이는 최신 전투 화면",
+      "caption": "모바일 / 포탑 공격과 좌우 리듬 패드"
+    },
+    {
+      "src": "games/beat-turret/screenshot-20261027-mobile-combat-encore.webp",
+      "alt": "모바일 세로 화면에서 BASS의 실제 보스 피해와 금빛 파동, 승리 앙코르를 보여 주는 화면",
+      "caption": "모바일 / BASS 피니시와 실제 보스 피해"
+    },
+    {
+      "src": "games/beat-turret/screenshot-20261027-mobile-combat-contribution.webp",
+      "alt": "모바일 결과에서 실제 요격·반격·장비 발동 횟수와 공명 및 외형 스탬프 보상을 확인하는 화면",
+      "caption": "모바일 / 전투 기여도·기록·보상"
+    },
+    {
+      "src": "games/beat-turret/screenshot-20261027-record-menu.webp",
+      "alt": "최신 스튜디오 선곡 화면의 곡 레벨, 장비 선택, 미리듣기와 플레이 시작 버튼",
+      "caption": "선곡 / 곡별 레벨·장비 선택·미리듣기"
     },
     {
       "src": "games/beat-turret/screenshot-v260-record-library.webp",
@@ -94,7 +109,7 @@
       "caption": "선곡 / 곡 레벨·BPM·즐겨찾기"
     },
     {
-      "src": "games/beat-turret/promo-v260-records.jpg",
+      "src": "games/beat-turret/promo-20261027-records.jpg",
       "alt": "실제 선곡 화면과 41곡 중 Amber Signal, Midnight Groove, Prism Overload 등 8곡의 곡명·BPM·길이를 정리한 음악 소개 이미지",
       "caption": "41곡의 힙합·일렉트로니카 · 실제 선곡 화면과 수록곡 목록"
     },
@@ -124,9 +139,14 @@
       "caption": "수집과 성장 · 음악 장비 9개 계열, 4개 등급, 총 36개 모델"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-backstage-prepare.webp",
-      "alt": "공연 결과에서 다음 곡의 백스테이지로 이동해 장비와 연구 준비, 다음 공연 목표를 확인하는 화면",
-      "caption": "백스테이지 / 다음 공연을 위한 정비"
+      "src": "games/beat-turret/screenshot-20261027-backstage-prepare.webp",
+      "alt": "실제 첫 곡 완주 후 다음 공연으로 이동한 백스테이지의 준비 목표와 장비 정비 화면",
+      "caption": "백스테이지 / 다음 공연을 준비하는 정비 공간"
+    },
+    {
+      "src": "games/beat-turret/screenshot-20261027-passage-practice.webp",
+      "alt": "실패 결과에서 01:32–01:43 구간 연습으로 이동한 백스테이지 리듬 연습실과 반복 설정",
+      "caption": "연습 / 놓친 구간을 무료로 반복 연습"
     },
     {
       "src": "games/beat-turret/screenshot-v260-backstage-soundcheck.webp",
@@ -144,9 +164,14 @@
       "caption": "추가 콘텐츠 / 방어 MIX와 반격 회로"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-city-restoration.webp",
-      "alt": "레코드 라이브러리의 도시 지도에서 복원된 구역과 다음 공연 위치, 전체 14구역의 진행을 확인하는 화면",
-      "caption": "공연 여정 / 도시 복원 지도"
+      "src": "games/beat-turret/screenshot-20261027-city-restoration.webp",
+      "alt": "도시 복원 지도와 공연 여정을 보여 주는 최신 레코드 라이브러리 화면",
+      "caption": "공연 여정 / 도시 복원과 다음 목표"
+    },
+    {
+      "src": "games/beat-turret/screenshot-20261027-mastery-goal.webp",
+      "alt": "완주한 공연 묶음에서 정확도 95%에 도전할 다음 미숙련 곡과 숙련 보상을 안내하는 화면",
+      "caption": "후반 목표 / 완주 다음에는 95% 숙련 도전"
     },
     {
       "src": "games/beat-turret/screenshot-v260-stage-theme.webp",
@@ -154,27 +179,32 @@
       "caption": "꾸미기 / 공연 테마 미리보기"
     },
     {
+      "src": "games/beat-turret/screenshot-20261027-style-shop.webp",
+      "alt": "스탬프로 교환하는 외형 조명 세트의 미리보기와 가격, 전투 능력을 바꾸지 않는다는 설명을 보여 주는 화면",
+      "caption": "꾸미기 / 연주로 모은 스탬프와 외형 조명"
+    },
+    {
       "src": "games/beat-turret/screenshot-v260-attendance-calendar.webp",
       "alt": "EVENT STUDIO의 2026년 10월 달력에 출석일과 보상 수령일, 연속 출석 및 오늘 날짜가 표시된 화면",
       "caption": "이벤트 / 출석 달력과 연속 출석"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-daily-missions.webp",
-      "alt": "일일 미션에서 연주 목표의 달성 막대, 보상 받기 버튼과 공명 지급량을 확인하는 화면",
-      "caption": "이벤트 / 일일 연주 미션과 보상"
+      "src": "games/beat-turret/screenshot-20261027-daily-missions.webp",
+      "alt": "일일 미션의 실제 연주 목표와 달성 막대, 공명 보상 수령 버튼이 보이는 최신 이벤트 화면",
+      "caption": "이벤트 / 연주 미션과 성장 보상"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-tutorial-tap.webp",
-      "alt": "PERFORMANCE TRAINING에서 금빛 링 타이밍과 좌우 패드 입력을 안내하는 드럼 포격 연습 화면",
-      "caption": "가이드 / 링에 맞춰 드럼으로 발사"
+      "src": "games/beat-turret/screenshot-20261027-tutorial-tap.webp",
+      "alt": "적과 조준선, 판정 링을 함께 보여 주며 타이밍과 요격의 관계를 알려 주는 최신 조작 연습 화면",
+      "caption": "가이드 / 적을 향해 링 타이밍에 발사"
     },
     {
-      "src": "games/beat-turret/screenshot-v260-tutorial-bass.webp",
-      "alt": "BASS 홀드와 릴리즈 방법을 설명하고 HOLD 패드와 포탑을 보여 주는 실제 조작 연습 화면",
-      "caption": "가이드 / BASS를 누르고 때맞춰 떼기"
+      "src": "games/beat-turret/screenshot-20261027-tutorial-bass.webp",
+      "alt": "포탑과 적, 금빛 홀드·릴리즈 링으로 BASS 공격 방법을 안내하는 최신 연습 화면",
+      "caption": "가이드 / BASS 홀드와 릴리즈 학습"
     },
     {
-      "src": "games/beat-turret/promo-v260-controls.jpg",
+      "src": "games/beat-turret/promo-20261027-controls.jpg",
       "alt": "실제 전투 화면 옆에서 TAP 포격, SCRATCH 스와이프 반격, BASS 홀드 후 릴리즈를 설명한 이미지",
       "caption": "플레이 방식 · 탭으로 요격, 스크래치로 반격, BASS로 충격파"
     },

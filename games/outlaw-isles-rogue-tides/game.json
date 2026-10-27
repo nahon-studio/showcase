@@ -39,8 +39,18 @@
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-01-combat.webp",
-      "alt": "반복 던전에서 여우 주인공이 거대한 뿔 달린 적을 공격하며 붉은 공격 전조와 전투 상태를 확인하는 한국어 화면.",
+      "alt": "던전에서 사략선장 장비를 착용한 여우 주인공이 커다란 적에게 강공격을 적중시키는 한국어 화면.",
       "caption": "던전과 전투 · 적의 공격 전조를 읽고 베기와 회피를 연결하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-05-inventory.webp",
+      "alt": "한 장의 양피지 형태인 가방 화면에서 캐릭터와 장비 슬롯, 아이템 목록, 검색과 분류 기능을 확인하는 한국어 화면.",
+      "caption": "선장의 소지품 · 장비와 도구, 음식과 제작 재료를 분류하고 필요한 물건을 찾아보세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-23-companions.webp",
+      "alt": "사략선장 복장을 입은 여우 주인공을 토마와 미라가 따라오며 주민과 시설 사이를 이동하는 항구 화면.",
+      "caption": "동행대와의 모험 · 각자의 능력을 가진 동료와 섬을 탐험하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-08-dialogue.webp",
@@ -48,29 +58,24 @@
       "caption": "주민의 이야기 · 일상의 안부와 의뢰, 선원들의 증언을 따라가세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-05-inventory.webp",
-      "alt": "항해일지 모양의 가방에서 캐릭터와 장비 슬롯, 아이템 목록, 선택한 커틀러스의 설명을 확인하는 한국어 화면.",
-      "caption": "선장의 소지품 · 책갈피 분류로 장비와 도구, 음식과 제작 재료를 정리하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-18-result.webp",
-      "alt": "끝없는 수문의 전투 승리 후 적중, 피해, 처치 기록과 귀환 시 회수할 전리품을 확인하는 한국어 결과 화면.",
-      "caption": "전투 기록 · 이번 전투를 돌아보고, 반복 던전의 전리품을 챙겨 귀환할지 선택하세요."
-    },
-    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-02-sailing.webp",
       "alt": "푸른 해역에서 선원이 탄 범선을 직접 조타하며 선체, 속력, 부표와 표류 화물을 확인하는 한국어 항해 화면.",
       "caption": "직접 조타하는 항해 · 부표를 따라 이동하고 표류 물자와 바다의 위협에 대응하세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-10-chart.webp",
-      "alt": "여러 섬과 대륙의 목적지 카드, 출항 비용과 해금 조건, 배의 적재량을 보여 주는 세계 해도 화면.",
-      "caption": "세계 해도 · 목적지와 출항 비용을 살피고 다음 항로를 선택하세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-21-secret-room.webp",
+      "alt": "동행대와 함께 뿌리 보관실에 들어가 석조 바닥, 등불, 조사할 유물과 출구를 확인하는 게임 화면.",
+      "caption": "비밀구역의 탐험 · 동료와 함께 유물을 조사하고 숲의 수호자에게 맞서세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-14-fishing.webp",
-      "alt": "수몰림 군도의 해안에서 여우 해적이 낚싯대를 들고 줄 장력과 끌어올리기 상태를 확인하는 낚시 화면.",
-      "caption": "해안의 낚시 · 줄의 장력을 조절하며 물고기를 끌어올리세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-11-equipment.webp",
+      "alt": "사략선장 복장을 입은 주인공과 여러 무기 및 의복, 영웅 등급 커틀러스의 능력치를 보여 주는 한국어 장비 화면.",
+      "caption": "장비와 외형 · 복장을 바꾸고 무기의 등급과 능력치를 비교해 모험을 준비하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-22-local-map.webp",
+      "alt": "양피지 위에 불규칙한 해안선과 지형, 시설과 인물 표식을 함께 표시한 잿물항 지역 지도.",
+      "caption": "내가 서 있는 섬 · 실제 지형을 따라 시설과 탐험 장소를 찾아보세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-04-farming.webp",
@@ -78,34 +83,24 @@
       "caption": "모험 사이의 생활 · 씨앗을 심고 수확해 다음 항해의 식량을 준비하세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-16-woodcutting.webp",
-      "alt": "주인공이 도끼로 나무를 베며 작업 진행 막대와 타격 효과가 나타나는 실제 게임 화면.",
-      "caption": "직접 모으는 자원 · 도끼로 목재를 마련해 제작과 보급에 활용하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-11-equipment.webp",
-      "alt": "무기·옷·신발·장신구의 네 장비 슬롯과 기본 작업 도구 안내를 보여 주는 한국어 장비 화면.",
-      "caption": "장비와 작업 도구 · 모험에 맞는 장비를 갖추고 생활 도구의 쓰임을 확인하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-12-cooking.webp",
-      "alt": "귀항 생활 수첩에서 밀 빻기, 빵 굽기, 스튜와 차 등 가공품의 재료와 생산 시간을 확인하는 한국어 화면.",
-      "caption": "가공과 보급 · 수확한 작물과 채집 재료로 음식과 다음 항해의 보급품을 만드세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-14-fishing.webp",
+      "alt": "수몰림 군도의 해안에서 여우 해적이 낚싯대를 들고 줄 장력과 끌어올리기 상태를 확인하는 낚시 화면.",
+      "caption": "해안의 낚시 · 줄의 장력을 조절하며 물고기를 끌어올리세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-13-crew.webp",
-      "alt": "조타수 로안, 요리사 엘리아, 목수 브란의 초상화와 역할 지정 버튼을 보여 주는 선원 관리 화면.",
-      "caption": "함께 항해하는 선원 · 동료의 이야기를 듣고 원정에 필요한 주 역할을 맡기세요."
+      "alt": "토마, 미라, 케스트의 초상화와 동행 상태, 전투 능력과 영입 의뢰를 보여 주는 동행대 관리 화면.",
+      "caption": "함께 걷는 동료 · 의뢰로 인연을 맺고 함께할 두 명의 동행대를 구성하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-06-shipyard.webp",
-      "alt": "뼈용골 조선소에서 채집 도구, 선상 조리대, 용골과 등불의 강화 비용과 보유 재료를 확인하는 한국어 화면.",
-      "caption": "항구에서의 강화 · 재료와 비용을 살피고 생활과 항해에 필요한 보강을 준비하세요."
+      "alt": "항해 조선소에서 돛과 어망, 적재함과 선체의 강화 단계 및 필요한 재료를 확인하는 한국어 화면.",
+      "caption": "배의 성장 · 돛과 어망, 적재함과 선체를 보강해 다음 항해를 준비하세요."
     },
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-15-desert.webp",
-      "alt": "유리비 지역의 황토색 해안에서 주인공, 주민, 채집 자원과 선착장에 정박한 배를 보여 주는 탐험 화면.",
-      "caption": "다른 대륙의 항구 · 유리비의 주민과 새로운 채집 자원을 만나세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-10-chart.webp",
+      "alt": "여러 섬과 대륙의 목적지 카드, 출항 비용과 해금 조건, 배의 적재량을 보여 주는 세계 해도 화면.",
+      "caption": "세계 해도 · 목적지와 출항 비용을 살피고 다음 항로를 선택하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-03-snow.webp",
@@ -113,13 +108,38 @@
       "caption": "낯선 해안과 대륙 · 숲·설원·사막·유적의 주민과 흔적을 찾아가세요."
     },
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-15-desert.webp",
+      "alt": "유리비 지역의 황토색 해안에서 주인공, 주민, 채집 자원과 선착장에 정박한 배를 보여 주는 탐험 화면.",
+      "caption": "다른 대륙의 항구 · 유리비의 주민과 새로운 채집 자원을 만나세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-20-secret-entry.webp",
+      "alt": "주인공과 동료들이 해안의 바위 사이에 숨겨진 입구를 발견한 실제 게임 화면.",
+      "caption": "숨겨진 입구 · 해안의 낯선 흔적을 살펴 별도의 비밀구역을 찾아보세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-16-woodcutting.webp",
+      "alt": "주인공이 도끼로 나무를 베며 작업 진행 막대와 타격 효과가 나타나는 실제 게임 화면.",
+      "caption": "직접 모으는 자원 · 도끼로 목재를 마련해 제작과 보급에 활용하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-12-cooking.webp",
+      "alt": "귀항 생활 수첩에서 밀 빻기, 빵 굽기, 스튜와 차 등 가공품의 재료와 생산 시간을 확인하는 한국어 화면.",
+      "caption": "가공과 보급 · 수확한 작물과 채집 재료로 음식과 다음 항해의 보급품을 만드세요."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-09-quest.webp",
       "alt": "노트의 의뢰 아직 식지 않은 자리에서 필요한 생선과 장작, 보상과 수락 버튼을 확인하는 한국어 화면.",
       "caption": "주민의 부탁 · 필요한 물품을 모으고 보상을 받으며 인연을 이어 가세요."
     },
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-18-result.webp",
+      "alt": "끝없는 수문의 전투 승리 후 적중, 피해, 처치 기록과 귀환 시 회수할 전리품을 확인하는 한국어 결과 화면.",
+      "caption": "전투 기록 · 이번 전투를 돌아보고, 반복 던전의 전리품을 챙겨 귀환할지 선택하세요."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-17-settings.webp",
-      "alt": "종이 질감의 환경 설정에서 책갈피 탭과 전체 음량, BGM, 효과음, 환경음 슬라이더를 보여 주는 한국어 화면.",
+      "alt": "양피지 테마의 환경 설정에서 분류 탭과 전체 음량, BGM, 효과음, 환경음 슬라이더를 보여 주는 한국어 화면.",
       "caption": "환경 설정 · 화면·사운드·조작·언어·편의 설정을 항목별로 조절하세요."
     },
     {

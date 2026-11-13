@@ -13,7 +13,7 @@
     "rating": "15",
     "method": "self"
   },
-  "banner": "games/unlisted-patient/banner-20261027.png",
+  "banner": "games/unlisted-patient/banner-20261114.png",
   "bannerTextPosition": "center-right",
   "bannerFocus": {
     "x": 50,
@@ -28,44 +28,54 @@
   ],
   "screenshots": [
     {
-      "src": "games/unlisted-patient/screenshot-01-public-20261027.png",
+      "src": "games/unlisted-patient/01_ward-20261114.png",
       "alt": "접수대와 복도가 있는 병동.",
       "caption": "병동"
     },
     {
-      "src": "games/unlisted-patient/screenshot-02-public-20261027.png",
+      "src": "games/unlisted-patient/02_nurse-20261114.png",
       "alt": "병원 복도에 서 있는 간호사.",
       "caption": "간호사"
     },
     {
-      "src": "games/unlisted-patient/screenshot-03-public-20261027.png",
+      "src": "games/unlisted-patient/03_surgery-20261114.png",
       "alt": "수술실의 의사와 의료 장비.",
       "caption": "수술실"
     },
     {
-      "src": "games/unlisted-patient/screenshot-04-public-20261027.png",
-      "alt": "환기 설비와 조작 장치가 있는 중계실.",
-      "caption": "중계실"
+      "src": "games/unlisted-patient/04_laundry-20261114.png",
+      "alt": "세탁기와 분류대가 있는 세탁실.",
+      "caption": "세탁실"
     },
     {
-      "src": "games/unlisted-patient/screenshot-05-public-20261027.png",
+      "src": "games/unlisted-patient/05_morgue-20261114.png",
+      "alt": "이송 침대와 의료 장비가 있는 영안실.",
+      "caption": "영안실"
+    },
+    {
+      "src": "games/unlisted-patient/06_platform-20261114.png",
       "alt": "기둥과 승강장 문이 있는 지하 승강장.",
       "caption": "승강장"
     },
     {
-      "src": "games/unlisted-patient/screenshot-06-public-20261027.png",
+      "src": "games/unlisted-patient/07_carriage-20261114.png",
       "alt": "좌석과 손잡이가 있는 지하철 객차.",
       "caption": "객차"
     },
     {
-      "src": "games/unlisted-patient/screenshot-07-public-20261027.png",
-      "alt": "보관 서랍과 이송 설비가 있는 영안실.",
-      "caption": "영안실"
+      "src": "games/unlisted-patient/08_garden-20261114.png",
+      "alt": "화단과 통로가 있는 실내 정원.",
+      "caption": "정원"
     },
     {
-      "src": "games/unlisted-patient/screenshot-08-public-20261027.png",
-      "alt": "세탁기와 분류대가 있는 세탁실.",
-      "caption": "세탁실"
+      "src": "games/unlisted-patient/09_relay-20261114.png",
+      "alt": "환기 설비와 조작 장치가 있는 중계실.",
+      "caption": "중계실"
+    },
+    {
+      "src": "games/unlisted-patient/10_title-20261114.png",
+      "alt": "미등록 환자의 타이틀과 시작 메뉴.",
+      "caption": "타이틀"
     }
   ],
   "about": [
@@ -103,5 +113,5 @@
     "1-bit 디더링"
   ],
   "videos": [],
-  "cover": "games/unlisted-patient/banner-20261027.png"
+  "cover": "games/unlisted-patient/banner-20261114.png"
 }

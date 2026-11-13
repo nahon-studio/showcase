@@ -39,7 +39,7 @@
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-01-combat.webp",
-      "alt": "던전에서 사략선장 장비를 착용한 여우 주인공이 커다란 적에게 강공격을 적중시키는 한국어 화면.",
+      "alt": "던전에서 사략선장 복장의 여우 주인공이 적에게 강공격을 적중시키며 피해 숫자와 베기 효과가 나타나는 한국어 화면.",
       "caption": "던전과 전투 · 적의 공격 전조를 읽고 베기와 회피를 연결하세요."
     },
     {
@@ -61,6 +61,16 @@
       "src": "games/outlaw-isles-rogue-tides/screenshot-02-sailing.webp",
       "alt": "푸른 해역에서 선원이 탄 범선을 직접 조타하며 선체, 속력, 부표와 표류 화물을 확인하는 한국어 항해 화면.",
       "caption": "직접 조타하는 항해 · 부표를 따라 이동하고 표류 물자와 바다의 위협에 대응하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-25-departure.webp",
+      "alt": "출항 점검에서 목적지와 왕복 보급량, 가방에서 배로 옮길 물품, 적재 후 미달 수량을 확인하는 한국어 화면.",
+      "caption": "출항 전 점검 · 목적지와 보급 여유를 살피고 필요한 물품을 배에 실으세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-24-port-services.webp",
+      "alt": "항만 보급 화면에서 식량과 식수, 수리 자재, 선체 상태와 금화 비용을 확인하는 한국어 화면.",
+      "caption": "항만의 보급 · 보유 자원과 비용을 확인하고 다음 항해에 필요한 물자를 채우세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-21-secret-room.webp",
@@ -94,7 +104,7 @@
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-06-shipyard.webp",
-      "alt": "항해 조선소에서 돛과 어망, 적재함과 선체의 강화 단계 및 필요한 재료를 확인하는 한국어 화면.",
+      "alt": "조선소에서 돛과 어망의 현재 단계, 강화 전후 효과와 필요한 재료, 보유 수량을 비교하는 한국어 화면.",
       "caption": "배의 성장 · 돛과 어망, 적재함과 선체를 보강해 다음 항해를 준비하세요."
     },
     {

@@ -1,6 +1,6 @@
 {
   "title": "Sneak & Snipe: Through the Scope",
-  "updated": "2026-10-27",
+  "updated": "2026-11-14",
   "identity": "Catalog ID shh-one-shot is retained to preserve existing URLs.",
   "cover": {
     "type": "Game concept artwork, not gameplay",
@@ -30,7 +30,7 @@
   },
   "screenshots": {
     "type": "Actual Godot 4.5.2 native renderer captures of the current development source",
-    "date": "2026-10-27",
+    "date": "2026-11-13",
     "source_version_label": "2.35.2",
     "release_export": false,
     "renderer": "Compatibility / OpenGL 4.1 Metal / Apple M4",
@@ -38,51 +38,64 @@
       1920,
       1080
     ],
-    "method": "Arranged mission time and camera using isolated --self-test QA profile; authentic game meshes, lighting and UI. Not a continuous-play recording.",
-    "processing": "PNG to WebP quality 92; original frame/aspect preserved, no visual retouching or generation.",
+    "method": "Arranged mission time and camera using isolated --self-test QA profile; authentic meshes, lighting and UI. Not continuous-play evidence.",
+    "processing": "Full-frame PNG to WebP quality 92. STOVE copies use JPEG quality 96, 4:4:4. No retouching, compositing, HUD replacement or generation.",
     "source_sha256": {
       "project.godot": "a684c8045154e04e0ab25f31f2bc445a67e4392041a69a0eebb34480d2c2dd74",
-      "scripts/art_detail.gd": "25bbbc352dafacd8f84b0eae945aa0e9257b02e73984b7a23d6f85f3d65afffa",
+      "scripts/acoustic_decoy.gd": "12bd6746fd43a137298d181909484852aed341ac6dfef5995d269bc1dff6f821",
+      "scripts/art_detail.gd": "0dab7e20f5c0a1f56ffcb3a4a6931c7f7d92adeaf12134bf2554e89f157abdf3",
       "scripts/audio.gd": "73eb65959e4cfcd0bb12cf56a477521e40e548335abf4275c613f8ddcc31ba4f",
       "scripts/ballistics.gd": "243e2b48f4ac40a89d981e8a69fd611bd233b65c75bb5eaef5c233906b3f9a6f",
-      "scripts/character.gd": "a4e414504553a283e01365ba5ab8e54297d165cc8eb126290dff54e83fd543ba",
-      "scripts/checkpoint_store.gd": "7776494e829fdd65a63aae47d1f55f6c5b00af14c6f5c3872c34802b9b8d8e0b",
-      "scripts/controller.gd": "577dbf52d2b9a12f777a8ee89d7ccf47723cb2543f8926f445026821d807dd4d",
+      "scripts/character.gd": "d7a7c2563a70b0aa81e475b2484335a11b4d58e384b6f99699d2a58eb31ba7de",
+      "scripts/character_contact.gd": "5dffd3f6b347d7f61461b4ba37f601fbdd02c0209d158273d1cb219dfe29aa23",
+      "scripts/checkpoint_store.gd": "aef2d5da03429aa36cad8097b60ef4dd34fc0eeccd55443f853c81309a2b027d",
+      "scripts/controller.gd": "9a038377090286fc0a4042bd6e425bccb930dd1e513377131e8ab66377879e12",
       "scripts/display_settings.gd": "cd2c9801bc2cd1c7659b4ced49e5ee9d11cb5b5b755b6bbc69222999db4fe2da",
-      "scripts/dramatic_beats.gd": "ee1986db493e7b9fab61a9896db3d2f48260f34a1e954d85b0dc24b395a1f3f0",
+      "scripts/dramatic_beats.gd": "9d893c9c81785e67a86a803a4b0c6ca7d43885fcb14d66927213c032cbe27d93",
       "scripts/field_director.gd": "bde7a08de373702571550cafd487183675c2ad691dc11ff71469adcb93750db1",
-      "scripts/field_drama.gd": "73a1eaac4253dd4fe8209b9ce8831fb7aa38e7562241f4ff9f6910b196559e65",
-      "scripts/field_space.gd": "f9eede3d50dbef1c0819a682f6a2b0ddfcafbcaf99a82853cc9f1c86cd127e4a",
+      "scripts/field_drama.gd": "ee7cdb8336de93fac62409c8eca596c5f8bc1cba7385edafa9a8b3b0fccb4ee5",
+      "scripts/field_hardware.gd": "5893e5463ef5757d91a491aabfbcc9d84977bf5b39fcc0657bd05d966b995be2",
+      "scripts/field_record_art.gd": "0b61584a39fc72ce7f9d7cc7cf4387f8f4004045892a07c0045700c15f49f8e2",
+      "scripts/field_space.gd": "d61df4b65b8de237fc176318a47a8d82faaaaff67210c699a45f51f0392c763a",
       "scripts/first_person.gd": "fd5c1b5297738fb6fac8e3b6671a249dfcea8c5f4d59f5f18f222c75c562d1fb",
       "scripts/footing.gd": "82fc5ac8a213514e3397a56b00903d3cd4d8050d0d104098cb4ed1ecc848215d",
+      "scripts/ground_water.gd": "dfd9d7efbcd4aaceaf424e0c602926b38d1ed245e33225ef15fd700206185d1e",
       "scripts/guard_ai.gd": "ad1a5649564a76e8dfca2b2bdb2575833de91f4688bba299f7245974a27017c1",
-      "scripts/hand.gd": "c14f5ca7d9c3424ba264a84e7a50eda23737773fa70561a5fa2573fdc4ed32a5",
+      "scripts/hand.gd": "aa5cc6cdf2f164bb472803c6ef1acdc0794da289a549ca312de7a67fd819b8a7",
+      "scripts/local_plan.gd": "0e82ae655ab91a32c4a8c39d46654409306bd52f0c46073de1d084e3c730e0e0",
       "scripts/locale.gd": "350fcc8206a8d41dbeb9f36f2542632814db623ba33bf04b6dfbe255e2e69ed2",
-      "scripts/main.gd": "2d960e43e07125d6221e7cbaa3189d66b6975003004c7fc58db20a776d88a150",
-      "scripts/mission_plan.gd": "e16782f981468e8dd153340e3348e0d9620db891f09ff5bf01144566d386853c",
+      "scripts/main.gd": "89445000a4fe5f40159194776a486c77f1d15e89536050cb673052769fb8bb00",
+      "scripts/mission_dressing.gd": "9b809a01d2f90c59e43eed35296ff31b51ef91de5f2c59051b17ee7aa78f4d8b",
+      "scripts/mission_plan.gd": "a807831d0b3563616d72bd4108402c4a353902cfb936a5045b894c68ef52e3a8",
       "scripts/missions.gd": "260af1dc966fea9f4da7b59ecd3969d73bd4fd3b1ea9b679036f0f0d0a091929",
-      "scripts/music.gd": "dfbb864573407893b1d8859abed35f3247a1a386a74084e42de68ef2795d21c8",
-      "scripts/operation.gd": "b78ee49112207348eb61643c8b5e192c8b982ee068f76176d834db9cba0dba2b",
+      "scripts/music.gd": "a93e30a6ef518be38d3391fb06b0f1dab6632206458ac6fcc2d1b56ec87c6a79",
+      "scripts/operation.gd": "d833772d015fc9915ee7a51f820bf8d24ae6bd56b2b60b2649386f01d6f3f389",
       "scripts/optics.gd": "28239e085da9c9b681f50e8aba1b5564cba037e26549c12feaf7586fc06e4a32",
-      "scripts/playflow.gd": "4da592cda71adac54c01e895774fa7b6f1d045cab341905f444248e49eac2fcf",
-      "scripts/regions.gd": "a2b6249712788a6aa332970594283bac43c44dcbe3335e04837b9c9e19e3d741",
-      "scripts/scenario.gd": "abc3fe72518ff38512962d3c5dae328bba6404c318797dac98c02153e5e116cf",
+      "scripts/playflow.gd": "1f39ff5dd14420f760cddbed9ff4e8bcb8415aef617d55bacf196a4f776c517b",
+      "scripts/range_mechanisms.gd": "2fe0131daca32f8d011f16ed55252c961f2c88293e3d0aba213bb7bed9c9df1d",
+      "scripts/regions.gd": "4e0e9e0538ee14230c20cdb9c00457339de9a0fde5a02cf265efe67dde1b17ad",
+      "scripts/road_wheels.gd": "4f772e9737b4ac61ebbfbbcbacfffcfe07c57257de7c377c071ad1e3968307d3",
+      "scripts/scenario.gd": "cdc92ab6b0ea569e6a8fc9bf690460b2800729d98f89eab8a641aab6158a5676",
+      "scripts/security_fixtures.gd": "3cc8b85aaad4de6127606602f14b358bc901b3c51a5502edc53a030f56cdaa7f",
       "scripts/settings.gd": "f9e0580027bba700be54d050d84c4155d6fb1885b69694be0a75f1a1fda8b247",
-      "scripts/shot_feedback.gd": "f16821fb6587169c9d61e8f0692c7dfcd8094f79a8b214508f5388c378cdf67e",
-      "scripts/studio_intro.gd": "b9562162721d0b82f04bb991c192fe1b18da0790ce740a517f1ed3d1b4573f83",
-      "scripts/threat.gd": "b9cf5a43261fe8600d48bdebbe14377ff140e789ccb56783857cb2812a1c6eae",
-      "scripts/training.gd": "f23e823aedc50ad3a960068e93c3c664a2acdbdb30a1e7a2bd9d82cb23d3e99a",
-      "scripts/ui.gd": "2f60a657409859e53800092fa18718cf02796496b4de060f2ce34a78dbc783e1",
-      "scripts/visuals.gd": "516d943b9e0901c1b78b359740e1a13ec485037e675b67be8b3ce3014e66c8fc",
-      "scripts/world.gd": "5c2ec8bffd208423667f17ab995e8126e4a2a316cbea6e587935bb39fc39093d"
+      "scripts/shot_feedback.gd": "fc9c6724c9b1db15108610973abe52a390775ca414a774f4d95734bfbadf08ba",
+      "scripts/studio_intro.gd": "dc183139a76a4113927545ccf71b5d7c4d42297cba79f1746f84ab7245efa709",
+      "scripts/surface_impact.gd": "d0676ab5396013d069db2fc302bb302e50826f19d10bcf6058539eb0c6a723d9",
+      "scripts/threat.gd": "9e065903ce52c76c7d1e1140c2d848ea173b29d13c3c1a09792121462a92aba9",
+      "scripts/training.gd": "6c2cc6631e66f231f6ddea09ba1e67d8fc9b2bfb677efa667d08100e575233b8",
+      "scripts/ui.gd": "02d6c4a1d6455e30c29da76a0884ab7ea721b670f646cedda40dfa2a6c6f27e0",
+      "scripts/visuals.gd": "60e8f8fb269153920ede94e91cb99f2ca8d599aa48ddeb14d529915f5f6578f7",
+      "scripts/world.gd": "9de1a7cb8e12ab54cd77400126606e4e99f128eb619e61585db13b36d174f973"
     },
     "files": [
       {
-        "file": "screenshot-20261027-convoy-scope.webp",
-        "sha256": "b52a7fb64e3cc0d1d2362234d688d6e2cd58678f545b2008cd8bc2a48b518a42",
-        "bytes": 118482,
+        "file": "screenshot-20261113-convoy-scope.webp",
+        "sha256": "ccd0f919c7a566af9e8bb2a8d041b193470dd0a2012a67d867a3b73c1d16940f",
+        "bytes": 118084,
         "source_png": "12-convoy-scope.png",
-        "source_sha256": "ea9d5598f525eb888ecbe3b18c37e9eb3498519ff88777619f1ce6868fe8adf2",
+        "source_sha256": "25e1b81b018aa7280e7e743513af84bed7ee93f3769823cc4f0a25716a64d319",
+        "stove_file": "01-convoy-scope.jpg",
+        "stove_sha256": "a0365e6a4197a67bf0e19bc595417fd0561195c9454769b684c45c743f878ce3",
         "dimensions": [
           1920,
           1080
@@ -94,11 +107,13 @@
         "state": "playing"
       },
       {
-        "file": "screenshot-20261027-city-escort.webp",
-        "sha256": "4e7ea56746c07c444fd012695f7074c1b3d68ad4e4bb1d3cd9a2f85626992766",
-        "bytes": 266880,
+        "file": "screenshot-20261113-city-escort.webp",
+        "sha256": "a34682b0e5dbb02a3ec20a855341505f2cbcc0566e7944e430cc8fec28abac72",
+        "bytes": 250818,
         "source_png": "03-city-escort.png",
-        "source_sha256": "cb3e99155e771f51e80d720082f526752867eb16457d2424fc8e22ee671e7bdc",
+        "source_sha256": "57cbd5d53fa0eb71b1610c979802f2ae3d2a991bea06b3596e68c19a1bd21152",
+        "stove_file": "02-city-escort.jpg",
+        "stove_sha256": "9af2688eacc818844550366c8ee1454c67a4f68ddeddae3e85a56c99390ac91a",
         "dimensions": [
           1920,
           1080
@@ -110,11 +125,13 @@
         "state": "playing"
       },
       {
-        "file": "screenshot-20261027-night-infiltration.webp",
-        "sha256": "428b9137949149ca18288eceb12abdf72da1b485cdda7a2e1af6035020c5ed12",
-        "bytes": 126598,
+        "file": "screenshot-20261113-night-infiltration.webp",
+        "sha256": "cabf0c5f2cccd73507e257def5eb84e0b81dc5afdefe7c5be6af98941a08a12b",
+        "bytes": 121188,
         "source_png": "05-night-infiltration.png",
-        "source_sha256": "65115f582e63cf014d4b1afad57ad53abb032d289c9f07c1bebc1219862c16d9",
+        "source_sha256": "8baa88b04f539774dc6cd30887ef3450bb7c536b74b125941c30463c8b31e999",
+        "stove_file": "03-night-infiltration.jpg",
+        "stove_sha256": "86929822889beb2b373f2686cecfb04323140d69cb50f6d68d6734eaf843de71",
         "dimensions": [
           1920,
           1080
@@ -126,11 +143,13 @@
         "state": "playing"
       },
       {
-        "file": "screenshot-20261027-express-cabin.webp",
-        "sha256": "34f3d5d83f7f0c8f33b054d6bf26bb1037e3309e78aea02b12a3db94f9fdddb9",
-        "bytes": 205484,
+        "file": "screenshot-20261113-express-cabin.webp",
+        "sha256": "84df173620867688ed88c4b0927d562770efae0f2d4bacf627d35f954703b354",
+        "bytes": 201440,
         "source_png": "07-express-window.png",
-        "source_sha256": "1a2537c716d5beaf87c10ce238b6b19e79ee13400ca82bf5d4549768f0c52ff8",
+        "source_sha256": "314248996cf307cf2e0871cd6e18cab55b24ec82970343c6ef5f8d1908a3e584",
+        "stove_file": "04-express-cabin.jpg",
+        "stove_sha256": "62008e3b7231cd1a7ca5060ba31d63147932315df3763a9a4e7a7c5634c8f1e7",
         "dimensions": [
           1920,
           1080
@@ -142,11 +161,13 @@
         "state": "playing"
       },
       {
-        "file": "screenshot-20261027-express-scope.webp",
-        "sha256": "62dfcd05b13c576593f8721d64bd736638bbf40e46e43ffd190b30522a120e8b",
-        "bytes": 122216,
+        "file": "screenshot-20261113-express-scope.webp",
+        "sha256": "ac53c7a42ebb603b0d736586d25189d96faadcaaac62942476fb76f2306a8373",
+        "bytes": 122294,
         "source_png": "express-candidate-41.png",
-        "source_sha256": "cd99e475303b017b5b11f28b40e2f9ddb79b38f792f8203ff2939a6cd6ce33e1",
+        "source_sha256": "0bb9497fb9aeef56be94caeed246f62e815bf6d5928a226a38409c65e21839c5",
+        "stove_file": "05-express-scope.jpg",
+        "stove_sha256": "9032f9c6c258533cc076a9df66066e47b2f862c50c299bb5489d8a2f054e52fb",
         "dimensions": [
           1920,
           1080
@@ -158,11 +179,49 @@
         "state": "playing"
       },
       {
-        "file": "screenshot-20261027-express-briefing.webp",
-        "sha256": "c113406a18c12fc268e287c1cc0895f46aff737e515ed6593a4973f9252bf571",
-        "bytes": 129990,
+        "file": "screenshot-20261113-city-scope.webp",
+        "sha256": "dbcfc5bdabbdc41f863e961675a87fee0e1ae198261503fc63861bfeb83bb3bb",
+        "bytes": 156876,
+        "source_png": "04-city-scope.png",
+        "source_sha256": "3312cf2485fb6bde9a6af6023a00c80c8b0ed8c868e5866a86a0efa7bc600936",
+        "stove_file": "06-city-scope.jpg",
+        "stove_sha256": "d2562f33d5ed7c3444bc968e43bdfe981f4804d09d7fe1d9afce021c646597cd",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 9.0,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 6,
+        "scoped": true,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261113-night-vision-scope.webp",
+        "sha256": "ab431e7e4a2d835f29852e6a5f943f31ab0e0248e6f7fcb4ef8639f790a3cecc",
+        "bytes": 94994,
+        "source_png": "15-shutter-night-vision.png",
+        "source_sha256": "4c18c4efaef5af00115173deabcf512f4904753e589727a84ec1557d48388404",
+        "stove_file": "07-night-vision-scope.jpg",
+        "stove_sha256": "b8d13410a8139d6b6b5258a2945343e2688e3a96231e7f1c3d46839a5e361aa5",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 5.7,
+        "method": "Native Godot renderer, staged current development source, unretouched",
+        "mission": 1,
+        "scoped": true,
+        "state": "playing"
+      },
+      {
+        "file": "screenshot-20261113-express-briefing.webp",
+        "sha256": "3735395042deb36d189adffe83a1b920a2bb3fc96cf49f8598d5d2944385eb6e",
+        "bytes": 132516,
         "source_png": "02-express-briefing.png",
-        "source_sha256": "363352db3fbacd99770365cbe83aea92e30883a2ced3cc12ede7b196915661b0",
+        "source_sha256": "8690a55ee83093f76896efad660e3cafd2ffa05b41f994a57c5dbfa259119383",
+        "stove_file": "08-express-briefing.jpg",
+        "stove_sha256": "7a49bf67a0bd44462e239fbc7336f2dfe7a615738778b366f6cfa0a5974c3cd8",
         "dimensions": [
           1920,
           1080
@@ -174,5 +233,157 @@
         "state": "briefing"
       }
     ]
-  }
+  },
+  "screenshots_history": [
+    {
+      "type": "Actual Godot 4.5.2 native renderer captures of the current development source",
+      "date": "2026-10-27",
+      "source_version_label": "2.35.2",
+      "release_export": false,
+      "renderer": "Compatibility / OpenGL 4.1 Metal / Apple M4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "method": "Arranged mission time and camera using isolated --self-test QA profile; authentic game meshes, lighting and UI. Not a continuous-play recording.",
+      "processing": "PNG to WebP quality 92; original frame/aspect preserved, no visual retouching or generation.",
+      "source_sha256": {
+        "project.godot": "a684c8045154e04e0ab25f31f2bc445a67e4392041a69a0eebb34480d2c2dd74",
+        "scripts/art_detail.gd": "25bbbc352dafacd8f84b0eae945aa0e9257b02e73984b7a23d6f85f3d65afffa",
+        "scripts/audio.gd": "73eb65959e4cfcd0bb12cf56a477521e40e548335abf4275c613f8ddcc31ba4f",
+        "scripts/ballistics.gd": "243e2b48f4ac40a89d981e8a69fd611bd233b65c75bb5eaef5c233906b3f9a6f",
+        "scripts/character.gd": "a4e414504553a283e01365ba5ab8e54297d165cc8eb126290dff54e83fd543ba",
+        "scripts/checkpoint_store.gd": "7776494e829fdd65a63aae47d1f55f6c5b00af14c6f5c3872c34802b9b8d8e0b",
+        "scripts/controller.gd": "577dbf52d2b9a12f777a8ee89d7ccf47723cb2543f8926f445026821d807dd4d",
+        "scripts/display_settings.gd": "cd2c9801bc2cd1c7659b4ced49e5ee9d11cb5b5b755b6bbc69222999db4fe2da",
+        "scripts/dramatic_beats.gd": "ee1986db493e7b9fab61a9896db3d2f48260f34a1e954d85b0dc24b395a1f3f0",
+        "scripts/field_director.gd": "bde7a08de373702571550cafd487183675c2ad691dc11ff71469adcb93750db1",
+        "scripts/field_drama.gd": "73a1eaac4253dd4fe8209b9ce8831fb7aa38e7562241f4ff9f6910b196559e65",
+        "scripts/field_space.gd": "f9eede3d50dbef1c0819a682f6a2b0ddfcafbcaf99a82853cc9f1c86cd127e4a",
+        "scripts/first_person.gd": "fd5c1b5297738fb6fac8e3b6671a249dfcea8c5f4d59f5f18f222c75c562d1fb",
+        "scripts/footing.gd": "82fc5ac8a213514e3397a56b00903d3cd4d8050d0d104098cb4ed1ecc848215d",
+        "scripts/guard_ai.gd": "ad1a5649564a76e8dfca2b2bdb2575833de91f4688bba299f7245974a27017c1",
+        "scripts/hand.gd": "c14f5ca7d9c3424ba264a84e7a50eda23737773fa70561a5fa2573fdc4ed32a5",
+        "scripts/locale.gd": "350fcc8206a8d41dbeb9f36f2542632814db623ba33bf04b6dfbe255e2e69ed2",
+        "scripts/main.gd": "2d960e43e07125d6221e7cbaa3189d66b6975003004c7fc58db20a776d88a150",
+        "scripts/mission_plan.gd": "e16782f981468e8dd153340e3348e0d9620db891f09ff5bf01144566d386853c",
+        "scripts/missions.gd": "260af1dc966fea9f4da7b59ecd3969d73bd4fd3b1ea9b679036f0f0d0a091929",
+        "scripts/music.gd": "dfbb864573407893b1d8859abed35f3247a1a386a74084e42de68ef2795d21c8",
+        "scripts/operation.gd": "b78ee49112207348eb61643c8b5e192c8b982ee068f76176d834db9cba0dba2b",
+        "scripts/optics.gd": "28239e085da9c9b681f50e8aba1b5564cba037e26549c12feaf7586fc06e4a32",
+        "scripts/playflow.gd": "4da592cda71adac54c01e895774fa7b6f1d045cab341905f444248e49eac2fcf",
+        "scripts/regions.gd": "a2b6249712788a6aa332970594283bac43c44dcbe3335e04837b9c9e19e3d741",
+        "scripts/scenario.gd": "abc3fe72518ff38512962d3c5dae328bba6404c318797dac98c02153e5e116cf",
+        "scripts/settings.gd": "f9e0580027bba700be54d050d84c4155d6fb1885b69694be0a75f1a1fda8b247",
+        "scripts/shot_feedback.gd": "f16821fb6587169c9d61e8f0692c7dfcd8094f79a8b214508f5388c378cdf67e",
+        "scripts/studio_intro.gd": "b9562162721d0b82f04bb991c192fe1b18da0790ce740a517f1ed3d1b4573f83",
+        "scripts/threat.gd": "b9cf5a43261fe8600d48bdebbe14377ff140e789ccb56783857cb2812a1c6eae",
+        "scripts/training.gd": "f23e823aedc50ad3a960068e93c3c664a2acdbdb30a1e7a2bd9d82cb23d3e99a",
+        "scripts/ui.gd": "2f60a657409859e53800092fa18718cf02796496b4de060f2ce34a78dbc783e1",
+        "scripts/visuals.gd": "516d943b9e0901c1b78b359740e1a13ec485037e675b67be8b3ce3014e66c8fc",
+        "scripts/world.gd": "5c2ec8bffd208423667f17ab995e8126e4a2a316cbea6e587935bb39fc39093d"
+      },
+      "files": [
+        {
+          "file": "screenshot-20261027-convoy-scope.webp",
+          "sha256": "b52a7fb64e3cc0d1d2362234d688d6e2cd58678f545b2008cd8bc2a48b518a42",
+          "bytes": 118482,
+          "source_png": "12-convoy-scope.png",
+          "source_sha256": "ea9d5598f525eb888ecbe3b18c37e9eb3498519ff88777619f1ce6868fe8adf2",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 9.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 8,
+          "scoped": true,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-20261027-city-escort.webp",
+          "sha256": "4e7ea56746c07c444fd012695f7074c1b3d68ad4e4bb1d3cd9a2f85626992766",
+          "bytes": 266880,
+          "source_png": "03-city-escort.png",
+          "source_sha256": "cb3e99155e771f51e80d720082f526752867eb16457d2424fc8e22ee671e7bdc",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 9.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 6,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-20261027-night-infiltration.webp",
+          "sha256": "428b9137949149ca18288eceb12abdf72da1b485cdda7a2e1af6035020c5ed12",
+          "bytes": 126598,
+          "source_png": "05-night-infiltration.png",
+          "source_sha256": "65115f582e63cf014d4b1afad57ad53abb032d289c9f07c1bebc1219862c16d9",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 16.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 9,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-20261027-express-cabin.webp",
+          "sha256": "34f3d5d83f7f0c8f33b054d6bf26bb1037e3309e78aea02b12a3db94f9fdddb9",
+          "bytes": 205484,
+          "source_png": "07-express-window.png",
+          "source_sha256": "1a2537c716d5beaf87c10ce238b6b19e79ee13400ca82bf5d4549768f0c52ff8",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 27.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 12,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-20261027-express-scope.webp",
+          "sha256": "62dfcd05b13c576593f8721d64bd736638bbf40e46e43ffd190b30522a120e8b",
+          "bytes": 122216,
+          "source_png": "express-candidate-41.png",
+          "source_sha256": "cd99e475303b017b5b11f28b40e2f9ddb79b38f792f8203ff2939a6cd6ce33e1",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 41.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 12,
+          "scoped": true,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-20261027-express-briefing.webp",
+          "sha256": "c113406a18c12fc268e287c1cc0895f46aff737e515ed6593a4973f9252bf571",
+          "bytes": 129990,
+          "source_png": "02-express-briefing.png",
+          "source_sha256": "363352db3fbacd99770365cbe83aea92e30883a2ced3cc12ede7b196915661b0",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 0.0,
+          "method": "Native Godot renderer, staged current development source, unretouched",
+          "mission": 12,
+          "scoped": false,
+          "state": "briefing"
+        }
+      ],
+      "displayed": false,
+      "archived_on": "2026-11-14",
+      "note": "Files retained; replaced in the gallery with November 13 current-source captures."
+    }
+  ]
 }

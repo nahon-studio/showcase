@@ -23,59 +23,59 @@
   ],
   "screenshots": [
     {
-      "src": "games/yokai-town/source-20261027-01-village.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 자원 HUD, 작업 현황과 성장 목표, 아이소메트릭 마을 및 요괴 주민",
-      "caption": "마을 운영 · 생산·작업 현황과 성장 목표 · 개발 중"
+      "src": "games/yokai-town/v0444-village.webp",
+      "alt": "혼등과 귀시가 들어선 마을. 왼쪽에는 첫 수확 목표와 공사 남은 시간이 보입니다.",
+      "caption": "마을 운영 · 첫 수확과 진행 중인 공사"
     },
     {
-      "src": "games/yokai-town/source-20261027-10-battle.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 무연 나루에서 실제 전투 시뮬레이션을 진행해 타격 효과와 피해 수치가 표시된 장면",
-      "caption": "원정 전투 · 타격 효과와 집결·서리 전술 · 개발 중"
+      "src": "games/yokai-town/v0444-title.webp",
+      "alt": "등불이 켜진 밤거리에서 요괴들이 기다리는 타이틀 화면과 마을 입장 버튼입니다.",
+      "caption": "요괴 타운 · 야시장 입구"
     },
     {
-      "src": "games/yokai-town/source-20261027-02-menu.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 마을 우측에 정렬된 접이식 메뉴와 장식 보관함·모험 목표 바로가기",
-      "caption": "접이식 메뉴 · 요괴·편성·친구·보관함 · 개발 중"
+      "src": "games/yokai-town/v0444-expedition.webp",
+      "alt": "돌아앉은 고개에서 요괴 부대가 적 시설을 공격하는 장면입니다. 하단에 배치와 전술 조작이 보입니다.",
+      "caption": "원정 · 돌아앉은 고개"
     },
     {
-      "src": "games/yokai-town/source-20261027-03-prologue.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 사라진 이름 이야기와 첫 수확·혼등 연결·첫 원정으로 이어지는 시작 안내",
-      "caption": "프롤로그 · 사라진 이름과 첫 목표 · 개발 중"
+      "src": "games/yokai-town/v0444-market.webp",
+      "alt": "공사 중인 귀시의 현재 생산량, 다음 레벨 생산량, 남은 시간과 수확·취소 버튼입니다.",
+      "caption": "귀시 증축 · 재고와 생산 재개"
     },
     {
-      "src": "games/yokai-town/source-20261027-04-objectives.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 현재 목표를 금빛 테두리로 구분하고 수확·건설·연결·원정·증축 조건을 보여 주는 길잡이",
-      "caption": "마을 길잡이 · 수확에서 원정·성장까지 · 개발 중"
+      "src": "games/yokai-town/v0444-formation.webp",
+      "alt": "도깨비, 여우불, 부적령의 역할과 인원, 서로 다른 세 병종 편성 시 얻는 공격 보너스입니다.",
+      "caption": "원정대 편성 · 세 병종의 조합"
     },
     {
-      "src": "games/yokai-town/source-20261027-05-building.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 귀시의 역할과 재고, 현재·다음 생산량, 증축 비용 및 소요 시간",
-      "caption": "시설 정보 · 생산량과 다음 증축 · 개발 중"
+      "src": "games/yokai-town/v0444-preparation.webp",
+      "alt": "전투 시작 전 상대 방어 배치, 출전 요괴의 레벨 및 인원을 확인하는 화면입니다.",
+      "caption": "출전 준비 · 방어 배치 정찰"
     },
     {
-      "src": "games/yokai-town/source-20261027-08-roster.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 도깨비·여우불·부적령·모귀의 역할과 보유 상태, 성장 상세로 연결되는 카드",
-      "caption": "요괴 성장 · 역할과 모집 현황 · 개발 중"
+      "src": "games/yokai-town/v0444-defense.webp",
+      "alt": "마을에 침입한 적과 호적당 체력, 수리 및 서리 부적 조작이 보이는 수성 장면입니다.",
+      "caption": "마을 수성 · 호적당 방어"
     },
     {
-      "src": "games/yokai-town/source-20261027-06-inventory.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 세로 탭과 장식 카드, 현재 배치된 백골등 및 보관 중인 장식 상태",
-      "caption": "장식 보관함 · 보유·배치 상태 · 개발 중"
+      "src": "games/yokai-town/v0444-workshop.webp",
+      "alt": "진군부, 장벽부, 공명부의 보유 수량과 두 제작 자리를 보여 주는 공작소입니다.",
+      "caption": "부적 공작소 · 제작과 장착"
     },
     {
-      "src": "games/yokai-town/source-20261027-07-world.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 네 탐방 지역의 연결, 발견·의식 진척과 요괴 합류 조건, 다음 의식 안내",
-      "caption": "세계지도 · 탐방과 다음 의식 · 개발 중"
+      "src": "games/yokai-town/v0444-procession.webp",
+      "alt": "등불로 이어진 길을 따라 친구의 요괴 행렬이 지나가는 재연 장면입니다.",
+      "caption": "친구의 백귀야행 · 행렬 재연"
     },
     {
-      "src": "games/yokai-town/source-20261027-09-presets.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 편성과 배치를 보관하는 세 기록 자리 및 전투 기록 메뉴",
-      "caption": "마을 운영 · 저장 편성과 배치 기록 · 개발 중"
+      "src": "games/yokai-town/v0444-bells.webp",
+      "alt": "아이소메트릭 제단에 놓인 네 종으로 시범 순서를 듣는 의식입니다.",
+      "caption": "봉음종 · 소리 순서 기억"
     },
     {
-      "src": "games/yokai-town/source-20261027-11-reward.webp",
-      "alt": "2026년 10월 27일 개발 중 소스 렌더링 화면: 첫 목표 보상 수령 후 자원 지급과 촌주 경험치 증가, 다음 건설 목표 안내",
-      "caption": "보상 확인 · 성장과 다음 행동 · 개발 중"
+      "src": "games/yokai-town/v0444-rewards.webp",
+      "alt": "돌아앉은 고개 승리 후 획득한 엽전과 음기, 별 상자로 이어지는 보상 화면입니다.",
+      "caption": "원정 결과 · 별과 전리품"
     }
   ],
   "about": [

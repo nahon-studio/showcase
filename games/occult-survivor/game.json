@@ -25,13 +25,18 @@
   "screenshots": [
     {
       "src": "games/occult-survivor/screenshot-01-title.webp",
-      "alt": "폐허의 검문소와 청록빛 봉인, 영문 OCCULT SURVIVOR 로고와 시작 버튼이 보이는 최신 타이틀 화면",
-      "caption": "사냥의 시작 · 폐허의 밤과 오컬트 세계 · 2026.10 개발 화면"
+      "alt": "영문 OCCULT SURVIVOR 로고와 폐허의 검문소가 보이는 타이틀 화면",
+      "caption": "오컬트 서바이버 · 타이틀 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-04-combat.webp",
-      "alt": "태양 없는 광장에서 사냥꾼과 서포터가 악령 무리와 싸우며 자원을 모으는 전투 화면",
-      "caption": "총기 전투 · 마력과 서포터의 협공 · 2026.10 개발 화면"
+      "alt": "안개 묘역에서 사냥꾼과 서포터가 적 무리를 맞아 싸우는 본편 웨이브",
+      "caption": "생존 전투 · 무기와 서포터의 협공 · v0.49.16"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-20-escort.webp",
+      "alt": "구조 드론, 대피 방향, 호위 이동률이 전투와 함께 보이는 안개 묘역",
+      "caption": "지역 미션 · 전투 중 구조 드론 호위 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-06-magic.webp",
@@ -40,18 +45,18 @@
     },
     {
       "src": "games/occult-survivor/screenshot-07-boss.webp",
-      "alt": "잠긴 엘리베이터 지역에서 보스 체력과 붉은 위험 표식을 확인하며 메테오와 서포터로 싸우는 화면",
-      "caption": "지역 보스 · 위험 표식과 회피, 총기·마법의 조합 · 2026.10 개발 화면"
+      "alt": "묘역 보스의 체력과 호위로 만든 약화 시간, 위험 경고가 함께 표시되는 순간",
+      "caption": "보스전 · 웨이브에서 준비한 약화와 위험 신호 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-05-awakening.webp",
-      "alt": "무기·자동 공격·능력치 태그와 상승 효과가 표시된 세 가지 마력 각성 선택 카드 화면",
-      "caption": "마력 각성 · 세 가지 성장 카드와 효과 비교 · 2026.10 개발 화면"
+      "alt": "전투 중 세 가지 성장 선택지가 세로로 배열된 화면",
+      "caption": "전투 성장 · 세 가지 각성 효과 비교 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-19-reward-confirm.webp",
-      "alt": "선택한 낙성 메테오가 빛나는 보상 연출과 레벨 상승, 확인 후 다음 선택지 안내 화면",
-      "caption": "선택 연출 · 획득 효과 확인과 연속 보상 선택 · 2026.10 개발 화면"
+      "alt": "선택한 성장 보상을 밝은 원형 효과와 함께 확인하는 화면",
+      "caption": "보상 확인 · 선택 효과와 다음 선택 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-08-supports.webp",
@@ -65,8 +70,8 @@
     },
     {
       "src": "games/occult-survivor/screenshot-03-equipment.webp",
-      "alt": "10부위 장비 슬롯과 혼탄 리볼버, 장착·강화·티어 승급 및 재료 공방을 구분한 최신 무기고 화면",
-      "caption": "장비 성장 · 장착부터 강화·티어 승급까지 · 2026.10 개발 화면"
+      "alt": "착용 중인 장비와 장비 변경, 강화 및 승급을 보여 주는 무기고",
+      "caption": "무기고 · 장비 착용과 성장 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-10-growth.webp",
@@ -80,8 +85,18 @@
     },
     {
       "src": "games/occult-survivor/screenshot-11-shelter.webp",
-      "alt": "여섯 쉘터 시설과 외곽 방벽의 레벨, 시설 강화·휴식·정비·방어 버튼이 보이는 화면",
-      "caption": "쉘터 시설 · 방벽 강화와 출격 사이의 정비 · 2026.10 개발 화면"
+      "alt": "쉘터 시설 아래 미수령 보급과 다음 스테이지의 이름 및 출격 비용이 표시된 화면",
+      "caption": "쉘터 · 휴식, 미수령 보급, 다음 출격 · v0.49.16"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-21-chapter.webp",
+      "alt": "묘역 보스 처치 뒤 해금된 안개 묘역 이야기의 그림과 본문",
+      "caption": "지역 이야기 · 보스 클리어 후 다음 지역 단서 · v0.49.16"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-22-chapter-supply.webp",
+      "alt": "챕터 보급의 무장·방어구·재료 선택과 나중에 선택 버튼이 보이는 화면",
+      "caption": "챕터 보급 · 수령하거나 쉘터에서 나중에 확인 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-12-defense.webp",
@@ -90,8 +105,8 @@
     },
     {
       "src": "games/occult-survivor/screenshot-02-preparation.webp",
-      "alt": "붕괴 대성당의 스테이지 목표, 보상과 전술을 확인하고 출격하는 작전실 화면",
-      "caption": "작전실 · 지역 목표와 보상 확인 후 출격 · 2026.10 개발 화면"
+      "alt": "안개 묘역의 진입 스테이지와 보스·웨이브 정보를 보여 주는 작전실",
+      "caption": "출격 준비 · 지역, 목표, 보스 확인 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-13-world.webp",

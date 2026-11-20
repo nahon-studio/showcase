@@ -54,13 +54,13 @@
     },
     {
       "src": "games/breakout-protocol/screenshot-15-document.webp",
-      "alt": "수정 전 설비 사고 기록의 출처와 원문을 넓은 본문 영역에 보여주고 수사 수첩·다음 행동 버튼을 아래에 둔 한국어 문서 화면.",
+      "alt": "철제 서류함에서 확보한 출입 기록의 출처와 원문이 보이고 하단에 수사 수첩과 다음 행동 버튼이 있는 현장 조사 화면.",
       "caption": "원본을 읽는 시간 · 문서의 시각과 표현을 기억하고 다른 단서와 비교하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-12-visitation.webp",
-      "alt": "마라와 메이브가 유리 칸막이를 사이에 두고 마주한 픽셀 아트 면회 장면 아래 인물 초상화와 한국어 자막이 있는 연출 화면.",
-      "caption": "면회 이야기 · 기다리는 사람과의 연락도 수감생활의 일부가 됩니다."
+      "alt": "첫날 기술자의 면회가 열린 화면. 방문자의 사연, 남은 시간, 면회석에서 고를 수 있는 두 가지 답이 표시된다.",
+      "caption": "기술자의 면회 · 찾아온 사람의 말을 듣고 어떤 답을 돌려줄지 정하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-16-life-notes.webp",
@@ -69,8 +69,8 @@
     },
     {
       "src": "games/breakout-protocol/screenshot-08-schedule.webp",
-      "alt": "오전 작업 의무와 지정 장소, 전체 일과표, 다음 점심 식사의 게임 시간 및 실제 남은 시간이 표시된 한국어 일과표.",
-      "caption": "하루의 리듬 · 다음 일정까지 남은 실제 시간을 살피며 행동을 계획하세요."
+      "alt": "2일차 14시의 일과표. 왼쪽에는 운동 시간이 표시되고 오른쪽에는 면회석과 14시 35분 응대 마감이 표시된다.",
+      "caption": "늦어진 면회 · 방문객을 만난 뒤 운동장으로 돌아갈 시간을 확인하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-09-map.webp",
@@ -83,14 +83,24 @@
       "caption": "탈출 설계 · 경로의 특징과 준비 상태를 비교하세요. 단계별 도움은 필요할 때 펼칩니다."
     },
     {
+      "src": "games/breakout-protocol/screenshot-17-harbor.webp",
+      "alt": "아미나가 항만의 계류 설비 옆에 서 있다. 부두 위 작업 설비와 주변을 둘러볼 수 있는 현장 화면.",
+      "caption": "항만 검수 부두 · 화물과 계류 장치를 살피고 출항을 준비하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-18-flood.webp",
+      "alt": "오스카르가 수몰동의 유입·배수 조절기 앞에 서 있다. 수로와 배수 설비가 보이는 현장 화면.",
+      "caption": "수몰동 배수실 · 조절기에서 물이 빠지는 동안 시설의 상태를 확인하세요."
+    },
+    {
       "src": "games/breakout-protocol/screenshot-04-records.webp",
       "alt": "어두운 기록 시설에서 수감자가 반사 장치와 황금빛으로 이어진 광선 경로를 조사하는 실제 게임 화면.",
       "caption": "기록 시설의 장치 · 설비를 관찰하고 직접 작동시키는 환경 퍼즐."
     },
     {
       "src": "games/breakout-protocol/screenshot-13-railway.webp",
-      "alt": "여객·화물·의료를 구분하는 픽셀 표식과 화차 편성 카드, 두 조력자의 역할 및 출발 신호를 확인하는 한국어 철도 퍼즐 화면.",
-      "caption": "이송역과 협력 · 화차 편성, 출발 신호, 동료의 역할을 준비하세요."
+      "alt": "이송역에서 차량 편성 탭을 연 화면. 편성 순서에 따라 여객·화물·의료 차량 카드가 놓이고 각 카드의 픽셀 표식이 보인다.",
+      "caption": "이송역 편성 · 차량 표식을 살피고, 동행 준비와 출발 신호를 확인하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-05-research.webp",

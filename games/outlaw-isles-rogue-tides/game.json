@@ -33,9 +33,9 @@
   ],
   "screenshots": [
     {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-07-harbor.webp",
-      "alt": "랜턴을 든 여우 해적이 상점과 주민, 항해 탁자가 모인 잿물항을 둘러보는 한국어 게임 화면.",
-      "caption": "잿물항에서 시작하는 모험 · 주민을 만나고 보급과 다음 항해를 준비하세요."
+      "src": "games/outlaw-isles-rogue-tides/screenshot-03-snow.webp",
+      "alt": "눈 덮인 마을에서 주인공과 두 동료가 모닥불과 주민 곁을 지나는 한국어 화면.",
+      "caption": "낯선 해안과 대륙 · 숲·설원·사막·유적의 주민과 흔적을 찾아가세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-01-combat.webp",
@@ -48,19 +48,29 @@
       "caption": "선장의 소지품 · 장비와 도구, 음식과 제작 재료를 분류하고 필요한 물건을 찾아보세요."
     },
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-02-sailing.webp",
+      "alt": "푸른 해역에서 선원이 탄 범선을 직접 조타하며 선체, 속력, 부표와 표류 화물을 확인하는 한국어 항해 화면.",
+      "caption": "직접 조타하는 항해 · 부표를 따라 이동하고 표류 물자와 바다의 위협에 대응하세요."
+    },
+    {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-26-coast-report.webp",
+      "alt": "오르타의 의뢰 화면에 인물 초상과 대사, 보고에 필요한 물품과 보상이 표시되어 있다.",
+      "caption": "해안의 단서 · 조사한 내용을 오르타에게 보고하고 다음 항해를 준비하세요."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-23-companions.webp",
       "alt": "사략선장 복장을 입은 여우 주인공을 토마와 미라가 따라오며 주민과 시설 사이를 이동하는 항구 화면.",
       "caption": "동행대와의 모험 · 각자의 능력을 가진 동료와 섬을 탐험하세요."
     },
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-07-harbor.webp",
+      "alt": "랜턴을 든 여우 해적이 상점과 주민, 항해 탁자가 모인 잿물항을 둘러보는 한국어 게임 화면.",
+      "caption": "잿물항에서 시작하는 모험 · 주민을 만나고 보급과 다음 항해를 준비하세요."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-08-dialogue.webp",
       "alt": "수달 주민 노트의 초상화와 대사, 주민의 부탁과 소문을 선택하는 한국어 대화 화면.",
       "caption": "주민의 이야기 · 일상의 안부와 의뢰, 선원들의 증언을 따라가세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-02-sailing.webp",
-      "alt": "푸른 해역에서 선원이 탄 범선을 직접 조타하며 선체, 속력, 부표와 표류 화물을 확인하는 한국어 항해 화면.",
-      "caption": "직접 조타하는 항해 · 부표를 따라 이동하고 표류 물자와 바다의 위협에 대응하세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-25-departure.webp",
@@ -85,7 +95,7 @@
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-22-local-map.webp",
       "alt": "양피지 위에 불규칙한 해안선과 지형, 시설과 인물 표식을 함께 표시한 잿물항 지역 지도.",
-      "caption": "내가 서 있는 섬 · 실제 지형을 따라 시설과 탐험 장소를 찾아보세요."
+      "caption": "잿물항 지역 지도 · 해안선과 시설을 살피고 의뢰를 맡긴 오르타의 위치를 찾아보세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-04-farming.webp",
@@ -111,11 +121,6 @@
       "src": "games/outlaw-isles-rogue-tides/screenshot-10-chart.webp",
       "alt": "여러 섬과 대륙의 목적지 카드, 출항 비용과 해금 조건, 배의 적재량을 보여 주는 세계 해도 화면.",
       "caption": "세계 해도 · 목적지와 출항 비용을 살피고 다음 항로를 선택하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-03-snow.webp",
-      "alt": "굵은 눈이 내리는 설원에서 여우 해적이 눈 덮인 식물과 건물 사이를 탐험하는 실제 게임 화면.",
-      "caption": "낯선 해안과 대륙 · 숲·설원·사막·유적의 주민과 흔적을 찾아가세요."
     },
     {
       "src": "games/outlaw-isles-rogue-tides/screenshot-15-desert.webp",

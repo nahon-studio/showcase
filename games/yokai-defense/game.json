@@ -27,6 +27,11 @@
   ],
   "screenshots": [
     {
+      "src": "games/yokai-defense/screenshot-v080-title.jpg",
+      "alt": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 화면",
+      "caption": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 · 실제 게임 화면"
+    },
+    {
       "src": "games/yokai-defense/screenshot-v080-market-battle.jpg",
       "alt": "달빛 야시장 · 영웅과 방어 시설로 요괴의 행렬을 방어 화면",
       "caption": "달빛 야시장 · 영웅과 방어 시설로 요괴의 행렬을 방어 · 실제 게임 화면"
@@ -155,11 +160,6 @@
       "src": "games/yokai-defense/screenshot-v080-events.jpg",
       "alt": "달빛 소식 · 출석 보급과 일일 목표 화면",
       "caption": "달빛 소식 · 출석 보급과 일일 목표 · 실제 게임 화면"
-    },
-    {
-      "src": "games/yokai-defense/screenshot-v080-title.jpg",
-      "alt": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 화면",
-      "caption": "요괴와 동물 영웅이 함께하는 세계 · 타이틀 · 실제 게임 화면"
     }
   ],
   "about": [

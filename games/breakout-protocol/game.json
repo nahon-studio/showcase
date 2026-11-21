@@ -33,6 +33,11 @@
   ],
   "screenshots": [
     {
+      "src": "games/breakout-protocol/screenshot-title.webp",
+      "alt": "철창과 감시탑 앞에 네 수감자가 서 있고, 위에는 Breakout Protocol 로고, 아래에는 시작 입력 안내가 보이는 픽셀 아트 타이틀 화면.",
+      "caption": "Breakout Protocol · 타이틀 화면"
+    },
+    {
       "src": "games/breakout-protocol/screenshot-01-prison.webp",
       "alt": "돌벽과 철창으로 나뉜 세탁 작업실의 마라와 다른 수감자, 화면 가장자리의 접기 가능한 목표·일과·상호작용 HUD가 보이는 한국어 게임 화면.",
       "caption": "수감생활 속 조사 · 주변 사물과 사람에게서 다음 단서를 찾으세요."

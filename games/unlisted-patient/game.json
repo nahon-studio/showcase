@@ -28,6 +28,11 @@
   ],
   "screenshots": [
     {
+      "src": "games/unlisted-patient/10_title-v052.png",
+      "alt": "미등록 환자의 타이틀과 시작 메뉴.",
+      "caption": "타이틀"
+    },
+    {
       "src": "games/unlisted-patient/01_ward-v052.png",
       "alt": "접수대와 병원 직원이 보이는 병동 복도.",
       "caption": "병동"
@@ -71,11 +76,6 @@
       "src": "games/unlisted-patient/09_relay-v052.png",
       "alt": "환기 설비와 조작 장치가 있는 중계실.",
       "caption": "중계실"
-    },
-    {
-      "src": "games/unlisted-patient/10_title-v052.png",
-      "alt": "미등록 환자의 타이틀과 시작 메뉴.",
-      "caption": "타이틀"
     }
   ],
   "about": [

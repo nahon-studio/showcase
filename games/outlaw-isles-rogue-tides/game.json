@@ -33,6 +33,11 @@
   ],
   "screenshots": [
     {
+      "src": "games/outlaw-isles-rogue-tides/screenshot-19-title.webp",
+      "alt": "붉은 달과 범선, 동물 해적 일러스트 위로 영문 로고와 한국어 메뉴가 놓인 타이틀 화면.",
+      "caption": "새로운 항해 · Outlaw Isles: Rogue Tides의 한국어 타이틀 화면."
+    },
+    {
       "src": "games/outlaw-isles-rogue-tides/screenshot-03-snow.webp",
       "alt": "눈 덮인 마을에서 주인공과 두 동료가 모닥불과 주민 곁을 지나는 한국어 화면.",
       "caption": "낯선 해안과 대륙 · 숲·설원·사막·유적의 주민과 흔적을 찾아가세요."
@@ -156,11 +161,6 @@
       "src": "games/outlaw-isles-rogue-tides/screenshot-17-settings.webp",
       "alt": "양피지 테마의 환경 설정에서 분류 탭과 전체 음량, BGM, 효과음, 환경음 슬라이더를 보여 주는 한국어 화면.",
       "caption": "환경 설정 · 화면·사운드·조작·언어·편의 설정을 항목별로 조절하세요."
-    },
-    {
-      "src": "games/outlaw-isles-rogue-tides/screenshot-19-title.webp",
-      "alt": "붉은 달과 범선, 동물 해적 일러스트 위로 영문 로고와 한국어 메뉴가 놓인 타이틀 화면.",
-      "caption": "새로운 항해 · Outlaw Isles: Rogue Tides의 한국어 타이틀 화면."
     }
   ],
   "about": [

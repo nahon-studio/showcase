@@ -37,10 +37,23 @@
       1920,
       1080
     ],
-    "method": "Staged mission time, camera and story state in the mounted release. Korean HUD and in-game models; not a continuous playthrough.",
+    "method": "Opening title screen and staged mission, camera and story states in the mounted release. Korean game UI and in-game models.",
     "processing": "Full-frame PNG to WebP quality 92; no retouching or compositing.",
     "package_sha256": "e3b2db9163898aedb3da22452fbe7d21e149ecda17e1d9d145b7a9e59905fd0d",
     "files": [
+      {
+        "file": "screenshot-2360-title.webp",
+        "sha256": "4845aefa8b1d6c11c9a65da8b0f0b2edf5fe0ef3a608feb4d993c2146c00103d",
+        "bytes": 370694,
+        "source_png": "title.png",
+        "source_sha256": "95c416611f4a3da22490b970b48440733b1f0164a70043fc4bbca53c9c33c968",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "state": "title",
+        "method": "Native Godot title screen from the 2.36.0 macOS full release DMG. Original in-game title artwork, logo and Korean menu."
+      },
       {
         "file": "screenshot-2360-convoy-scope.webp",
         "sha256": "60b7d6d181c81a62d20a6374c955d7b0fce1cafa821ff4a312181deb03ac713d",

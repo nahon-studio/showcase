@@ -8,13 +8,13 @@
   "status": "in-development",
   "featured": true,
   "demo": false,
-  "banner": "games/yokai-town/banner-gameplay-v0441.webp",
-  "bannerTextPosition": "top-right",
+  "banner": "games/yokai-town/nov27-title-art.webp",
+  "bannerTextPosition": "bottom-left",
   "bannerFocus": {
-    "x": 50,
+    "x": 68,
     "y": 50
   },
-  "bannerAlt": "요괴 타운의 아이소메트릭 마을과 요괴 캐릭터, 자주색 자원 HUD 및 접이식 메뉴",
+  "bannerAlt": "등불이 켜진 요괴 마을의 돌다리에서 도깨비와 여우가 마을 입구를 지키는 타이틀 원화.",
   "platforms": [
     {
       "type": "google-play",
@@ -23,19 +23,64 @@
   ],
   "screenshots": [
     {
-      "src": "games/yokai-town/v0444-village.webp",
-      "alt": "혼등과 귀시가 들어선 마을. 왼쪽에는 첫 수확 목표와 공사 남은 시간이 보입니다.",
-      "caption": "마을 운영 · 첫 수확과 진행 중인 공사"
+      "src": "games/yokai-town/nov27-title.webp",
+      "alt": "밤의 시장과 돌다리를 배경으로 도깨비와 여우가 서 있는 요괴 타운 타이틀 화면.",
+      "caption": "요괴 타운 · 마을 입구"
     },
     {
-      "src": "games/yokai-town/v0444-title.webp",
-      "alt": "등불이 켜진 밤거리에서 요괴들이 기다리는 타이틀 화면과 마을 입장 버튼입니다.",
-      "caption": "요괴 타운 · 야시장 입구"
+      "src": "games/yokai-town/nov27-village.webp",
+      "alt": "푸른 기와의 호적당과 귀시 사이로 주민들이 오가는 마을 전경.",
+      "caption": "마을 운영 · 호적당 앞 거리"
+    },
+    {
+      "src": "games/yokai-town/nov27-wall.webp",
+      "alt": "망루 앞에서 골담 여섯 칸의 경로를 정하고 배치를 확정하는 장면.",
+      "caption": "방어벽 건설 · 골담 잇기"
     },
     {
       "src": "games/yokai-town/v0444-expedition.webp",
       "alt": "돌아앉은 고개에서 요괴 부대가 적 시설을 공격하는 장면입니다. 하단에 배치와 전술 조작이 보입니다.",
       "caption": "원정 · 돌아앉은 고개"
+    },
+    {
+      "src": "games/yokai-town/nov27-river.webp",
+      "alt": "삼도 나루의 두 수로를 가로지르는 다리와 수확할 자원이 쌓인 생산 시설.",
+      "caption": "지역 개척 · 삼도 나루"
+    },
+    {
+      "src": "games/yokai-town/nov27-defense.webp",
+      "alt": "침입자가 서쪽 길로 접근하고 마을 방어 시설이 맞서는 첫 수성전.",
+      "caption": "마을 수성 · 첫 침입"
+    },
+    {
+      "src": "games/yokai-town/nov27-frost.webp",
+      "alt": "닫힌 문루를 공격하는 요괴 부대 앞에 서리 부적의 얼음 결계가 펼쳐진 장면.",
+      "caption": "원정 전술 · 서리 부적"
+    },
+    {
+      "src": "games/yokai-town/nov27-visit.webp",
+      "alt": "마을 감상에서 망루를 지나 대나무와 석등 사이의 요괴를 가까이 본 장면.",
+      "caption": "마을 감상 · 대숲 산책"
+    },
+    {
+      "src": "games/yokai-town/v0444-procession.webp",
+      "alt": "등불로 이어진 길을 따라 친구의 요괴 행렬이 지나가는 재연 장면입니다.",
+      "caption": "친구의 백귀야행 · 행렬 재연"
+    },
+    {
+      "src": "games/yokai-town/nov27-water.webp",
+      "alt": "수로판의 물길을 돌려 입구와 출구를 연결하는 지역 의식.",
+      "caption": "경계 탐방 · 되감는 수로"
+    },
+    {
+      "src": "games/yokai-town/v0444-bells.webp",
+      "alt": "아이소메트릭 제단에 놓인 네 종으로 시범 순서를 듣는 의식입니다.",
+      "caption": "봉음종 · 소리 순서 기억"
+    },
+    {
+      "src": "games/yokai-town/nov27-inventory.webp",
+      "alt": "쌍석등과 정화문 등 보유 장식, 배치 중인 장식과 배치 회수 버튼.",
+      "caption": "장식 보관함 · 마을 꾸미기"
     },
     {
       "src": "games/yokai-town/v0444-market.webp",
@@ -48,29 +93,9 @@
       "caption": "원정대 편성 · 세 병종의 조합"
     },
     {
-      "src": "games/yokai-town/v0444-preparation.webp",
-      "alt": "전투 시작 전 상대 방어 배치, 출전 요괴의 레벨 및 인원을 확인하는 화면입니다.",
-      "caption": "출전 준비 · 방어 배치 정찰"
-    },
-    {
-      "src": "games/yokai-town/v0444-defense.webp",
-      "alt": "마을에 침입한 적과 호적당 체력, 수리 및 서리 부적 조작이 보이는 수성 장면입니다.",
-      "caption": "마을 수성 · 호적당 방어"
-    },
-    {
       "src": "games/yokai-town/v0444-workshop.webp",
       "alt": "진군부, 장벽부, 공명부의 보유 수량과 두 제작 자리를 보여 주는 공작소입니다.",
       "caption": "부적 공작소 · 제작과 장착"
-    },
-    {
-      "src": "games/yokai-town/v0444-procession.webp",
-      "alt": "등불로 이어진 길을 따라 친구의 요괴 행렬이 지나가는 재연 장면입니다.",
-      "caption": "친구의 백귀야행 · 행렬 재연"
-    },
-    {
-      "src": "games/yokai-town/v0444-bells.webp",
-      "alt": "아이소메트릭 제단에 놓인 네 종으로 시범 순서를 듣는 의식입니다.",
-      "caption": "봉음종 · 소리 순서 기억"
     },
     {
       "src": "games/yokai-town/v0444-rewards.webp",
@@ -84,7 +109,7 @@
     "도깨비·여우불·부적령을 비롯한 12종 요괴를 해금하고 성장시켜 부대를 편성하세요. 원정에서는 출진 위치와 집결 지점, 부적을 쓰는 순간을 선택하고, 방어전에서는 마을의 배치와 시설이 공격을 막아 냅니다. 전투 보상을 다시 건설과 성장에 사용하며 다음 목표로 이어집니다.",
     "단정한 셀화풍 캐릭터와 아이소메트릭 건물, 밤의 등불과 동양 요괴를 담았습니다. 출석과 순환 이벤트, 장식·의상 수집으로 마을에 새로운 모습을 더할 수 있습니다.",
     "현재 Android 오프라인 싱글 플레이 빌드를 개발·테스트하고 있습니다. 친구 방문·선물·모임 등 온라인 소셜 기능은 별도 온라인 테스트를 준비 중이며, 정식 출시 일정은 추후 공개합니다. 한국어·영어·일본어와 중국어 간체·프랑스어·스페인어의 주요 화면을 제공하며, 일부 긴 설명에는 영어가 표시될 수 있습니다.",
-    "갤러리는 2026년 10월 27일 기준으로 0.44.1 이후의 UI·콘텐츠 수정이 반영된 개발 중 소스 렌더링 화면입니다. 실제 게임 코드와 에셋을 사용했으며 Android 기기 캡처와는 글꼴·렌더링에 차이가 있을 수 있습니다."
+    "갤러리는 개발 중인 게임의 타이틀, 마을 건설·원정·수성·지역 의식의 플레이 장면과 주요 기능을 담았습니다. Android 캡처와 게임 소스·에셋으로 렌더링한 화면이 포함되어 기기에 따라 글꼴과 화면 비율이 다를 수 있습니다."
   ],
   "features": [
     "타일 기반 건설·증축·방어벽과 자유로운 마을 배치",
@@ -114,5 +139,5 @@
     "수집"
   ],
   "videos": [],
-  "cover": "games/yokai-town/source-20261027-01-village.webp"
+  "cover": "games/yokai-town/nov27-title-art.webp"
 }

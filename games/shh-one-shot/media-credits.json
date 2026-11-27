@@ -1,6 +1,6 @@
 {
   "title": "Sneak & Snipe: Through the Scope",
-  "updated": "2026-11-21",
+  "updated": "2026-11-27",
   "identity": "Catalog ID shh-one-shot is retained to preserve existing URLs.",
   "cover": {
     "type": "Game concept artwork, not gameplay",
@@ -30,7 +30,7 @@
   },
   "screenshots": {
     "type": "Native Godot renderer captures from the macOS full release DMG",
-    "date": "2026-11-21",
+    "date": "2026-11-27",
     "source_version_label": "2.36.0",
     "release_export": true,
     "resolution": [
@@ -52,7 +52,59 @@
           1080
         ],
         "state": "title",
-        "method": "Native Godot title screen from the 2.36.0 macOS full release DMG. Original in-game title artwork, logo and Korean menu."
+        "method": "Native Godot title screen from the 2.36.0 macOS full release DMG. Original in-game title artwork, logo and Korean menu.",
+        "gallery_role": "title"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 22.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 0,
+        "scoped": false,
+        "state": "playing",
+        "file": "screenshot-2360-patrol-crossing.webp",
+        "sha256": "0cf0c1c8e988c31050b15411509630e70715b13ab1b8e446a08db2e4034e284e",
+        "bytes": 175278,
+        "source_png": "patrol-crossing.png",
+        "source_sha256": "b72d250390f54440763eee1fb9a5700003694ed2ee4cd1249f6a2ddd3b59e4b7",
+        "gallery_role": "gameplay"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 2.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 10,
+        "scoped": false,
+        "state": "playing",
+        "file": "screenshot-2360-crossing-traffic.webp",
+        "sha256": "422f311da9a772f368ead9e5b8b825f9e0e1c0e9b4e31a10354b42919c9defe8",
+        "bytes": 227222,
+        "source_png": "crossing-traffic.png",
+        "source_sha256": "f7c6d70e5f0a8f5be8a0b80fb7b0d7a62259529cacb4a572ade828e023373f57",
+        "gallery_role": "gameplay"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 29.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 12,
+        "scoped": false,
+        "state": "playing",
+        "file": "screenshot-2360-rail-broadside.webp",
+        "sha256": "8e0fbcbd9814b498ed1c32c18eab0c43dd87d1313f3be662b7c0ae145f0a9f00",
+        "bytes": 226844,
+        "source_png": "rail-broadside.png",
+        "source_sha256": "deee2028789c1bbd89f339a7671ef9c87fac7789ee11826c906256a0080fed76",
+        "gallery_role": "gameplay"
       },
       {
         "file": "screenshot-2360-convoy-scope.webp",
@@ -68,14 +120,27 @@
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
         "mission": 8,
         "scoped": true,
-        "state": "playing"
+        "state": "playing",
+        "gallery_role": "gameplay"
       },
       {
-        "file": "screenshot-2360-city-escort.webp",
-        "sha256": "f8b0643ac4bd2e8107adac51245ebad2172a3e8e7ee57f02929aed20244f58ab",
-        "bytes": 225768,
-        "source_png": "city-escort.png",
-        "source_sha256": "78298e5aac75516bd320fc9ed883f00ad368f6b902939d211ce67dddf6e5c4d7",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 51.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 2,
+        "scoped": false,
+        "state": "playing",
+        "file": "screenshot-2360-industry-catwalk.webp",
+        "sha256": "9d650b17affdd5a97edbb27498c7bd232a486dd7fa6beb007627db11d26f1023",
+        "bytes": 107532,
+        "source_png": "industry-catwalk.png",
+        "source_sha256": "97125b77d7cca9796c74c91688076ef49216a8cb38eb14313c27dff6cac65a19",
+        "gallery_role": "gameplay"
+      },
+      {
         "dimensions": [
           1920,
           1080
@@ -83,40 +148,48 @@
         "elapsed": 9.0,
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
         "mission": 6,
-        "scoped": false,
-        "state": "playing"
+        "scoped": true,
+        "state": "playing",
+        "file": "screenshot-2360-city-scope.webp",
+        "sha256": "259bd50d897598a39446f255c1830afff00358d5fd6b5fe5a43bcdf0e36499ea",
+        "bytes": 147300,
+        "source_png": "city-scope.png",
+        "source_sha256": "c450b839f943f183e9a5d162533f4017f892b7c31fc685d4667cccbc1d517730",
+        "gallery_role": "gameplay"
       },
       {
-        "file": "screenshot-2360-night-infiltration.webp",
-        "sha256": "af0dddf92749de7ae63cc7f239a51282ab83db6bf87941415ebddde5307be062",
-        "bytes": 138670,
-        "source_png": "night-infiltration.png",
-        "source_sha256": "1044dad04595199bb024f9fa79b4c0cb0aa08af6997a6b53dcc6d227e3019870",
         "dimensions": [
           1920,
           1080
         ],
-        "elapsed": 16.0,
+        "elapsed": 9.0,
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
-        "mission": 9,
+        "mission": 8,
         "scoped": false,
-        "state": "playing"
+        "state": "playing",
+        "file": "screenshot-2360-convoy-fps.webp",
+        "sha256": "25d2da749113e2988e2a62b66fce8e8c19d30a492d56460dec810d41708f75ec",
+        "bytes": 181282,
+        "source_png": "convoy-fps.png",
+        "source_sha256": "1cc0f8cc5da27385be9e178ecd5c030ba5512d7680d5a93325d9803aafe7ace9",
+        "gallery_role": "gameplay"
       },
       {
-        "file": "screenshot-2360-express-cabin.webp",
-        "sha256": "629546a10326e730be8afd22bae6c3c923ad3c445835dc6ce76acf4675093929",
-        "bytes": 188430,
-        "source_png": "express-cabin.png",
-        "source_sha256": "82f04fdf82feeb2252b9036d945e9fe7fbbc51eb6c9276d41fd7bf4f1330f0be",
         "dimensions": [
           1920,
           1080
         ],
-        "elapsed": 27.0,
+        "elapsed": 17.0,
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
-        "mission": 12,
+        "mission": 0,
         "scoped": false,
-        "state": "playing"
+        "state": "playing",
+        "file": "screenshot-2360-harbor-power.webp",
+        "sha256": "d7ee6666b48a511c2ec913668691cb739fb5840ef88e1cd3a2416747d51da6aa",
+        "bytes": 169358,
+        "source_png": "harbor-power.png",
+        "source_sha256": "5f94c8659abaab0e3461cb66e912a4ede8204a6d9b6f78cff9a4162b22e42dcd",
+        "gallery_role": "gameplay"
       },
       {
         "file": "screenshot-2360-express-scope.webp",
@@ -132,23 +205,59 @@
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
         "mission": 12,
         "scoped": true,
-        "state": "playing"
+        "state": "playing",
+        "gallery_role": "gameplay"
       },
       {
-        "file": "screenshot-2360-dispatch-slip.webp",
-        "sha256": "cad5ad19de5e1d105ef92438c16d1f091456b3ab7ed03e86f6c17fffbcd690c3",
-        "bytes": 175848,
-        "source_png": "dispatch-slip.png",
-        "source_sha256": "f49c3001c52a9a5a5da113cf4ec49a5cb9464bbb1b26da12ad49c58477eb3986",
         "dimensions": [
           1920,
           1080
         ],
-        "elapsed": 7.0,
+        "elapsed": 15.0,
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
-        "mission": 3,
+        "mission": 4,
         "scoped": false,
-        "state": "playing"
+        "state": "playing",
+        "file": "screenshot-2360-rail-handoff.webp",
+        "sha256": "5cb6ff9274c6ee501904983461234cc895072a92c3403d94921e96296ecc4e39",
+        "bytes": 192394,
+        "source_png": "rail-handoff.png",
+        "source_sha256": "5c9824ce63ee3c591ee59e9406ff513890ca3cfeac7a5aac66283613c10410bb",
+        "gallery_role": "gameplay"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 0.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 2,
+        "scoped": false,
+        "state": "menu",
+        "file": "screenshot-2360-deployment-plan.webp",
+        "sha256": "86719bc5e87b6fb335bdfc06811db787cba27b589240896e553422ab2869b7f1",
+        "bytes": 124248,
+        "source_png": "deployment-plan.png",
+        "source_sha256": "330e635d54e133627da89a81538ee6b1cad44b69388fa8235b8cc4d431d8d61e",
+        "gallery_role": "feature"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 0.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 0,
+        "scoped": true,
+        "state": "playing",
+        "file": "screenshot-2360-range-moving-plate.webp",
+        "sha256": "9cc12505a8473a6d5df6b5972faf9f1e3a1daae68dda8e300720a1a495068bcd",
+        "bytes": 90306,
+        "source_png": "range-moving-plate.png",
+        "source_sha256": "5ed844cf4793e558986a371463f94834503b5fcc33333909f6c92f684a9231c9",
+        "gallery_role": "feature"
       },
       {
         "file": "screenshot-2360-night-vision.webp",
@@ -164,24 +273,47 @@
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
         "mission": 1,
         "scoped": true,
-        "state": "playing"
+        "state": "playing",
+        "gallery_role": "feature"
       },
       {
-        "file": "screenshot-2360-relay-orders.webp",
-        "sha256": "b0ecfb6a02450e6fccbcc3b16971a4b6b287a87e36d6efe1a40b14b3dc09b94f",
-        "bytes": 130894,
-        "source_png": "relay-orders.png",
-        "source_sha256": "a3bfcf1bbf3fd8599e2addaff74118fedba1081d92d753b9e9716dbd2887e3b6",
+        "file": "screenshot-2360-dispatch-slip.webp",
+        "sha256": "cad5ad19de5e1d105ef92438c16d1f091456b3ab7ed03e86f6c17fffbcd690c3",
+        "bytes": 175848,
+        "source_png": "dispatch-slip.png",
+        "source_sha256": "f49c3001c52a9a5a5da113cf4ec49a5cb9464bbb1b26da12ad49c58477eb3986",
         "dimensions": [
           1920,
           1080
         ],
         "elapsed": 7.0,
         "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+        "mission": 3,
+        "scoped": false,
+        "state": "playing",
+        "gallery_role": "feature"
+      },
+      {
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "elapsed": 0.0,
+        "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
         "mission": 1,
         "scoped": false,
-        "state": "briefing"
+        "state": "campaign",
+        "file": "screenshot-2360-case-network.webp",
+        "sha256": "0305a4a10c86dbe014b960c152ec2b3902a6ce47ae9657fef0d03dbe1e540b5a",
+        "bytes": 124338,
+        "source_png": "case-network.png",
+        "source_sha256": "c73896d0d0532025183a3ab6f7257006442a37698a4772e02fd099dee33c26ed",
+        "gallery_role": "feature"
       }
+    ],
+    "capture_dates": [
+      "2026-11-21",
+      "2026-11-27"
     ]
   },
   "screenshots_history": [
@@ -542,6 +674,164 @@
       ],
       "displayed": false,
       "archived_on": "2026-11-21"
+    },
+    {
+      "type": "Native Godot renderer captures from the macOS full release DMG",
+      "date": "2026-11-21",
+      "source_version_label": "2.36.0",
+      "release_export": true,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "method": "Opening title screen and staged mission, camera and story states in the mounted release. Korean game UI and in-game models.",
+      "processing": "Full-frame PNG to WebP quality 92; no retouching or compositing.",
+      "package_sha256": "e3b2db9163898aedb3da22452fbe7d21e149ecda17e1d9d145b7a9e59905fd0d",
+      "files": [
+        {
+          "file": "screenshot-2360-title.webp",
+          "sha256": "4845aefa8b1d6c11c9a65da8b0f0b2edf5fe0ef3a608feb4d993c2146c00103d",
+          "bytes": 370694,
+          "source_png": "title.png",
+          "source_sha256": "95c416611f4a3da22490b970b48440733b1f0164a70043fc4bbca53c9c33c968",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "state": "title",
+          "method": "Native Godot title screen from the 2.36.0 macOS full release DMG. Original in-game title artwork, logo and Korean menu."
+        },
+        {
+          "file": "screenshot-2360-convoy-scope.webp",
+          "sha256": "60b7d6d181c81a62d20a6374c955d7b0fce1cafa821ff4a312181deb03ac713d",
+          "bytes": 120204,
+          "source_png": "convoy-scope.png",
+          "source_sha256": "64cfb63b23c1b5da49d1255908114cab79e8e71e8c0dea12a0a8833a10b0c2a2",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 9.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 8,
+          "scoped": true,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-city-escort.webp",
+          "sha256": "f8b0643ac4bd2e8107adac51245ebad2172a3e8e7ee57f02929aed20244f58ab",
+          "bytes": 225768,
+          "source_png": "city-escort.png",
+          "source_sha256": "78298e5aac75516bd320fc9ed883f00ad368f6b902939d211ce67dddf6e5c4d7",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 9.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 6,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-night-infiltration.webp",
+          "sha256": "af0dddf92749de7ae63cc7f239a51282ab83db6bf87941415ebddde5307be062",
+          "bytes": 138670,
+          "source_png": "night-infiltration.png",
+          "source_sha256": "1044dad04595199bb024f9fa79b4c0cb0aa08af6997a6b53dcc6d227e3019870",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 16.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 9,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-express-cabin.webp",
+          "sha256": "629546a10326e730be8afd22bae6c3c923ad3c445835dc6ce76acf4675093929",
+          "bytes": 188430,
+          "source_png": "express-cabin.png",
+          "source_sha256": "82f04fdf82feeb2252b9036d945e9fe7fbbc51eb6c9276d41fd7bf4f1330f0be",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 27.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 12,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-express-scope.webp",
+          "sha256": "755cac2ce6783b85a236618908566025b32dfc2cbc337adff79ee1be3bbcf93e",
+          "bytes": 121226,
+          "source_png": "express-scope.png",
+          "source_sha256": "a4687ba07c99bb413c518b7a1006c5ff41c188ff367a8ffdaaead3c27be79e5a",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 41.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 12,
+          "scoped": true,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-dispatch-slip.webp",
+          "sha256": "cad5ad19de5e1d105ef92438c16d1f091456b3ab7ed03e86f6c17fffbcd690c3",
+          "bytes": 175848,
+          "source_png": "dispatch-slip.png",
+          "source_sha256": "f49c3001c52a9a5a5da113cf4ec49a5cb9464bbb1b26da12ad49c58477eb3986",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 7.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 3,
+          "scoped": false,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-night-vision.webp",
+          "sha256": "eb6ba5c84cbbeb076e0b48490f04d08ff49b9ba7d5a028f143254ef22afa8001",
+          "bytes": 95006,
+          "source_png": "night-vision.png",
+          "source_sha256": "11df86e797ef2de111842916fc23128b888410e4d8519f1f725d41eaf2ec9f1b",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 5.7,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 1,
+          "scoped": true,
+          "state": "playing"
+        },
+        {
+          "file": "screenshot-2360-relay-orders.webp",
+          "sha256": "b0ecfb6a02450e6fccbcc3b16971a4b6b287a87e36d6efe1a40b14b3dc09b94f",
+          "bytes": 130894,
+          "source_png": "relay-orders.png",
+          "source_sha256": "a3bfcf1bbf3fd8599e2addaff74118fedba1081d92d753b9e9716dbd2887e3b6",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "elapsed": 7.0,
+          "method": "Native Godot renderer, staged 2.36.0 macOS release export, unretouched",
+          "mission": 1,
+          "scoped": false,
+          "state": "briefing"
+        }
+      ],
+      "archived_on": "2026-11-27",
+      "displayed": false
     }
   ]
 }

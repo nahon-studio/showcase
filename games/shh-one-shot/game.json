@@ -29,24 +29,44 @@
       "caption": "Sneak & Snipe: Through the Scope — 타이틀 화면"
     },
     {
+      "src": "games/shh-one-shot/screenshot-2360-patrol-crossing.webp",
+      "alt": "밤의 부두에서 컨테이너 사이로 경비가 지나가는 1인칭 화면",
+      "caption": "안개 속의 항만 — 컨테이너 모퉁이를 돌자 순찰 경비가 나타납니다."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-crossing-traffic.webp",
+      "alt": "옥상 난간 너머로 버스가 가로지르는 한낮의 교차로",
+      "caption": "정오의 빨간 선 — 교차로에 버스가 들어서며 맞은편 거리를 가립니다."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-rail-broadside.webp",
+      "alt": "객실 창문 바로 옆으로 붉은 띠를 두른 병행 열차가 지나가는 장면",
+      "caption": "터널 끝의 급행 — 창틀 사이로 옆 선로의 객차가 나타납니다."
+    },
+    {
       "src": "games/shh-one-shot/screenshot-2360-convoy-scope.webp",
       "alt": "차량 스코프에서 선행 트럭의 탑승자들을 확대 관측하는 화면",
       "caption": "사이렌 뒤에서 — 흔들리는 호송 차량에서 인물들의 완장과 행동을 대조합니다."
     },
     {
-      "src": "games/shh-one-shot/screenshot-2360-city-escort.webp",
-      "alt": "한낮의 도심 교차로와 맞은편 건물을 내려다보는 옥상 경호 임무",
-      "caption": "유리 우산 — 요원이 교차로를 벗어나기 전까지 주변의 위협을 식별하세요."
+      "src": "games/shh-one-shot/screenshot-2360-industry-catwalk.webp",
+      "alt": "야간 산업지구의 높은 연결 발판에서 난간과 건너편 발판을 바라보는 장면",
+      "caption": "마지막 불빛 — 높은 발판을 따라 야간 산업지구를 건넙니다."
     },
     {
-      "src": "games/shh-one-shot/screenshot-2360-night-infiltration.webp",
-      "alt": "컨테이너와 순찰 경비가 있는 야간 부두의 1인칭 잠입 화면",
-      "caption": "부두의 약속 — 항만 조명과 순찰 사이를 지나 연락책의 탈출로를 확보하세요."
+      "src": "games/shh-one-shot/screenshot-2360-city-scope.webp",
+      "alt": "도심의 트럭과 여러 인물이 스코프 안에 들어온 경호 임무",
+      "caption": "유리 우산 — 교차로의 트럭과 인물들이 한 시야에 들어옵니다."
     },
     {
-      "src": "games/shh-one-shot/screenshot-2360-express-cabin.webp",
-      "alt": "좌석과 창틀 너머로 나란히 움직이는 열차를 관측하는 객실",
-      "caption": "터널 끝의 급행 — 달리는 열차에서 옆 선로의 움직임을 추적합니다."
+      "src": "games/shh-one-shot/screenshot-2360-convoy-fps.webp",
+      "alt": "달리는 차량에 탄 채 앞차와 길 양쪽의 건물을 바라보는 1인칭 시점",
+      "caption": "사이렌 뒤에서 — 호송 차량을 따라 도심 도로를 달립니다."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-harbor-power.webp",
+      "alt": "부두 화물 통로의 푸른 배전반을 작동시키는 1인칭 장면",
+      "caption": "안개 속의 항만 — 부두의 배전반에 손을 대고 정전이 시작되기를 기다립니다."
     },
     {
       "src": "games/shh-one-shot/screenshot-2360-express-scope.webp",
@@ -54,19 +74,34 @@
       "caption": "터널 끝의 급행 — 열차 창틀 사이로 드러나는 행동 단서와 전송 시한을 함께 살피세요."
     },
     {
-      "src": "games/shh-one-shot/screenshot-2360-dispatch-slip.webp",
-      "alt": "1인칭 시점으로 내려다본 위장 배차표와 기록 회수 안내",
-      "caption": "정오의 교차로 — 옥상에 놓인 배차표를 탈출 지점까지 가져가면 다음 지령의 정보 출처가 달라집니다."
+      "src": "games/shh-one-shot/screenshot-2360-rail-handoff.webp",
+      "alt": "탈출 시간이 줄어드는 동안 열차 연결부의 회수 지점을 바라보는 모습",
+      "caption": "다음 역은 한 발 — 임무가 끝나도 열차는 달립니다. 남은 시간 안에 객실 회수 지점에 도착하세요."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-deployment-plan.webp",
+      "alt": "본부에서 산업지구의 진입 경로와 관측 지점을 지도 위에 표시한 작전 계획 화면",
+      "caption": "작전 준비 — 본부 지도에서 진입로와 관측 위치를 선택합니다."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-range-moving-plate.webp",
+      "alt": "사격장에서 움직이는 차폐판 옆으로 드러난 표적을 스코프로 보는 훈련 화면",
+      "caption": "사격 훈련 — 가림판 사이로 연습 표적이 드러나는 순간을 익힙니다."
     },
     {
       "src": "games/shh-one-shot/screenshot-2360-night-vision.webp",
       "alt": "야간투시 스코프에 비친 통신 기지와 식별 상태 표시",
-      "caption": "침묵의 송신탑 — 어둠 속 움직임을 찾고 완장의 색을 확인할 때는 일반 시야로 돌아오세요."
+      "caption": "야간투시 — 통신 기지의 어두운 윤곽이 녹색 스코프에 드러납니다."
     },
     {
-      "src": "games/shh-one-shot/screenshot-2360-relay-orders.webp",
-      "alt": "산악 통신 기지의 작전도, 표적 자료와 서울에서 회수한 서류가 함께 보이는 무전 지령서",
-      "caption": "침묵의 송신탑 — 서울 배차표에서 찾은 호출 부호가 산악 중계기지로 이어집니다."
+      "src": "games/shh-one-shot/screenshot-2360-dispatch-slip.webp",
+      "alt": "1인칭 시점으로 내려다본 위장 배차표와 기록 회수 안내",
+      "caption": "현장 기록 — 옥상의 위장 배차표를 회수해 탈출하면 다음 지령의 정보 출처가 달라집니다."
+    },
+    {
+      "src": "games/shh-one-shot/screenshot-2360-case-network.webp",
+      "alt": "본부 작전망에서 완료한 작전, 선택한 지역, 회수한 증거를 확인하는 수사 기록 화면",
+      "caption": "작전망 — 완료한 임무와 회수한 기록을 함께 보며 다음 행선지를 확인합니다."
     }
   ],
   "about": [

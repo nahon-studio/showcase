@@ -34,11 +34,6 @@
       "caption": "생존 전투 · 무기와 서포터의 협공 · v0.49.16"
     },
     {
-      "src": "games/occult-survivor/screenshot-20-escort.webp",
-      "alt": "구조 드론, 대피 방향, 호위 이동률이 전투와 함께 보이는 안개 묘역",
-      "caption": "지역 미션 · 전투 중 구조 드론 호위 · v0.49.16"
-    },
-    {
       "src": "games/occult-survivor/screenshot-06-magic.webp",
       "alt": "폐허의 병원에서 몰려오는 적을 메테오와 푸른 마력으로 공격하는 전투 화면",
       "caption": "마법 전투 · 메테오와 낙뢰로 적 무리 돌파 · 2026.10 개발 화면"
@@ -49,54 +44,14 @@
       "caption": "보스전 · 웨이브에서 준비한 약화와 위험 신호 · v0.49.16"
     },
     {
-      "src": "games/occult-survivor/screenshot-05-awakening.webp",
-      "alt": "전투 중 세 가지 성장 선택지가 세로로 배열된 화면",
-      "caption": "전투 성장 · 세 가지 각성 효과 비교 · v0.49.16"
+      "src": "games/occult-survivor/screenshot-20-escort.webp",
+      "alt": "구조 드론, 대피 방향, 호위 이동률이 전투와 함께 보이는 안개 묘역",
+      "caption": "지역 미션 · 전투 중 구조 드론 호위 · v0.49.16"
     },
     {
-      "src": "games/occult-survivor/screenshot-19-reward-confirm.webp",
-      "alt": "선택한 성장 보상을 밝은 원형 효과와 함께 확인하는 화면",
-      "caption": "보상 확인 · 선택 효과와 다음 선택 · v0.49.16"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-08-supports.webp",
-      "alt": "수호 결계등·미행 정찰기·잿빛 사냥개 세 동료의 역할과 지원 교체·훈련·승급을 확인하는 서포터 편성 화면",
-      "caption": "서포터 편성 · 방어막·비행체·생물형의 역할 조합 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-09-allies.webp",
-      "alt": "사냥꾼과 아군 표식이 붙은 결계등·정찰기·늑대가 악령 사이에서 함께 싸우는 화면",
-      "caption": "아군 협공 · 방어막과 비행 장비, 늑대 동료 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-03-equipment.webp",
-      "alt": "착용 중인 장비와 장비 변경, 강화 및 승급을 보여 주는 무기고",
-      "caption": "무기고 · 장비 착용과 성장 · v0.49.16"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-10-growth.webp",
-      "alt": "현재 공격력·체력과 여섯 능력치 투자 항목의 다음 성장 효과·비용을 확인하는 화면",
-      "caption": "능력치 투자 · 다음 성장 수치와 비용 비교 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-18-loadout.webp",
-      "alt": "현재 장비와 출격 액티브 스킬 두 칸, 세 가지 저장 구성의 저장·적용 버튼이 보이는 무장 구성 화면",
-      "caption": "무장 구성 · 장비와 출격 스킬 저장·적용 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-11-shelter.webp",
-      "alt": "쉘터 시설 아래 미수령 보급과 다음 스테이지의 이름 및 출격 비용이 표시된 화면",
-      "caption": "쉘터 · 휴식, 미수령 보급, 다음 출격 · v0.49.16"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-21-chapter.webp",
-      "alt": "묘역 보스 처치 뒤 해금된 안개 묘역 이야기의 그림과 본문",
-      "caption": "지역 이야기 · 보스 클리어 후 다음 지역 단서 · v0.49.16"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-22-chapter-supply.webp",
-      "alt": "챕터 보급의 무장·방어구·재료 선택과 나중에 선택 버튼이 보이는 화면",
-      "caption": "챕터 보급 · 수령하거나 쉘터에서 나중에 확인 · v0.49.16"
+      "src": "games/occult-survivor/screenshot-23-grid-overload.webp",
+      "alt": "적과 마력 이펙트가 뒤엉킨 전장에서 지역 기믹을 발동하고 보스와 싸우는 장면",
+      "caption": "본편 27스테이지 · 지역 기믹 발동 후 보스전 · 2026.11 개발 화면"
     },
     {
       "src": "games/occult-survivor/screenshot-12-defense.webp",
@@ -104,36 +59,56 @@
       "caption": "쉘터 방어 · 코어와 방어 시설 수호 · 2026.10 개발 화면"
     },
     {
-      "src": "games/occult-survivor/screenshot-02-preparation.webp",
-      "alt": "안개 묘역의 진입 스테이지와 보스·웨이브 정보를 보여 주는 작전실",
-      "caption": "출격 준비 · 지역, 목표, 보스 확인 · v0.49.16"
+      "src": "games/occult-survivor/screenshot-24-weekly-lightning.webp",
+      "alt": "주간 도전의 돌벽 사이에서 푸른 낙뢰가 적 무리 한가운데에 떨어지는 순간",
+      "caption": "주간 도전 · 적 무리에 내리꽂히는 낙뢰 · 2026.11 개발 화면"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-25-weekly-boss.webp",
+      "alt": "주간 도전 보스와 적 무리 사이에서 선홍색 위험 신호와 푸른 공격이 겹친 장면",
+      "caption": "주간 도전 · 보스의 위험 신호와 집중 공격 · 2026.11 개발 화면"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-26-expedition-storm.webp",
+      "alt": "심층 원정 전장에서 사냥꾼 주위의 적 여러 마리가 넓게 퍼지는 마력에 맞는 순간",
+      "caption": "심층 원정 · 광역 스킬로 적 무리 제압 · 2026.11 개발 화면"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-27-late-wave.webp",
+      "alt": "후반 본편에서 사냥꾼이 적에게 포위된 채 서포터와 함께 싸우는 장면",
+      "caption": "후반 본편 · 포위를 돌파하는 사냥꾼과 서포터 · 2026.11 개발 화면"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-03-equipment.webp",
+      "alt": "착용 중인 장비와 장비 변경, 강화 및 승급을 보여 주는 무기고",
+      "caption": "무기고 · 장비 착용과 성장 · v0.49.16"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-05-awakening.webp",
+      "alt": "전투 중 세 가지 성장 선택지가 세로로 배열된 화면",
+      "caption": "전투 성장 · 세 가지 각성 효과 비교 · v0.49.16"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-08-supports.webp",
+      "alt": "수호 결계등·미행 정찰기·잿빛 사냥개 세 동료의 역할과 지원 교체·훈련·승급을 확인하는 서포터 편성 화면",
+      "caption": "서포터 편성 · 방어막·비행체·생물형의 역할 조합 · 2026.10 개발 화면"
+    },
+    {
+      "src": "games/occult-survivor/screenshot-11-shelter.webp",
+      "alt": "쉘터 시설 아래 미수령 보급과 다음 스테이지의 이름 및 출격 비용이 표시된 화면",
+      "caption": "쉘터 · 휴식, 미수령 보급, 다음 출격 · v0.49.16"
     },
     {
       "src": "games/occult-survivor/screenshot-13-world.webp",
       "alt": "도시 탐사 지도에서 지역별 스테이지 진행도와 침수 항구의 작전 범위를 확인하는 화면",
       "caption": "도시 탐사 · 지역 진행도와 다음 활동 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-16-trophies.webp",
-      "alt": "붕괴 대성당의 보스 처치 진행도와 무기 각인·서포터 광휘·쉘터 전시품의 수집 및 장착 상태 화면",
-      "caption": "지역 수집 · 보스 전리품과 수집 보상 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-17-expedition.webp",
-      "alt": "심층 원정에서 확보한 보상과 세 가지 경로의 위험도·성장 수치, 안전 귀환 선택이 보이는 화면",
-      "caption": "심층 원정 · 위험별 경로 선택과 안전 귀환 · 2026.10 개발 화면"
-    },
-    {
-      "src": "games/occult-survivor/screenshot-14-memory.webp",
-      "alt": "잔향 복원실에서 유나의 기억과 동행 능력, 기억 조각을 사용하는 공명 성장·각인 강화를 확인하는 화면",
-      "caption": "기억 복원 · 동행 능력과 각인 성장 · 2026.10 개발 화면"
     }
   ],
   "about": [
     "오컬트 서바이버(OCCULT SURVIVOR)는 현대 아포칼립스를 배경으로 한 싱글 플레이 생존 액션입니다. 총기와 검, 각성한 마력으로 악령과 변이체를 사냥하고 폐허의 도시에서 사라진 기억을 되찾으세요.",
     "이동과 회피에 집중하는 자동 공격에 직접 발동하는 스킬을 더했습니다. 낙뢰와 메테오, 보호막과 도약을 조합하고, 뒤따르는 동료·비행 장비·고정 포탑·설치 트랩으로 전장을 구성하세요. 전투 중 고르는 세 가지 성장 선택지는 다음 사냥의 전술을 바꿉니다.",
     "11개 지역에 걸친 본편 99스테이지에서 웨이브와 지역 보스를 돌파하세요. 전리품으로 장비를 장착·강화·승급하고, 전투 사이에는 쉘터에서 시설과 방어 배치를 정비합니다. 지역의 봉인과 기억에 담긴 단서를 살피는 탐색 요소도 함께 이어집니다.",
-    "Android 버전을 개발 중이며 정식 출시일은 추후 공개합니다. 갤러리는 2026년 10월 27일 개발 소스를 임시 빌드해 실제 Android 렌더러로 촬영한 화면입니다. 일반 저장과 분리된 촬영용 진행 상태를 사용했습니다. 대표 이미지는 게임에 사용 중인 키 아트를 편집한 소개 이미지입니다."
+    "Android 버전을 개발 중이며 정식 출시일은 추후 공개합니다. 갤러리는 2026년 10~11월 Android 개발 버전의 타이틀과 플레이·기능 화면입니다. 일부 장면은 촬영용으로 준비한 진행 상태에서 기록했습니다. 대표 이미지는 게임에 사용 중인 키 아트를 편집한 소개 이미지입니다."
   ],
   "features": [
     "현대 총기·검술과 낙뢰·메테오·보호막·이동 스킬을 조합하는 생존 전투",

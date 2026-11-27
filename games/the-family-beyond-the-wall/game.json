@@ -24,109 +24,84 @@
   ],
   "screenshots": [
     {
-      "src": "games/the-family-beyond-the-wall/screen-0618-01-title.webp",
-      "alt": "어두운 집과 인물 실루엣을 배경으로 영문·한글 제목, 헤드폰 로고와 시작 메뉴가 보인다.",
-      "caption": "타이틀 · SOUNDS & VIBES ONLY"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-01-title.webp",
+      "alt": "어두운 집을 배경으로 영문 제목과 헤드폰 로고, 새 게임 메뉴가 보이는 타이틀 화면",
+      "caption": "The Family Beyond the Wall · 벽 너머의 가족"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0618-17-audio-focus.webp",
-      "alt": "검은 탐색 화면 중앙에 작은 헤드폰 아이콘과 ‘소리에 집중하세요’ 안내가 나타난다.",
-      "caption": "소리 탐험 · 어둠 속 작은 감각 안내"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-foyer.webp",
+      "alt": "현관에 들어서면 천장등 아래 탁자가 있고 왼쪽 벽에 긴 괘종시계가 서 있다.",
+      "caption": "현관 · 집 안으로 들어서는 첫 시선"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-08-direct-signal.webp",
-      "alt": "‘손안의 약속’에서 긴 신호가 준비되어 버튼을 놓아도 된다는 안내가 표시된다. 보낸 신호 수와 선택 입력으로 바꾸는 메뉴가 보인다.",
-      "caption": "직접 보내는 손신호 · 길게 눌렀다가 놓기"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-17-audio-focus.webp",
+      "alt": "어두운 화면 가운데 작은 헤드폰과 ‘소리에 집중하세요’라는 안내가 떠 있다.",
+      "caption": "어둠 속 탐험 · 소리가 들리는 방향에 귀 기울이기"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-03-navigation.webp",
-      "alt": "화면 보조를 켠 탐색 장면. 가장자리에 현재 위치·방향·첫 목표와 이동·회전·주변 듣기 조작이 표시된다.",
-      "caption": "직접 이동 · 현재 위치와 목표 확인"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-clock.webp",
+      "alt": "나무 시계의 둥근 문자판 아래로 긴 추와 금속 막대가 내려와 있다.",
+      "caption": "괘종시계 · 벽 가까이에서 듣는 시곗소리"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-23-clock-experiment.webp",
-      "caption": "시계 퍼즐 · 연결을 시험하고 반응 비교하기",
-      "alt": "시계 연결 실험 메뉴. 반응 듣기, 말로 묘사, 연결 시험을 고를 수 있다."
+      "src": "games/the-family-beyond-the-wall/screen-20261127-hall.webp",
+      "alt": "천장등이 이어진 좁은 복도 양옆에 가구가 놓여 있고 멀리 문이 보인다.",
+      "caption": "복도 · 불빛 사이로 이어지는 통로"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-24-music-box-experiment.webp",
-      "caption": "오르골 퍼즐 · 두 연결의 소리 조사하기",
-      "alt": "오르골의 연결을 시험하는 메뉴. 반응 비교와 말로 묘사, 덮개 조작을 선택할 수 있다."
+      "src": "games/the-family-beyond-the-wall/screen-20261127-gramophone.webp",
+      "alt": "서재의 축음기 나팔이 벽에 커다란 꽃 모양 그림자를 드리운다.",
+      "caption": "서재 · 나팔의 그림자가 드리운 축음기"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-09-wall-puzzle.webp",
-      "alt": "보낸 신호가 표시된 ‘손안의 약속’ 화면. 좌우 응답 선택과 다시 듣기, 말로 설명하는 메뉴가 보인다.",
-      "caption": "손신호 퍼즐 · 돌아오는 응답 듣기"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-sewing.webp",
+      "alt": "타일 벽 앞 낡은 재봉틀에 흰 천이 걸려 있고 왼편에는 빈 탁자가 있다.",
+      "caption": "부엌 한쪽 · 흰 천이 걸린 재봉틀"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-27-bond.webp",
-      "caption": "손끝의 교감 · 잠시 머물러 답하기",
-      "alt": "소매를 잡고 기다리는 손에 짧게 또는 길게 쥐어 답하는 교감 화면. 시간 제한이나 정해진 조합이 없다는 안내가 보인다."
+      "src": "games/the-family-beyond-the-wall/screen-20261127-pump.webp",
+      "alt": "청록색 타일 벽 앞 펌프의 손잡이와 그 아래 둥근 물받이가 보인다.",
+      "caption": "급수 펌프 · 금속 손잡이와 물받이"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-25-partial-replay.webp",
-      "caption": "비교 재청취 · 필요한 소리만 다시 듣기",
-      "alt": "첫 번째 소리, 두 번째 소리, 두 반응 비교를 각각 고를 수 있는 재청취 메뉴."
+      "src": "games/the-family-beyond-the-wall/screen-20261127-recorder.webp",
+      "alt": "낡은 녹음기가 타일 방 한쪽 나무 탁자에 놓여 있다.",
+      "caption": "녹음기 · 작은 탁자 위에 남은 목소리"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-26-help-menu.webp",
-      "caption": "필요한 도움 · 길 안내와 조작을 따로 선택",
-      "alt": "목적지 길 안내, 현재 조작 방법, 비교할 대상을 확인하는 항목이 나뉜 도움 메뉴."
+      "src": "games/the-family-beyond-the-wall/screen-20261127-companion.webp",
+      "alt": "어두운 서재에서 긴 머리의 인물이 축음기 앞에 서 있고 바닥에 긴 그림자가 드리운다.",
+      "caption": "서재에서 마주친 사람"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-05-direction-practice.webp",
-      "alt": "왼쪽·오른쪽 응답과 다시 듣기를 선택하는 튜토리얼. 헤드폰 아이콘이 소리에 집중하도록 안내한다.",
-      "caption": "좌우 듣기 연습 · 소리의 방향 익히기"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-machine.webp",
+      "alt": "천장 배관 아래로 둥근 계기판이 달린 장치와 큰 금속 관이 보인다.",
+      "caption": "기계실 · 계기판 뒤로 이어지는 배관"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-07-pad-long-practice.webp",
-      "alt": "패드 확인 버튼으로 긴 신호를 연습하는 화면. 선택 입력으로 전환하거나 연습을 건너뛸 수 있다.",
-      "caption": "패드 연습 · 길게 누르기와 손 떼기"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-notebook.webp",
+      "alt": "단서 다시 듣기 목록에서 휴대 중인 오르골을 선택하자 덮개 상태와 조작법이 표시된다.",
+      "caption": "단서 수첩 · 휴대한 오르골의 상태와 발견 기록"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-18-untimed-signals.webp",
-      "alt": "짧게 쥐기와 길게 쥐기를 메뉴에서 선택하는 손신호 화면. 다시 보내기와 직접 누르기로 전환하는 항목도 보인다.",
-      "caption": "입력 대안 · 시간 제한 없이 짧게·길게 선택"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-scan.webp",
+      "alt": "주변 탐색 메뉴에 현재 묶음 다시 듣기, 다음 묶음 듣기와 근처 물건이 나열된다.",
+      "caption": "주변 탐색 · 현재 위치에서 가까운 물건 찾기"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-06-vibration-fallback.webp",
-      "alt": "진동을 느끼기 어려울 때 접촉음과 화면 설명으로 진행할 수 있다는 안내와 진동·방향 연습 메뉴.",
-      "caption": "진동 대안 · 접촉음과 화면 설명"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-memory.webp",
+      "alt": "기억한 소리 다시 듣기 메뉴에서 시계와 전달관의 소리를 고를 수 있다.",
+      "caption": "소리 기억 · 이미 조사한 두 소리 이어 듣기"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-11-sensory-options.webp",
-      "alt": "음성 안내, 짧은 안내, 목소리 출처, 자동 음성 힌트를 각각 켜고 끄는 설정 화면.",
-      "caption": "감각 설정 · 음성 안내와 자동 힌트 조절"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-08-direct-signal.webp",
+      "alt": "손안의 약속 화면에 긴 신호가 준비되었고 이제 버튼을 놓아도 된다는 안내가 표시된다.",
+      "caption": "손안의 약속 · 버튼을 누르고 놓아 직접 보내는 손신호"
     },
     {
-      "src": "games/the-family-beyond-the-wall/screen-0637-12-voice-speed.webp",
-      "alt": "음성 속도가 1.25배로 선택된 설정 화면. 손신호 입력 방식, 게임 음량, 안내 음량도 조절할 수 있다.",
-      "caption": "음성 설정 · 속도와 음량 조절"
-    },
-    {
-      "src": "games/the-family-beyond-the-wall/screen-0637-13-languages.webp",
-      "alt": "언어 선택 목록에서 번체 중국어가 선택되어 있다. 메뉴·이야기·음성 전환 안내가 보인다.",
-      "caption": "언어 설정 · 간체·번체 중국어 포함 7개 언어"
-    },
-    {
-      "src": "games/the-family-beyond-the-wall/screen-0637-02-prologue.webp",
-      "alt": "낡은 집의 현관을 배경으로 프롤로그 본문과 집 안으로 들어가는 선택이 표시된다.",
-      "caption": "프롤로그 · 가족의 목소리가 들리는 문 앞"
-    },
-    {
-      "src": "games/the-family-beyond-the-wall/screen-0637-19-contact-clue.webp",
-      "alt": "어두운 탐색 화면 위에 점검문의 목소리·손의 반응과 연결을 조사하는 메뉴가 표시된다.",
-      "caption": "물건 조사 · 점검문의 소리와 접촉"
-    },
-    {
-      "src": "games/the-family-beyond-the-wall/screen-0637-20-machine-room.webp",
-      "alt": "머리카락으로 얼굴을 가린 인물과 나팔, 릴, 건반, 천장 배관이 있는 방. 게임 옵션에서 키 안내 창을 끈 촬영이다.",
-      "caption": "공간의 분위기 · 어두운 방과 낡은 장치"
-    },
-    {
-      "src": "games/the-family-beyond-the-wall/screen-0637-16-visual-inspection.webp",
-      "alt": "나무 벽 옆 축음기를 가까이 조사하는 장면. 화면 구석에 기록 조사 창이 표시된다.",
-      "caption": "공간 조사 · 축음기 가까이 살펴보기"
+      "src": "games/the-family-beyond-the-wall/screen-20261127-23-clock-experiment.webp",
+      "alt": "시계 퍼즐의 조사 창에 연결 반응 비교와 두 연결을 시험하는 항목이 보인다.",
+      "caption": "퍼즐 조사 · 소리를 비교하고 시험할 연결 고르기"
     }
   ],
   "about": [

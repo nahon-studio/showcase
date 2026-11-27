@@ -24,194 +24,84 @@
   ],
   "screenshots": [
     {
-      "src": "games/magical-toy-match/20261027-home.webp",
-      "caption": "한국어 타이틀 · 원정 작업대와 캠페인",
-      "alt": "태엽 원정 작업대 이미지와 일반 스테이지 시작 버튼이 있는 최신 홈"
+      "src": "games/magical-toy-match/gallery-20261127-01-title.webp",
+      "caption": "매지컬 토이 매치",
+      "alt": "햇살이 드는 놀이방의 태엽 기관차 옆에 놓인 한글 게임 로고"
     },
     {
-      "src": "games/magical-toy-match/20261027-expedition-play.webp",
-      "caption": "태엽 원정 · 작업대에서 장치 가동",
-      "alt": "작업대 배경, 동력·발열·조립 목표와 증폭기·드릴·프레스 편성"
+      "src": "games/magical-toy-match/gallery-20261127-02-first-match.webp",
+      "caption": "첫 퍼즐 · 랜턴 수집",
+      "alt": "스테이지 1의 여섯 줄 퍼즐판 위에 랜턴 목표와 남은 이동 횟수가 보인다"
     },
     {
-      "src": "games/magical-toy-match/20261027-expedition-aim.webp",
-      "caption": "태엽 원정 · 제거 범위 미리보기",
-      "alt": "선택한 칸을 중심으로 드릴과 프레스의 제거 범위를 표시한 원정"
+      "src": "games/magical-toy-match/gallery-20261127-03-expedition.webp",
+      "caption": "태엽 원정 · 동력 충전",
+      "alt": "원정 1구역에서 모은 동력과 조립 목표, 증폭기·드릴·프레스가 퍼즐판과 함께 보인다"
     },
     {
-      "src": "games/magical-toy-match/v2661-04-expedition-draft.webp",
-      "caption": "구역 완료 · 새 설계도 선택",
-      "alt": "첫 구역을 완료하고 냉각기·도장·축전기 중 한 장을 고르는 화면"
+      "src": "games/magical-toy-match/gallery-20261127-04-magnet-chain.webp",
+      "caption": "자석 연쇄 · 분리 구역",
+      "alt": "스테이지 18에서 자석 효과가 빈 공간을 건너 오른쪽 위 섬의 조각까지 터뜨린다"
     },
     {
-      "src": "games/magical-toy-match/v2661-05-expedition-route.webp",
-      "caption": "다음 경로 · 부품 창고와 실험실",
-      "alt": "새 설계도를 얻은 뒤 기본 경로와 높은 목표의 실험실을 비교하는 화면"
+      "src": "games/magical-toy-match/gallery-20261127-05-boss.webp",
+      "caption": "보스전 · 나무 상자",
+      "alt": "스테이지 10의 목표 점수 아래 내구도가 적힌 나무 상자 네 개가 놓여 있다"
     },
     {
-      "src": "games/magical-toy-match/20261027-expedition-loadout.webp",
-      "caption": "설계도 편성 · 효과와 범위 예시",
-      "alt": "증폭기·드릴·프레스의 비용과 가동 효과, 제거 범위 예시를 보여주는 편성창"
+      "src": "games/magical-toy-match/gallery-20261127-06-wave.webp",
+      "caption": "물결 마법 · 가로와 세로",
+      "alt": "스테이지 106의 퍼즐판 위에 물결 마법으로 제거할 기준 칸을 고르라는 안내가 보인다"
     },
     {
-      "src": "games/magical-toy-match/20261027-expedition-late.webp",
-      "caption": "후반 원정 · 비정형 보드와 장애물",
-      "alt": "장난감 작업대 위의 비정형 퍼즐판과 상자·얼음 장애물이 있는 원정 4구역"
+      "src": "games/magical-toy-match/gallery-20261127-07-chain-rooms.webp",
+      "caption": "연쇄 구역 · 나뉜 퍼즐판",
+      "alt": "스테이지 27에서 빈 열로 갈라진 퍼즐판에 자석과 나무 상자, 얼음이 보인다"
     },
     {
-      "src": "games/magical-toy-match/v2661-08-blueprint-library.webp",
-      "caption": "설계도 도감 · 발견과 수집",
-      "alt": "발견한 설계도 6종과 아직 발견하지 못한 설계도를 보여 주는 도감"
+      "src": "games/magical-toy-match/gallery-20261127-08-aim.webp",
+      "caption": "태엽 원정 · 장치 조준",
+      "alt": "원정 3구역의 퍼즐판에 선택한 칸과 드릴·프레스의 발동 번호가 겹쳐 표시된다"
     },
     {
-      "src": "games/magical-toy-match/20261027-combination-stamps.webp",
-      "caption": "조합 도장 · 새로운 순서로 완주",
-      "alt": "획득한 조합 도장, 다음 추천 조합과 설계도 수집, 완료 기록"
+      "src": "games/magical-toy-match/gallery-20261127-09-diamond.webp",
+      "caption": "다이아몬드 보드 · 랜턴 수집",
+      "alt": "스테이지 151에서 모서리가 잘린 보드 안의 랜턴을 이끼와 먼지 덮개 사이에서 모은다"
     },
     {
-      "src": "games/magical-toy-match/20261027-expedition-lobby.webp",
-      "caption": "원정 안내 · 매치, 연결, 조립",
-      "alt": "가동 순서와 설계도 수집을 안내하는 태엽 원정 로비"
+      "src": "games/magical-toy-match/gallery-20261127-10-time-bomb.webp",
+      "caption": "시한폭탄 · 남은 턴",
+      "alt": "스테이지 199의 가로 장애물 줄 가운데 시한폭탄의 남은 턴이 보인다"
     },
     {
-      "src": "games/magical-toy-match/v2661-10-tutorial.webp",
-      "caption": "첫 교환 · 튜토리얼",
-      "alt": "같은 사물 세 개를 맞추는 첫 안내와 교환할 두 칸을 강조한 퍼즐"
+      "src": "games/magical-toy-match/gallery-20261127-11-hourglass.webp",
+      "caption": "모래시계 보드 · 열쇠 수집",
+      "alt": "스테이지 882의 잘록한 퍼즐판에 열쇠와 자석, 시한폭탄이 함께 놓여 있다"
     },
     {
-      "src": "games/magical-toy-match/v2661-11-campaign.webp",
-      "caption": "캠페인 · 사물 수집 퍼즐",
-      "alt": "랜턴 수집 목표, 남은 이동과 팽이 특수 블록이 보이는 첫 스테이지"
+      "src": "games/magical-toy-match/gallery-20261127-12-blueprints.webp",
+      "caption": "설계도 선택",
+      "alt": "첫 구역을 끝낸 뒤 직조기·도장·축전기 중 다음 구역에 쓸 설계도를 고른다"
     },
     {
-      "src": "games/magical-toy-match/v2661-12-special-blocks.webp",
-      "caption": "특수 장난감 · 팽이와 도미노",
-      "alt": "모서리가 비어 있는 보드에 팽이·도미노와 얼음·석재 벽이 놓인 스테이지"
+      "src": "games/magical-toy-match/gallery-20261127-13-map.webp",
+      "caption": "진행 지도",
+      "alt": "기차 다리 지역의 길을 따라 완료한 181번과 도전할 182번, 잠긴 스테이지가 이어져 있다"
     },
     {
-      "src": "games/magical-toy-match/v2661-13-magic.webp",
-      "caption": "플레이 중 마법 · 효과와 마력",
-      "alt": "퍼즐 위에 망치·물결·이동 추가의 효과와 마력 비용을 표시한 선택 창"
+      "src": "games/magical-toy-match/gallery-20261127-14-equipment.webp",
+      "caption": "장비 · 도구 편성",
+      "alt": "상단에는 장착한 네 가지 도구가, 아래에는 보유한 여섯 가지 도구가 표시된다"
     },
     {
-      "src": "games/magical-toy-match/v2661-14-boss-crates.webp",
-      "caption": "보스 목표 · 나무 상자",
-      "alt": "보스 목표 6375와 이동 31회, 내구도 2의 나무 상자들이 보이는 스테이지 10"
+      "src": "games/magical-toy-match/gallery-20261127-15-collection.webp",
+      "caption": "장난감 컬렉션 · 로봇",
+      "alt": "완성된 노란 로봇과 작동·완성 연출 버튼이 보이는 장난감 컬렉션"
     },
     {
-      "src": "games/magical-toy-match/v2661-15-obstacle-moss.webp",
-      "caption": "이끼 장애물 · 계단형 보드",
-      "alt": "한쪽이 비어 있는 보드의 이끼와 장애물 내구도 표시"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-16-obstacle-seal.webp",
-      "caption": "색 봉인 · 세로형 보드",
-      "alt": "세로로 긴 보드에서 봉인·얼음·벽과 특수 장난감을 함께 표시한 화면"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-17-obstacle-fog.webp",
-      "caption": "먼지 덮개 · 복합 장애물",
-      "alt": "넓은 보드에 먼지 덮개와 여러 종류의 장애물이 놓인 스테이지 151"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-18-obstacle-bomb.webp",
-      "caption": "시한폭탄 · 분기형 보드",
-      "alt": "중앙 위쪽이 비어 있는 보드와 남은 턴 숫자가 적힌 시한폭탄"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-19-map.webp",
-      "caption": "진행 지도 · 다음 스테이지",
-      "alt": "지역 7 기차 다리의 완료 기록, 다음 목표와 잠긴 스테이지 경로"
-    },
-    {
-      "src": "games/magical-toy-match/20261027-repeat-journey.webp",
-      "caption": "반복 여행 · 다섯 판마다 새 경로",
-      "alt": "900스테이지 이후 성장과 수집을 유지하며 이어지는 다섯 스테이지 반복 경로"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-20-collection.webp",
-      "caption": "장난감 수집 · 단계별 조립",
-      "alt": "완성 8종과 다음 장난감 블록 타워의 부품 비용·해금 조건"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-21-toy-complete.webp",
-      "caption": "장난감 완성 · 능력 해금",
-      "alt": "블록 집 완성 모습과 획득 보상, 팽이 제작 능력 해금 안내"
-    },
-    {
-      "src": "games/magical-toy-match/20261027-toy-abilities.webp",
-      "caption": "장난감 능력 · 추가 효과 선택",
-      "alt": "완성한 장난감 능력의 효과와 필요한 총 마력을 비교해 선택하는 화면"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-22-collection-set.webp",
-      "caption": "수집 세트 · 세 장난감 완성",
-      "alt": "기관차·로봇·블록 집을 모아 완성한 세트와 장난감 마을"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-23-playroom.webp",
+      "src": "games/magical-toy-match/gallery-20261127-16-playroom.webp",
       "caption": "놀이방 · 장난감 전시",
-      "alt": "블록 도시·로봇 선반·기차 레일의 전시 구역과 작동 버튼"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-24-tools.webp",
-      "caption": "도구 장착 · 여섯 가지 도구",
-      "alt": "장착한 네 가지 도구와 랜턴·물뿌리개·태엽시계·가위·우산·마법서"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-25-upgrade.webp",
-      "caption": "도구 강화 · 효과와 비용",
-      "alt": "태엽시계 현재 효과, 다음 효과와 코인 강화 비용을 보여 주는 상세 창"
-    },
-    {
-      "src": "games/magical-toy-match/20261027-spells.webp",
-      "caption": "마법 성장 · 편성과 강화",
-      "alt": "장착한 마법과 마력 비용, 마법 레벨과 편성·강화 안내가 보이는 장비 화면"
-    },
-    {
-      "src": "games/magical-toy-match/20261027-spell-detail.webp",
-      "caption": "마법 강화 · 다음 효과와 비용",
-      "alt": "물결 마법의 현재 효과와 다음 레벨의 마력 비용·강화 가격을 비교하는 상세창"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-27-relics.webp",
-      "caption": "유물 수집 · 장착 효과",
-      "alt": "구리 주전자와 유리 화분의 장착 효과 합계, 수집한 유물과 조각"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-28-story.webp",
-      "caption": "여행 기록 · 완료한 첫 장",
-      "alt": "첫 수리 장의 완료 기록과 복원한 지역 목록"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-29-restoration.webp",
-      "caption": "지역 복원 · 장난감 기차역",
-      "alt": "기차역 복원 완료와 지역 장난감, 탐색·수리·복원 단계"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-30-attendance.webp",
-      "caption": "출석 · 일일·주간 목표",
-      "alt": "7일 출석 보상과 서로 다른 스테이지를 완료하는 일일·주간 목표"
-    },
-    {
-      "src": "games/magical-toy-match/20261027-season.webp",
-      "caption": "조립 시즌 · 점수와 보상 진행",
-      "alt": "시즌 점수와 다음 보상까지 필요한 점수, 첫 클리어·재도전 점수 규칙"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-31-prologue.webp",
-      "caption": "프롤로그 · 멈춘 놀이방",
-      "alt": "기관차와 퍼즐·부품·조립의 진행을 소개하는 프롤로그"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-32-settings.webp",
-      "caption": "옵션 · 언어, 사운드, 연출",
-      "alt": "언어 선택, 조작 안내, 컨트롤러 표시와 음량·진동·연출 설정"
-    },
-    {
-      "src": "games/magical-toy-match/v2661-33-guide.webp",
-      "caption": "플레이 가이드 · 조작과 기능",
-      "alt": "기본 조작과 하트·조립·마법·아이템·장비 안내를 모은 가이드"
+      "alt": "기차 장난감 전시대와 블록 도시·로봇 선반·기차 레일의 전시 구역을 보여 주는 놀이방"
     }
   ],
   "about": [

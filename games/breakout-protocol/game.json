@@ -43,9 +43,49 @@
       "caption": "수감생활 속 조사 · 주변 사물과 사람에게서 다음 단서를 찾으세요."
     },
     {
-      "src": "games/breakout-protocol/screenshot-07-dialogue.webp",
-      "alt": "레온의 인물 정보와 대화·사연 및 조력자·자료 제시 탭, 넓어진 대화 본문과 하단 행동 버튼이 분리된 한국어 대화 화면.",
-      "caption": "인물과 대화 · 사연을 듣고 자료를 제시하며 관계와 증언을 확인하세요."
+      "src": "games/breakout-protocol/screenshot-greenhouse.webp",
+      "alt": "마라가 화분과 급수 설비 사이에서 에밀을 만난다. 옆 복도에는 간수가 서 있다.",
+      "caption": "원예 온실 · 온실에서 일하는 동료에게 말을 걸어 보세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-05-research.webp",
+      "alt": "주황색 수감복을 입은 외계인 님이 정부 비밀 연구시설의 장비와 연구원 사이를 탐색하는 한국어 게임 화면.",
+      "caption": "실험체 N-17 · 이름 대신 번호로 불리는 님의 독립 시나리오."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-night-duty.webp",
+      "alt": "조명이 어두워진 의무실에서 마라가 야간 인계 물품을 들고 이동한다. 복도에는 간수가 있다.",
+      "caption": "소등 후 의무실 · 소등 뒤에는 지정된 길을 따라 인계 물품을 전달하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-04-records.webp",
+      "alt": "어두운 기록 시설에서 수감자가 반사 장치와 황금빛으로 이어진 광선 경로를 조사하는 실제 게임 화면.",
+      "caption": "기록 시설의 장치 · 설비를 관찰하고 직접 작동시키는 환경 퍼즐."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-sewer.webp",
+      "alt": "마라가 물이 고인 어두운 하수로 안에서 배수 장치를 살피고 있다.",
+      "caption": "하수로 · 배수 장치를 살피며 물길을 따라 이동하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-18-flood.webp",
+      "alt": "오스카르가 수몰동의 유입·배수 조절기 앞에 서 있다. 수로와 배수 설비가 보이는 현장 화면.",
+      "caption": "수몰동 배수실 · 조절기에서 물이 빠지는 동안 시설의 상태를 확인하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-17-harbor.webp",
+      "alt": "아미나가 항만의 계류 설비 옆에 서 있다. 부두 위 작업 설비와 주변을 둘러볼 수 있는 현장 화면.",
+      "caption": "항만 검수 부두 · 화물과 계류 장치를 살피고 출항을 준비하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-platform.webp",
+      "alt": "님과 다른 인물들이 신호기와 여객 차량이 있는 승강장에 모여 있다.",
+      "caption": "이송역 승강장 · 승강장에서 동행과 차량 위치를 확인하세요."
+    },
+    {
+      "src": "games/breakout-protocol/screenshot-airport-apron.webp",
+      "alt": "리나와 조종사가 해안 공항에 있다. 열린 계류장 안에 화물기가 서 있고 흰 보행선이 탑승 계단까지 이어진다.",
+      "caption": "해안 공항 · 유도등을 확인한 뒤 보행로를 따라 화물기에 탑승하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-02-inventory.webp",
@@ -53,29 +93,14 @@
       "caption": "소지품과 도구 · 분류된 물건을 살피고, 설명을 펼쳐 사용처를 확인하세요."
     },
     {
+      "src": "games/breakout-protocol/screenshot-07-dialogue.webp",
+      "alt": "레온의 인물 정보와 대화·사연 및 조력자·자료 제시 탭, 넓어진 대화 본문과 하단 행동 버튼이 분리된 한국어 대화 화면.",
+      "caption": "인물과 대화 · 사연을 듣고 자료를 제시하며 관계와 증언을 확인하세요."
+    },
+    {
       "src": "games/breakout-protocol/screenshot-03-deduction.webp",
       "alt": "자료 목록 아래 출처와 원문이 구분되고, 오른쪽에 선택한 두 자료와 세 가지 가설이 배치된 한국어 수사 수첩.",
       "caption": "기록 대조 · 두 자료와 가설을 연결하고 현장에서 확인하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-15-document.webp",
-      "alt": "철제 서류함에서 확보한 출입 기록의 출처와 원문이 보이고 하단에 수사 수첩과 다음 행동 버튼이 있는 현장 조사 화면.",
-      "caption": "원본을 읽는 시간 · 문서의 시각과 표현을 기억하고 다른 단서와 비교하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-12-visitation.webp",
-      "alt": "첫날 기술자의 면회가 열린 화면. 방문자의 사연, 남은 시간, 면회석에서 고를 수 있는 두 가지 답이 표시된다.",
-      "caption": "기술자의 면회 · 찾아온 사람의 말을 듣고 어떤 답을 돌려줄지 정하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-16-life-notes.webp",
-      "alt": "책갈피의 빈자리 선택 미션에서 반환된 책, 화분 아래의 잎, 에밀의 약속을 나란히 읽는 관찰 기록 화면.",
-      "caption": "수감생활의 작은 사건 · 관찰한 흔적과 동료의 말을 연결해 스스로 판단하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-08-schedule.webp",
-      "alt": "2일차 14시의 일과표. 왼쪽에는 운동 시간이 표시되고 오른쪽에는 면회석과 14시 35분 응대 마감이 표시된다.",
-      "caption": "늦어진 면회 · 방문객을 만난 뒤 운동장으로 돌아갈 시간을 확인하세요."
     },
     {
       "src": "games/breakout-protocol/screenshot-09-map.webp",
@@ -86,46 +111,6 @@
       "src": "games/breakout-protocol/screenshot-10-escape-plan.webp",
       "alt": "여러 탈출 경로를 고르는 사이드 탭과 하부 집수로 소개, 준비 상태 및 선택형 단계별 도움 버튼이 있는 한국어 탈출 계획 화면.",
       "caption": "탈출 설계 · 경로의 특징과 준비 상태를 비교하세요. 단계별 도움은 필요할 때 펼칩니다."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-17-harbor.webp",
-      "alt": "아미나가 항만의 계류 설비 옆에 서 있다. 부두 위 작업 설비와 주변을 둘러볼 수 있는 현장 화면.",
-      "caption": "항만 검수 부두 · 화물과 계류 장치를 살피고 출항을 준비하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-18-flood.webp",
-      "alt": "오스카르가 수몰동의 유입·배수 조절기 앞에 서 있다. 수로와 배수 설비가 보이는 현장 화면.",
-      "caption": "수몰동 배수실 · 조절기에서 물이 빠지는 동안 시설의 상태를 확인하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-04-records.webp",
-      "alt": "어두운 기록 시설에서 수감자가 반사 장치와 황금빛으로 이어진 광선 경로를 조사하는 실제 게임 화면.",
-      "caption": "기록 시설의 장치 · 설비를 관찰하고 직접 작동시키는 환경 퍼즐."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-13-railway.webp",
-      "alt": "이송역에서 차량 편성 탭을 연 화면. 편성 순서에 따라 여객·화물·의료 차량 카드가 놓이고 각 카드의 픽셀 표식이 보인다.",
-      "caption": "이송역 편성 · 차량 표식을 살피고, 동행 준비와 출발 신호를 확인하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-05-research.webp",
-      "alt": "주황색 수감복을 입은 외계인 님이 정부 비밀 연구시설의 장비와 연구원 사이를 탐색하는 한국어 게임 화면.",
-      "caption": "실험체 N-17 · 이름 대신 번호로 불리는 님의 독립 시나리오."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-06-airport.webp",
-      "alt": "외부 조력자 리나가 화물기와 활주로 설비가 있는 해안 공항을 조사하며 목표와 조사·소지품 버튼이 표시된 한국어 화면.",
-      "caption": "담장 밖의 조력자 · 선착장과 공항을 거쳐 이송 기록을 추적하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-14-submarine.webp",
-      "alt": "나무 부두에서 잠수 기사와 산소 점검 장비를 확인하는 리나, 물 위의 커다란 잠수정, 가장자리 HUD가 보이는 한국어 외부 탐색 화면.",
-      "caption": "외해에서 해저까지 · 산소와 압력을 점검하며 잠수정 여정을 준비하세요."
-    },
-    {
-      "src": "games/breakout-protocol/screenshot-11-collection.webp",
-      "alt": "마라의 클리어와 이보·님의 진행, 미시작 인물 카드, 사건·여정·13개 탈출 경로의 기록 집계를 보여주는 한국어 시나리오 컬렉션.",
-      "caption": "여정을 모으는 컬렉션 · 인물별 진행과 클리어, 탈출 기록을 한눈에 확인하세요."
     }
   ],
   "about": [
